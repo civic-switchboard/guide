@@ -6,13 +6,13 @@ Welcome to the _Civic Switchboard Guide_, a living document designed to help lib
 
 This guide is divided into five sections:
 
-Section 1: The value of open civic data 
+Section 1: The value of open civic data
 
 Section 2: Understanding your civic data ecosystem
 
-Section 3: Building partnerships
+Section 3: Pathways for building civic partnerships
 
- 
+Section 4: Strengthening your civic data ecosystem
 
 
 
@@ -35,6 +35,4 @@ This resource will help library workers to:
 The authors of this guide are part of regional partnership in Pittsburgh that brings together a public library system, an academic library system, and a civic data intermediary. In Pittsburgh, our local civic data ecosystem is unique in that both public and academic librarians are actively involved as data intermediaries, and they work in close collaboration with other civic data publishers and users. Librarians regularly partner with local governments, non-library intermediaries, civic organizations, student organizations, and data users in a variety of ways. They play a number of roles, including helping people discover civic information, building data literacy and technical skills, providing technical assistance in data management and documentation, creating feedback mechanisms to publishers, convening and hosting events, and connecting data users. Our experience shows that libraries and librarians should be key actors in the continuing development of civic open data portals and act as core data intermediaries; their expertise adds value to a wide range of issues that affect both data publishers and users.
 
 Many of our colleagues elsewhere, including librarians and other established civic data intermediaries, have asked us how they can develop similar relationships and roles for librarians in their home communities. This guide is developed in response to this interest and expression of need.
-
-
 
