@@ -4,23 +4,13 @@ Welcome to the _Civic Switchboard Guide_, a living document designed to help lib
 
 ### What you'll find in this guide
 
-This guide is divided into five sections:
-
-Section 1: The value of open civic data
-
-Section 2: Understanding your civic data ecosystem
-
-Section 3: Pathways for building civic partnerships
-
-Section 4: Strengthening your civic data ecosystem
-
-
-
-This resource will help library workers to:
+This guide is intended to be modular in nature, with guidance and case studies. It will help library workers and their data partners to:
 
 * identify local needs and contexts around open civic data
 
 * consider roles, practices, and governance in a regional civic data ecosystem
+
+* find pathways for building civic partnerships
 
 * anticipate and address common challenges data intermediaries may encounter as they help the public to apply and use open data
 
