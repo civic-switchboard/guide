@@ -1,13 +1,12 @@
-  
-
-
 What is a Civic Data Ecosystem?
 
 The ecosystem analogy appears in a variety of different spaces and disciplines including \[business\]\([http://sjbae.pbworks.com/w/file/fetch/60084211/Adner\_2006\_HBR.pdf](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf)\), \[social science\]\([https://ssir.org/articles/entry/cultivate\_your\_ecosystem](https://ssir.org/articles/entry/cultivate_your_ecosystem)\), and \[innovation\]\([https://www.researchgate.net/profile/Fred\_Phillips/publication/296847757\_Innovation\_Ecosystems\_A\_Critical\_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf)\).
 
 The idea of interconnectedness of actors, priorities, resources, and policies, as well as the need for sustained collaboration between organizations to create meaningful impact, is widespread even if the term “ecosystem” isn’t used. The important thing to remember is that an ecosystem approach recognizes that there are multiple participants and it is helpful to understand the relationships between those participants and their environments.
 
-Civic data ecosystems consist of people/organizations connected with data in a local region and the infrastructure that supports this work. The Civic Switchboard project believes that libraries are valuable players in the civic data ecosystem and in those ecosystems where they aren’t involved, they should be! 
+Civic data ecosystems consist of people/organizations connected with data in a local region and the infrastructure that supports this work. The Civic Switchboard project believes that libraries are valuable players in the civic data ecosystem and in those ecosystems where they aren’t involved, they should be!
+
+
 
 Who is in my Civic Data Ecosystem
 
@@ -27,7 +26,7 @@ As you think about who is part of your ecosystem, these are the types of people 
 
 * Coders and bridge groups that use technology and civic data
 
-* Libraries -- in whatever local role they play!  
+* Libraries -- in whatever local role they play!
 
 The connections that exist among these players will take different forms depending on the community. They may include working together on projects and programming, providing funding and resources, and sharing missions and goals.
 
@@ -53,8 +52,5 @@ There are a variety of approaches you can take to mapping your ecosystem that yo
 
 **Organic/Incremental/Snowball**: This approach differs from the top-down method in that while you are doing this inventory independently, you are gathering information from other players in the ecosystem. Ask a person or organization:who do you get data from? who gets data from you? what is your relationship with civic data?Find the people or organizations they reference and go along the chain\(s\) asking the same questions. This approach is useful if you don’t yet know the scope of your ecosystem but need an entry point.
 
-**Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in Pittsburgh! 
-
-  
-
+**Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in Pittsburgh!
 
