@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Defining Data Intermediary](test.md)
+* [Defining a Data Intermediary](test.md)
+* Finding a Data Intermediary Partner
 
