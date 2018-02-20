@@ -1,7 +1,16 @@
 # Summary
 
 * [Introduction](README.md)
-* [Finding a Data Intermediary Partner](finding-a-data-intermediary-partner.md)
-* [Defining a Data Intermediary](test.md)
-* [Mapping your Ecosystem](mapping-your-ecosystem.md)
+* [Understanding](understanding.md)
+ * [Mapping your ecosystem](mapping-your-ecosystem.md)
+ * [Defining a Data Intermediary](test.md)
+ * [Measuring Health and Capacity](measuring-health-and-capacity.md)
+* [Engaging](engaging.md)
+ * [Finding a Data Intermediary Partner](finding-a-data-intermediary-partner.md)
+ * [Ways to be involved](ways-to-be-involved.md)
+* [Activating](activating.md)
+ * [Tools](tools.md)
+ * [Connecting existing user communities](connecting-communities.md)
+ * [Case Studies](case-studies.md)
+* [Maintaining](maintaining.md)
 
