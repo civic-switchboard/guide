@@ -1,6 +1,6 @@
 #### What is a Civic Data Ecosystem?
 
-The ecosystem analogy appears in a variety of different spaces and disciplines including \[business\]\([http://sjbae.pbworks.com/w/file/fetch/60084211/Adner\_2006\_HBR.pdf](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf)\), \[social science\]\([https://ssir.org/articles/entry/cultivate\_your\_ecosystem](https://ssir.org/articles/entry/cultivate_your_ecosystem)\), and \[innovation\]\([https://www.researchgate.net/profile/Fred\_Phillips/publication/296847757\_Innovation\_Ecosystems\_A\_Critical\_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf)\).
+The ecosystem analogy appears in a variety of different spaces and disciplines including [business](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf), [social science](https://ssir.org/articles/entry/cultivate_your_ecosystem), and [innovation](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf).
 
 The idea of interconnectedness of actors, priorities, resources, and policies, as well as the need for sustained collaboration between organizations to create meaningful impact, is widespread even if the term “ecosystem” isn’t used. The important thing to remember is that an ecosystem approach recognizes that there are multiple participants and it is helpful to understand the relationships between those participants and their environments.
 
@@ -14,7 +14,7 @@ As you think about who is part of your ecosystem, these are the types of people 
 
 * Non-profit organizations that use civic data
 
-* \[Data intermediaries\] \([https://civic-switchboard.github.io/updates/post\_2.1](https://civic-switchboard.github.io/updates/post_2.1)\) that help people find, use, and apply civic information
+* [Data intermediaries](https://civic-switchboard.github.io/updates/post_2.1) that help people find, use, and apply civic information
 
 * Foundations that support civic data initiatives
 
