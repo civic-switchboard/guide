@@ -14,7 +14,7 @@ As you think about who is part of your ecosystem, these are the types of people 
 
 * Non-profit organizations that use civic data
 
-* [Data intermediaries](https://civic-switchboard.github.io/updates/post_2.1) that help people find, use, and apply civic information
+* Data intermediaries that help people find, use, and apply civic information
 
 * Foundations that support civic data initiatives
 
