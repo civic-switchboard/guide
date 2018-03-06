@@ -13,7 +13,5 @@
   * [Connecting existing user communities](connecting-communities.md)
   * [Case Studies](case-studies.md)
 * [Maintaining](maintaining.md)
-  * Building Libraries into Civic Data Partnerships
-
-
+  * [Building Libraries into Civic Data Partnerships](maintaining/building-libraries-into-civic-data-partnerships.md)
 
