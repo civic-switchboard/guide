@@ -1,12 +1,12 @@
 #### **Building Libraries into Civic Data Partnerships**
 
-Libraries and civic data intermediaries are united in the type of work that they do: they help people find, use, and apply information. Similar values, goals, and missions create fertile ground for collaboration around civic data and an obvious opportunity to work together. We're sharing some of our observations on factors that have helped our collaboration in Pittsburgh. Collaborating can be challenging and we’re eager to gather information from other regional partners about what has been useful to support your work together!
+Libraries and civic data intermediaries are united in the type of work that they do: they help people find, use, and apply information. Similar values, goals, and missions create fertile ground for collaboration around civic data and an obvious opportunity to work together. We're sharing some of the factors that have helped our collaboration in Pittsburgh. Collaborating can be challenging and we’re eager to gather information from other regional partners about what has been useful to support your work together!
 
 Our partnership in Pittsburgh involves three organizations: the [Western Pennsylvania Regional Data Center ](https://www.wprdc.org/)\(our team’ s civic data intermediary\), the [Carnegie Library of Pittsburgh](https://www.carnegielibrary.org/), and the[ University Library System at the University of Pittsburgh](https://www.library.pitt.edu/).Through this collaboration, we have worked together on joint projects \(like Civic Switchboard!\), organized events in the region, engaged in information sharing and brainstorming, and connected our user groups with the partner organizations.
 
 **Connecting to Your Library’s Mission**
 
-Collaborating across institutions usually requires some organizational permission or, at minimum, not getting blocked by your own organization leadership. Your library's leaders also might need to be on board if they are going to allocate resources -- like your time! -- to the work. If you can articulate how partnerships around civic data connect directly to your library's mission and values, you'll have a better chance of getting the buy-in and support that you need.
+Collaborating around civic data means working across institutions. This kind of work usually requires some organizational permission or, at minimum, not getting blocked by your own organization's leadership. Your library's leaders also might need to be on board if they are going to allocate resources -- like your time! -- to the work. If you can articulate how partnerships around civic data connect directly to your library's mission and values, you'll have a better chance of getting the buy-in and support that you need.
 
 Every organization is a little different, and so the strategy of connecting the civic data work you want to do to your library's mission will be specific to you. Here's what it looked like for us:
 
