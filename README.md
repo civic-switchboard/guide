@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the _Civic Switchboard Guide_, a living document designed to help libraries become more engaged in their local civic data ecosystems. This guide is the product of an Institute for Museum and Library Services funded project called [Civic Switchboard](https://civic-switchboard.github.io/). We believe that strong partnerships between libraries and other local civic data intermediaries better serve data users, further democratize data, and support equitable access to information. This guide aims to support libraries and civic data intermediaries to establish and grow these partnerships. Over the project's two year period, this guide will develop and evolve as we gather lessons about roles and relationships from civic data partners in the field.
+Welcome to the _Civic Switchboard Guide_, a living document designed to help libraries become more engaged in their local civic data ecosystems. This guide is the product of an Institute for Museum and Library Services funded project called [Civic Switchboard](https://civic-switchboard.github.io/). We believe that strong partnerships between libraries and other local civic data intermediaries better serve data users, further democratize data, and support equitable access to information. **This guide aims to support libraries and civic data intermediaries to establish and grow these partnerships**. Over the project's two year period, this guide will develop and evolve as we gather lessons about roles and relationships from civic data partners in the field.
 
 #### What you'll find in this guide
 
@@ -22,7 +22,7 @@ This guide is intended to be modular in nature, with guidance and case studies. 
 
 #### What you won't find in this guide
 
-Our focus is on developing library roles and relationships in their communities, and so we won't cover very general topics like "what is open data", nor very specific ones like "how to archive local community data sets". The good news is that many other people have created excellent guides and reports on topics like these! We'll gather and point to many of these related resources in this guide.
+Our focus is on developing library roles and relationships in their communities, so we won't cover very general topics like "what is open data", nor very specific ones like "how to archive local community data sets". The good news is that many other people have created excellent guides and reports on topics like these! We'll gather and point to many of these related resources in this guide.
 
 #### About the Civic Switchboard project
 
