@@ -9,7 +9,7 @@
 * [Engaging](engaging.md)
   * [Finding a Data Intermediary Partner](finding-a-data-intermediary-partner.md)
   * [Building Libraries into Civic Data Partnerships](maintaining/building-libraries-into-civic-data-partnerships.md)
-  * [Ways to get involved](ways-to-be-involved.md)
+  * [Ways to Get Involved](ways-to-be-involved.md)
   * [Resources](resources.md)
 * [Activating](activating.md)
   * [Tools](tools.md)
