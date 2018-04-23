@@ -12,9 +12,9 @@ This report presents findings from a 2014 survey investigating public awareness 
 
 ##### **Ecosystem Mapping and Health**
 
-* Malinsky, Eli and Chad Lubelsky. _Network Evaluation: Cultivating Healthy Networks for Social Change. _Toronto: Centre for Social Innovation. [http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)
+* Malinsky, Eli and Chad Lubelsky. \_Network Evaluation: Cultivating Healthy Networks for Social Change. \_Toronto: Centre for Social Innovation. [http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)
 
-Malinsky and Lubelsky define networks as "systems of relatively autonomous actors that are working in concern to achieve shared goals or pursuing individual goals within a shared system" \(p. 8\). Their text offers strategies for evaluating the performance and success of networks 
+Malinsky and Lubelsky define networks as "systems of relatively autonomous actors that are working in concern to achieve shared goals or pursuing individual goals within a shared system" \(p. 8\). Their text offers strategies for evaluating the performance and success of networks.
 
 * The Open Data Barometer. [https://opendatabarometer.org](https://opendatabarometer.org)
 
