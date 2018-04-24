@@ -17,7 +17,5 @@
   * [Case Studies](case-studies.md)
   * [Resources](maintaining/more.md)
 * [Maintaining](maintaining.md)
-  * Resources
-
-
+  * [Resources](maintaining/resources.md)
 
