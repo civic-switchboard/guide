@@ -1,6 +1,6 @@
-#### Resources
+## Resources
 
-##### **Understanding Civic Open Data**
+#### **Understanding Civic Open Data**
 
 * Living Cities. "Field Scan of Civic Technology." November 26, 2012. [https://www.livingcities.org/resources/131-field-scan-of-civic-technology](https://www.livingcities.org/resources/131-field-scan-of-civic-technology)
 
@@ -10,7 +10,7 @@ This document reports on a series of interviews with data intermediaries explori
 
 This report presents findings from a 2014 survey investigating public awareness and perception of open data initiatives in the United States. The survey finds that two-thirds of respondents have used the internet for connect with the government in some way \(for example, looking for information about the government and completing a transaction\). The Pew Research Center found that Americans have "mixed hopes" about the potential of open data for improving government performance. This report provides readers with definitions of open government and open data and a look at how individuals are currently engaging with civic information online.
 
-##### **Ecosystem Mapping and Health**
+#### **Ecosystem Mapping and Health**
 
 * Malinsky, Eli and Chad Lubelsky. \_Network Evaluation: Cultivating Healthy Networks for Social Change. \_Toronto: Centre for Social Innovation. [http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)
 

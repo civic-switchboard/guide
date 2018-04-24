@@ -1,4 +1,4 @@
-#### What is a Civic Data Ecosystem?
+## What is a Civic Data Ecosystem?
 
 The ecosystem analogy appears in a variety of different spaces and disciplines including [business](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf), [social science](https://ssir.org/articles/entry/cultivate_your_ecosystem), and [innovation](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf).
 
@@ -6,7 +6,7 @@ The idea of interconnectedness of actors, priorities, resources, and policies, a
 
 Civic data ecosystems consist of people/organizations connected with data in a local region and the infrastructure that supports this work. The Civic Switchboard project believes that libraries are valuable players in the civic data ecosystem and in those ecosystems where they aren’t involved, they should be!
 
-#### Who is in my Civic Data Ecosystem
+#### Who is in my Civic Data Ecosystem?
 
 As you think about who is part of your ecosystem, these are the types of people and organizations you might consider:
 
@@ -69,7 +69,4 @@ If you color code your visualization, it might also reveal gaps in certain secto
 Although it may not be easily apparent from network diagram, you should also consider whether your ecosystem seems to be serving a specific subset of your community: are diverse perspectives represented? If not, this should be addressed - perhaps your civic tech and data community is less inclusive than it could be, perhaps the definition of a “tech organization” needs to be broadened to recognize the types of tech work that matter to different communities, or perhaps your ecosystem mapping team simply isn’t aware of the totality of the ecosystem and the map itself \(not the ecosystem\) is what needs to be improved.
 
 Feel free to also apply other organizational tools you use to your ecosystem map and see how it goes. For example, many organizations use the SWOT \(Strengths, Opportunities, Weaknesses, Threats\) model to evaluate current conditions.
-
-  
-
 

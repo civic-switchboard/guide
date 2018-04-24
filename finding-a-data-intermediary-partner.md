@@ -1,4 +1,4 @@
-#### Who Are the Data Partners to Connect With in Your Community? {#who-are-the-data-partners-to-connect-with-in-your-community}
+## Who Are the Data Partners to Connect With in Your Community?
 
 1. The National Neighborhood Indicators Partnership \(NNIP\) is a collaboration between the [Urban Institute](https://www.urban.org/) and organizations focused on connecting people with community data. Check the [list of NNIP partners](https://www.neighborhoodindicators.org/partners/profiles) to see whether you have one in your area. Even if there is no NNIP partner in your immediate region, your nearest one may have recommendations on organizations in your area that are fulfilling data intermediately functions.
 
