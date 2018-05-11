@@ -18,4 +18,5 @@
 * [Maintaining](maintaining.md)
   * [Resources](maintaining/resources.md)
 * [Toolkit](toolkit.md)
+  * [Ecosystem Mapping Tools](toolkit/ecosystem-mapping-tools.md)
 
