@@ -13,7 +13,7 @@
   * [Resources](resources.md)
 * [Activating](activating.md)
   * [Tools](tools.md)
-  * [Connecting existing user communities](connecting-communities.md)
+  * [Connecting User Communities](connecting-communities.md)
   * [Case Studies](case-studies.md)
   * [Resources](maintaining/more.md)
 * [Maintaining](maintaining.md)
