@@ -28,5 +28,27 @@
 
 * communicating data findings to a broader audience
 
+#### **Stuck? Here are some likely suspects for your map:**
+
+* Local government \(and other\) agencies that are producers of data
+
+* Non-profit organizations that use civic data
+
+* Data intermediaries that help people find, use, and apply civic information
+
+* Foundations that support civic data initiatives
+
+* Journalists and individuals who make meaning of civic data
+
+* Local businesses and others that add value to data by contextualizing it or creating access
+
+* Coders and bridge groups that use technology and civic data
+
+* People and organizations that help data users build their skills
+
+* Libraries -- in whatever local role they play!
+
+---
+
 
 
