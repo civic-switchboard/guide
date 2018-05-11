@@ -1,7 +1,6 @@
-**    
-Prompts for Identifying Ecosystem Players**
+## ** Prompts for Identifying Ecosystem Players**
 
-Who is the go-to in your community for \_\_\_\_\_\_\_\_\_?
+#### Who is the go-to in your community for \_\_\_\_\_\_\_\_\_?
 
 * talking about equity and how data affects vulnerable populations
 
