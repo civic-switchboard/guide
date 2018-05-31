@@ -8,11 +8,10 @@
   * [Resources](resources-on-understanding.md)
 * [Engaging](engaging.md)
   * [Building Libraries into Civic Data Partnerships](maintaining/building-libraries-into-civic-data-partnerships.md)
-  * [Finding a Data Intermediary Partner](finding-a-data-intermediary-partner.md)
+  * [Finding a Data Intermediary Partne](finding-a-data-intermediary-partner.md)
   * [Resources](resources.md)
 
-
-  [Activating](activating.md)
+* Activating
   * [Typology of Library Roles](typology-of-library-roles.md)
   * [Case Studies](case-studies.md)
   * [Connecting User Communities](connecting-communities.md)
