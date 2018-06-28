@@ -1,4 +1,4 @@
-## Guide Resources
+# Guide Resources
 
 Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" \_International Journal of Digital Earth \_10, no. 3 \(2017\): 284-306.
 
@@ -6,7 +6,7 @@ Living Cities. "Field Scan of Civic Technology." November 26, 2012. [https://www
 
 Malinsky, Eli and Chad Lubelsky. "Network Evaluation: Cultivating Healthy Networks for Social Change." Toronto: Centre for Social Innovation. [http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)
 
-Mattern, Shannon. "Public In/Formation." _Places _\(November 2016\). [https://placesjournal.org/article/public-information/](https://placesjournal.org/article/public-information/)
+Mattern, Shannon. "Public In/Formation." _Places_ \(November 2016\). [https://placesjournal.org/article/public-information/](https://placesjournal.org/article/public-information/)
 
 The Open Data Barometer. [https://opendatabarometer.org](https://opendatabarometer.org)
 

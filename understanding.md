@@ -1,4 +1,0 @@
-## About this Section
-
-
-

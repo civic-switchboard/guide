@@ -1,25 +1,22 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
-* [Understanding](understanding.md)
-  * [Defining a Data Intermediary](test.md)
-  * [Mapping your Ecosystem](mapping-your-ecosystem.md)
-  * [Measuring Health and Capacity](measuring-health-and-capacity.md)
-  * [Resources](resources-on-understanding.md)
-* [Engaging](engaging.md)
-  * [Building Libraries into Civic Data Partnerships](maintaining/building-libraries-into-civic-data-partnerships.md)
-  * [Finding a Data Intermediary Partne](finding-a-data-intermediary-partner.md)
-  * [Resources](resources.md)
-
-* Activating
-  * [Typology of Library Roles](typology-of-library-roles.md)
-  * [Case Studies](case-studies.md)
-  * [Connecting User Communities](connecting-communities.md)
-  * [Resources](maintaining/more.md)
-* [Maintaining](maintaining.md)
+* [Understanding](understanding/README.md)
+  * [Defining a Data Intermediary](understanding/defining-a-data-intermediary.md)
+  * [Mapping your Ecosystem](understanding/mapping-your-ecosystem.md)
+  * [Measuring Health and Capacity](understanding/measuring-health-and-capacity.md)
+  * [Resources](understanding/resources.md)
+* [Engaging](engaging/README.md)
+  * [Building Libraries into Civic Data Partnerships](engaging/building-libraries-into-civic-data-partnerships.md)
+  * [Finding a Data Intermediary Partner](engaging/finding-a-data-intermediary-partne.md)
+  * [Resources](engaging/resources.md)
+* [Activating](activating/README.md)
+  * [Typology of Library Roles](activating/typology-of-library-roles.md)
+  * [Case Studies](activating/case-studies.md)
+  * [Connecting User Communities](activating/connecting-user-communities.md)
+  * [Resources](activating/resources.md)
+* [Maintaining](maintaining/README.md)
   * [Resources](maintaining/resources.md)
 * [Guide Resources](guide-resources.md)
 * [Toolkit](toolkit.md)
-
-
 

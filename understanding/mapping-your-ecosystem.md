@@ -1,4 +1,4 @@
-## What is a Civic Data Ecosystem?
+# Mapping your Ecosystem
 
 The ecosystem analogy appears in a variety of different spaces and disciplines including [business](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf), [social science](https://ssir.org/articles/entry/cultivate_your_ecosystem), and [innovation](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf).
 
@@ -6,29 +6,22 @@ The idea of interconnectedness of actors, priorities, resources, and policies, a
 
 Civic data ecosystems consist of people/organizations connected with data in a local region and the infrastructure that supports this work. The Civic Switchboard project believes that libraries are valuable players in the civic data ecosystem and in those ecosystems where they aren’t involved, they should be!
 
-#### Who is in my Civic Data Ecosystem?
+## Who is in my Civic Data Ecosystem?
 
 As you think about who is part of your ecosystem, these are the types of people and organizations you might consider:
 
 * Local government agencies that are producers of data
-
 * Non-profit organizations that use civic data
-
 * Data intermediaries that help people find, use, and apply civic information
-
 * Foundations that support civic data initiatives
-
 * Journalists and individuals who make meaning of civic data
-
 * Local businesses and others that add value to data by contextualizing it or creating access
-
 * Coders and bridge groups that use technology and civic data
-
 * Libraries -- in whatever local role they play!
 
 The connections that exist among these players will take different forms depending on the community. They may include working together on projects and programming, providing funding and resources, and sharing missions and goals.
 
-#### Mapping your Ecosystem
+## Mapping your Ecosystem
 
 Due to the people, organizations, and relationships involved, ecosystems are complex! Inventorying or “mapping” your ecosystem can help you and your collaborators get a high level view of what is happening locally. An ecosystem mapping process can uncover players or relationships that aren’t documented, and start ecosystem discussions from a shared place of understanding.
 
@@ -38,7 +31,7 @@ Regardless of the approach you take, you will also likely run into some common q
 
 **What counts as a connection?Is it a formal partnership?** Do both sides need to agree the connection is there? Some research methodologies survey a set of organizations about their connections and then specify in the end map whether connections are self-reported as uni- or bi-directional. If strengthening or formalizing relationships is one of your goals, you may decide that connections should be coded with a numerical value for strength/length of time, etc. so that you have a baseline measure for the strength of your ecosystem connections.
 
-#### Mapping Approaches
+## Mapping Approaches
 
 There are a variety of approaches you can take to mapping your ecosystem that you might take:
 
@@ -48,7 +41,7 @@ There are a variety of approaches you can take to mapping your ecosystem that yo
 
 **Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in Pittsburgh!
 
-#### Interpreting the mapping
+## Interpreting the mapping
 
 Depending on the mapping process you decide on and the complexity of your ecosystem, you might decide against a formal visualization for now - and that’s ok! You might be satisfied with an ecosystem inventory of the players.
 
