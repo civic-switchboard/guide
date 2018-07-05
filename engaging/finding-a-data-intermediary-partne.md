@@ -1,6 +1,8 @@
 # Finding a Data Intermediary Partner
 
-The National Neighborhood Indicators Partnership \(NNIP\) is a collaboration between the [Urban Institute](https://www.urban.org/) and organizations focused on connecting people with community data. Check the [list of NNIP partners](https://www.neighborhoodindicators.org/partners/profiles) to see whether you have one in your area. Even if there is no NNIP partner in your immediate region, your nearest one may have recommendations on organizations in your area that are fulfilling data intermediately functions.
+In this page, we'll describe strategies for finding a data intermediary that you and your library might work in partnership with.
+
+* **NNIP partner**: One starting point, particularly if you are in an urban area, is to check for a local partner of the National Neighborhood Indicators Partnership \(NNIP\). NNIP is a collaboration between the [Urban Institute](https://www.urban.org/) and organizations focused on connecting people with community data \(in the interest of full disclosure, NNIP is a partner on the project that is producing this guide\). NNIP partner organizations are well-established data intermediaries that have positive and collaborative working relationships with a wide range of local institutions. Check the [list of NNIP partners](https://www.neighborhoodindicators.org/partners/profiles) to see whether you have one in your area. Even if there is no NNIP partner in your immediate region, your nearest one may have recommendations on organizations in your area that are fulfilling data intermediately functions.
 
 If there is no NNIP partner in your area, there are other offices and organizations that are likely working as an intermediary \(at least in part\) and might serve as initial contact points. Consider reaching out to:
 
