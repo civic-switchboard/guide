@@ -1,6 +1,6 @@
 # Maintaining
 
-This section explores sustaining civic data partnerships between libraries and civic data intermediaries.
+We've been using the metaphor of the ecosystem throughout this guide. While ecosystems are dynamic and can be expected to change, they also require care to stay healthy and sustainable.
 
-Funding partnerships, expanding the partnership, sustaining it, connecting with networks outside region, cross-pollinating
+In this section, we look at ways that libraries can sustain their roles in civic data ecosystems. 
 
