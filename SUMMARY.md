@@ -8,7 +8,7 @@
   * [Resources](understanding/resources.md)
 * [Engaging](engaging/README.md)
   * [Building Libraries into Civic Data Partnerships](engaging/building-libraries-into-civic-data-partnerships.md)
-  * [Finding a Data Intermediary Partner](engaging/finding-a-data-intermediary-partne.md)
+  * [Finding Partners in Your Ecosystem](engaging/finding-a-data-intermediary-partne.md)
   * [Resources](engaging/resources.md)
 * [Activating](activating/README.md)
   * [Typology of Library Roles](activating/typology-of-library-roles.md)
