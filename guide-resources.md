@@ -1,6 +1,6 @@
 # Guide Resources
 
-Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" \_International Journal of Digital Earth \_10, no. 3 \(2017\): 284-306.
+Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" _International Journal of Digital Earth_ 10, no. 3 \(2017\): 284-306.
 
 Living Cities. "Field Scan of Civic Technology." November 26, 2012. [https://www.livingcities.org/resources/131-field-scan-of-civic-technology](https://www.livingcities.org/resources/131-field-scan-of-civic-technology)
 
