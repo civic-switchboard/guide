@@ -4,7 +4,7 @@
 
 Engaging in local civic data initiatives will mean finding new resources, redirecting existing resources, and balancing this work among your other responsibilities.This section provides a starting point for locating funding for your civic data efforts by highlighting organizations that have supported known projects in this space. We also provide thoughts on making a case to your own organization about why activities in this area are relevant to library work and a valuable investment in time and, potentially, organizational funds.
 
-### Funding Sources
+## Funding Sources
 
 In their June 2018 brief “[Collaborating for 21st Century Solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions),” the Urban Institute provides a useful starting point for identifying philanthropic groups that have supported civic data initiatives and for developing strategies to diversify resources. They usefully remind us that resources can be in a form other than a check and stress that managing “in-kind support for labor, space, data, or technology” will be key to civic data projects. The [CivTech St. Louis](http://www.civtechstl.com/), for example, has found support in the form of time from University of Missouri-St. Louis professors and students and radio air time for promotion.
 
@@ -19,7 +19,7 @@ While not an exhaustive list, the following funders have supported civic data in
 * [What Works Cities](https://whatworkscities.bloomberg.org/): Initiated by Bloomberg Philanthropies and supported by a collective of civic data experts, What Works Cities is “designed to accelerate cities’ use of data and evidence to improve people’s lives.” Cities can join What Works Cities to connect with a community of experts and peers and to access resources as they work toward improving their citizens’ access and use of civic data. Libraries should check with their local governments to see if there is a role for their organization in this initiative.  
 * [Institute of Museum and Library Services](https://www.imls.gov/) \(IMLS\): The funder for the Civic Switchboard project, the IMLS is the primary source of federal funding for libraries, archives, and museums. IMLS issues that align with civic data engagement include the [National Digital Platform area](https://www.imls.gov/issues/national-issues/national-digital-platform) and [Community area](https://www.imls.gov/issues/national-issues/community). [The Supporting Librarians in Adding Data Literacy Skills to Information Literacy Instruction](http://datalit.sites.uofmhosting.net/) is an example of a project focused on empowering users to make use of open data.
 
-### Making a Case for Resources
+## Making a Case for Resources
 
 We've seen some successful angles for making a case for internal and external resources -- and have put some of these strategies to work ourselves!
 
