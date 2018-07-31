@@ -1,5 +1,7 @@
 # Resources
 
+This page overviews readings that are relevant to content in this section. Find a comprehensive list of the references cited in the Guide 
+
 ## **Understanding Civic Open Data**
 
 * Living Cities. "Field Scan of Civic Technology." November 26, 2012. [https://www.livingcities.org/resources/131-field-scan-of-civic-technology](https://www.livingcities.org/resources/131-field-scan-of-civic-technology)
