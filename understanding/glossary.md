@@ -1,5 +1,7 @@
 # Glossary
 
+This living glossary of terms is intended to serve as a reference point as you read through this guide, but also as you engage with your communities and partners. 
+
 **API**: Standing for “Application Programming Interface,” an API is set of instructions that allow  two web applications to receive requests and complete transactions over the web.
 
 **Chief Data Officer \(CDO\)**: A state or local position focused on building data-driven government. CDOs may lead open data programs, manage data analytics projects, and apply GIS to address government challenges.
