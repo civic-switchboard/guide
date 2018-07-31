@@ -1,4 +1,4 @@
-# Finding Resources for Your Civic Data Initiatives
+# Finding Resources to Support Your Civic Data Work
 
 
 

@@ -13,7 +13,7 @@
   * [Resources](engaging/resources.md)
 * [Activating](activating/README.md)
   * [Typology of Library Roles](activating/typology-of-library-roles.md)
-  * [Finding Resources for Your Civic Data Initiatives](activating/finding-resources-for-your-engagement.md)
+  * [Finding Resources to Support Your Civic Data Work](activating/finding-resources-for-your-engagement.md)
   * [Case Studies](activating/case-studies.md)
   * [Connecting User Communities](activating/connecting-user-communities.md)
   * [Resources](activating/resources.md)
