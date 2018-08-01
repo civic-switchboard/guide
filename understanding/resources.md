@@ -26,7 +26,7 @@ A project of the World Wide Web Foundation, the Open Data Barometer assesses the
 
 This resources offers guidance on mapping an ecosystem in a workshop setting or by oneself or with a small number of colleagues. It identifies common players in an data ecosystems, provides prompts for creating a map, and highlights examples of data ecosystem maps.
 
-* Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" \_International Journal of Digital Earth \_10, no. 3 \(2017\): 284-306.
+* Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" _International Journal of Digital Earth_ 10, no. 3 \(2017\): 284-306.
 
 Donker and van Loenen review existing frameworks for assessing the health and efficacy of open data initiatives and identify a need to capture greater data user feedback through assessment. They offer a "holistic open data assessment framework" that examines data supply \("the way in which data are provided as open data"\), data governance \("the way in which government aspects are organised"\) and user characteristics \("the way in which the user characteristics enable the user to innovate with open data"\) \(p. 288\).
 
