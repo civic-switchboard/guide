@@ -41,7 +41,7 @@ There are a variety of approaches you can take to mapping your ecosystem that yo
 
 **Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in Pittsburgh!
 
-## Interpreting the mapping
+## Interpreting the Mapping
 
 Depending on the mapping process you decide on and the complexity of your ecosystem, you might decide against a formal visualization for now - and that’s ok! You might be satisfied with an ecosystem inventory of the players.
 
