@@ -1,6 +1,6 @@
 # Typology of Library Roles
 
-The Civic Switchboard project is premised on the idea that libraries' work and partnership should be responsive to the needs and opportunities in their unique civic data ecosystems. Here, we highlight some of the varied roles that the Civic Switchboard project team has observed libraries playing:
+The Civic Switchboard project is premised on the idea that libraries' work and partnership should be responsive to the needs and opportunities in their unique civic data ecosystems. Here, we highlight some of the varied roles and activities that the Civic Switchboard project team has observed libraries performing:
 
 * Metadata consultations
 * Privacy advice
@@ -16,7 +16,7 @@ The Civic Switchboard project is premised on the idea that libraries' work and p
 * Data literacy training
 * Data skills training
 * Providing technical assistance
-* Infrastructure for data collection \(loaning air quality monitors!\)
+* Infrastructure for data collection 
 * Promotion \(social media, events, calendars\)
 * Storytelling
 
