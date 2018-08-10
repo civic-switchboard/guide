@@ -4,6 +4,8 @@ Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of th
 
 Hendey, Leah, Jake Cowan, G. Thomas Kingsley, and Kathryn L.S. Pettit. "NNIP's Guide to Starting a Local Data Intermediary." May 2016. [https://www.urban.org/sites/default/files/publication/80901/2000798-NNIP's-Guide-to-Starting-a-Local-Data-Intermediary.pdf](https://www.urban.org/sites/default/files/publication/80901/2000798-NNIP's-Guide-to-Starting-a-Local-Data-Intermediary.pdf)
 
+Jaffrey, Zaffreen, Samuel McKinnon, and Christine Selby. "Creative Approaches to Using Early Development Instrument As a Community Mobilization Tool in Miami-Dade County." November 16, 2017. [https://www.neighborhoodindicators.org/library/catalog/creative-approaches-using-early-development-instrument-community](https://www.neighborhoodindicators.org/library/catalog/creative-approaches-using-early-development-instrument-community)
+
 Living Cities. "Field Scan of Civic Technology." November 26, 2012. [https://www.livingcities.org/resources/131-field-scan-of-civic-technology](https://www.livingcities.org/resources/131-field-scan-of-civic-technology)
 
 Malinsky, Eli and Chad Lubelsky. "Network Evaluation: Cultivating Healthy Networks for Social Change." Toronto: Centre for Social Innovation. [http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)
