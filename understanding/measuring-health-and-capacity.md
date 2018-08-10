@@ -24,9 +24,9 @@ Even if you are familiar with outcome measurement and evaluation generally, deci
 
 A good starting point can be found in the report [Evaluating Networks for Social Change: A Casebook](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf), jointly published in 2014 by Network Impact and Center for Evaluation Innovation. The report offers three pillars of network evaluation: connectivity, health, and results.
 
-* Network Connectivity: the people and organizations participating in the network, the structure, and what information or resources flow through which connections.
-* Network Health: whether the network is [sufficiently resourced](https://www.omidyar.com/news/new-york-citys-civic-hall-grow-civic-tech-ecosystem-4-million-new-funding) and whether the internal systems, processes, and infrastructures are sufficient to support the network.
-* Network Results: interim outcomes or intended impacts, such as adoption of best practices or policy changes. This pillar is potentially the most complex to evaluate, especially because what results you are looking for will depend on your particular community.
+* **Network Connectivity**: The people and organizations participating in the network, the structure, and what information or resources flow through which connections.
+* **Network Health**: Whether the network is [sufficiently resourced](https://www.omidyar.com/news/new-york-citys-civic-hall-grow-civic-tech-ecosystem-4-million-new-funding) and whether the internal systems, processes, and infrastructures are sufficient to support the network.
+* **Network Results**: Interim outcomes or intended impacts, such as adoption of best practices or policy changes. This pillar is potentially the most complex to evaluate, especially because what results you are looking for will depend on your particular community.
 
 We encourage you to take a closer look at the case studies included in the [Evaluating Networks for Social Change: A Casebook](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf). Each one offers a specific example of what kinds of questions drove the measurements, what tools and methods were used, associated costs, and how the results were evaluated. You may find a case study that resonates with measurements that are important to your local ecosystem.
 
@@ -38,7 +38,7 @@ Measuring the health and capacity of your ecosystem can begin with the process o
 
 You might decide to create a custom survey to assess a specific quality of your ecosystem. You might decide to conduct interviews or focus groups with ecosystem members to collect qualitative data. You might research your community to identify trends and external strengths, weaknesses, opportunities and threats that may have an effect on how your ecosystem functions.
 
-Several organizations have created pre-built network capacity tools you may want to use as a starting point, such as the [Evaluation Framework \(beginning on page 47\)](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf) from the Centre for Social Innovation pocket guide to Cultivating Healthy Networks for Social Change or the [Network Health Scorecard](http://networkimpact.org/downloads/NH_Scorecard.pdf) from Network Impact.
+Several organizations have created pre-built network capacity tools you may want to use as a starting point, such as the [Evaluation Framework \(beginning on page 47\)](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf) from the Centre for Social Innovation pocket guide's _Network Evaluation Cultivating Healthy Networks for Social Change_ or the [Network Health Scorecard](http://networkimpact.org/downloads/NH_Scorecard.pdf) from Network Impact.
 
 ## Who to Work With
 
