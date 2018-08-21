@@ -9,7 +9,7 @@ Here are the tools you'll find:
 **Ecosystem Mapping**
 
 * [Identifying Ecosystem Players](https://github.com/civic-switchboard/guide/raw/master/toolkit/Identifying%20Ecosytem%20Players.pdf)
-  * A series of prompts to consider when identifying the players in your civic data ecosystem
+  * A series of prompts to consider when identifying the players in your civic data ecosystem. This is a handout version of the "Typology of Library Roles" section in this guide.
 * [Exploring Other Ecosystem Maps](https://github.com/civic-switchboard/guide/raw/master/toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
   * A series of prompts to use when looking at an ecosystem map created by someone else
 
