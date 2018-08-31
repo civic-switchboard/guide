@@ -22,6 +22,8 @@ This living glossary of terms is intended to serve as a reference point as you r
 
 **Data Portal**: Web-based libraries designed to make open data findable and usable by others. Datasets in data portals are accompanied by metadata records, which describe and provide information about the data.
 
+**Digital Equity**: An environment in which individuals and communities have access to the technology and digital information that is needed for full engagement with civic life.
+
 **Digital Literacy**: The ability to use digital technologies and the web to locate, access, evaluate, and create digital information and media.
 
 **Digital Scholarship**: Scholarship that involves the use of digital data, methods, tools, and authoring and publishing systems.
