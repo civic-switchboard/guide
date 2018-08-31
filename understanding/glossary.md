@@ -20,6 +20,8 @@ This living glossary of terms is intended to serve as a reference point as you r
 
 **Data Portal**: Web-based libraries designed to make open data findable and usable by others. Datasets in data portals are accompanied by metadata records, which describe and provide information about the data.
 
+**Digital Literacy**: The ability to use digital technologies and the web to locate, access, evaluate, and create digital information and media.
+
 **Digital Scholarship**: Scholarship that involves the use of digital data, methods, tools, and authoring and publishing systems.
 
 **Metadata**: Data about an information object -- such as a book, photograph, or civic dataset -- that help users to identify, discover, manage, and preserve it. A common definition for metadata is “data about data.”
