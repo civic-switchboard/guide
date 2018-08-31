@@ -8,6 +8,8 @@ This living glossary of terms is intended to serve as a reference point as you r
 
 **Civic Data Ecosystem**: The people and organizations connected with data in a local region and the infrastructure that supports data work.
 
+**Civic Data Hackathon**: An event that brings together people who are interested in using technology and civic data to address a community need.
+
 **Civic Hacking**: The use of technology and data to create tools and approaches for addressing civic issues and improving civic workflows.
 
 **Civic Tech**: Technology that facilitates access to government information and data and that supports government services.
@@ -28,4 +30,6 @@ This living glossary of terms is intended to serve as a reference point as you r
 
 **Open Data**: Information released by an organization or government entity that is free to access and use, can be reused by anybody for any purpose, are available in a usable format, and can be modified and shared by others.  
 ****
+
+
 
