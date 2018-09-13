@@ -18,7 +18,7 @@ This guide is intended to be modular in nature, with guidance and case studies. 
 
 ## What you won't find in this guide
 
-Our focus is on developing library roles and relationships in their communities, so we won't cover very general topics like "what is open data", nor very specific ones like "how to archive local community data sets". The good news is that many other people have created excellent guides and reports on topics like these! We'll gather and point to many of these related resources in this guide.
+Our focus is on developing library roles and relationships around data in their communities, so we won't cover very general topics like "what is open data", nor very specific ones like "how to archive local community data sets". The good news is that many other people have created excellent guides and reports on topics like these! We'll gather and point to many of these related resources in this guide.
 
 ## About the Civic Switchboard project
 
