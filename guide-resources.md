@@ -2,7 +2,11 @@
 
 Cassano, Jay. "5 Steps to Cultivating a Civic Startup Ecosystem, According to Civic Entrepreneurs." _Fast Company_. June 6, 2015. [https://www.fastcompany.com/3047313/5-steps-to-cultivating-a-civic-startup-ecosystem-according-to-civic-entrepreneurs](https://www.fastcompany.com/3047313/5-steps-to-cultivating-a-civic-startup-ecosystem-according-to-civic-entrepreneurs)
 
+Center for Community Health and Development at the University of Kansas. "Creating and Maintaining Partnerships." part of Community Tool Box. [https://ctb.ku.edu/en/creating-and-maintaining-partnerships](https://ctb.ku.edu/en/creating-and-maintaining-partnerships)
+
 Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" _International Journal of Digital Earth_ 10, no. 3 \(2017\): 284-306. [https://doi.org/10.1080/17538947.2016.1224938](https://doi.org/10.1080/17538947.2016.1224938)
+
+Headd, Mark. \(n.d.\). How to Talk to Civic Hackers. [https://www.civichacking.guide/](https://www.civichacking.guide/)
 
 Hendey, Leah, Jake Cowan, G. Thomas Kingsley, and Kathryn L.S. Pettit. "NNIP's Guide to Starting a Local Data Intermediary." May 2016. [https://www.urban.org/sites/default/files/publication/80901/2000798-NNIP's-Guide-to-Starting-a-Local-Data-Intermediary.pdf](https://www.urban.org/sites/default/files/publication/80901/2000798-NNIP's-Guide-to-Starting-a-Local-Data-Intermediary.pdf)
 
@@ -20,7 +24,9 @@ Open Data Institute \(UK\). "Mapping Data Ecosystems." March 23, 2018. [https://
 
 Pew Research Center. “Americans’ Views on Open Government Data.” April 2015. [http://www.pewinternet.org/2015/04/21/open-government-data/](http://www.pewinternet.org/2015/04/21/open-government-data/)
 
+Reynoso, Elizabeth, Kathryn L.S. Pettit, and Christopher Whitaker. "Collaborating for 21st Century Solutions." The Urban Institute. June 19, 2018. [https://www.urban.org/research/publication/collaborating-21st-century-solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions)
+
 Sunlight Foundation. "A Guide to Tactical Data Engagement." September 2017. [https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/](https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/)
 
- Taylor, Madeleine, Peter Plastrik, Julia Coffman and Anne Whatley. "Evaluating Networks for Social Change: A Casebook."  Network Impact and Center for Evaluation Innovation. July 2014. [http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2\_Casebook\_Rev.pdf](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf)
+Taylor, Madeleine, Peter Plastrik, Julia Coffman and Anne Whatley. "Evaluating Networks for Social Change: A Casebook."  Network Impact and Center for Evaluation Innovation. July 2014. [http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2\_Casebook\_Rev.pdf](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf)
 
