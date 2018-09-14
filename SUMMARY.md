@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [About](about.md)
 * [Understanding](understanding/README.md)
   * [Defining a Data Intermediary](understanding/defining-a-data-intermediary.md)
   * [Mapping your Ecosystem](understanding/mapping-your-ecosystem.md)
