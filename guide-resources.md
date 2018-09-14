@@ -1,3 +1,7 @@
+---
+description: A comprehensive list of the references cited throughout the entire guide
+---
+
 # Guide Resources
 
 Bertot, J. C., Butler, B. S., & Travis, D. M. \(2014\). Local big data: the role of libraries in building community data infrastructures \(pp. 17–23\). Presented at the Proceedings of the 15th Annual International Conference on Digital Government Research, ACM. [https://doi.org/10.1145/2612733.2612762](https://doi.org/10.1145/2612733.2612762)
