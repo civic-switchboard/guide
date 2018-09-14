@@ -2,7 +2,11 @@
 
 On this page, we've selected and described some resources that we think are most relevant to the "Understanding" section. You can also find a comprehensive list of the references cited throughout the entire guide on the [Guide Resources](https://civic-switchboard.gitbook.io/guide/guide-resources) page.
 
-### **Understanding Civic Open Data**
+### **Understanding \(Civic\) Open Data**
+
+**Headd, M. J. \(2016\). Open Data Guide.** [**http://opendata.guide/**](http://opendata.guide/)\*\*\*\*
+
+Mark Headd developed this guide during his tenure as the first Chief Data Officer for the City of Philadelphia; it's written for an audience of state and local government workers. It's a concise look at the issues around opening data from the side of government -- if you are a library looking to partner with such data providers, gaining this perspective will be valuable.
 
 **Living Cities. "Field Scan of Civic Technology." November 26, 2012.** [**https://www.livingcities.org/resources/131-field-scan-of-civic-technology**](https://www.livingcities.org/resources/131-field-scan-of-civic-technology)\*\*\*\*
 
@@ -11,6 +15,10 @@ This document reports on a series of interviews with data intermediaries explori
 **Pew Research Center. “Americans’ Views on Open Government Data.” April 2015.** [**http://www.pewinternet.org/2015/04/21/open-government-data/**](http://www.pewinternet.org/2015/04/21/open-government-data/)\*\*\*\*
 
 This report presents findings from a 2014 survey investigating public awareness and perception of open data initiatives in the United States. The survey finds that two-thirds of respondents have used the internet for connect with the government in some way \(for example, looking for information about the government and completing a transaction\). The Pew Research Center found that Americans have "mixed hopes" about the potential of open data for improving government performance. This report provides readers with definitions of open government and open data and a look at how individuals are currently engaging with civic information online.
+
+**Wright, S., Marsh, Z., Bahlai, C., & Robinson, D. \(2017\). Mozilla Science Lab’s Open Data Primers.** [**https://mozillascience.github.io/open-data-primers/index.html**](https://mozillascience.github.io/open-data-primers/index.html)\*\*\*\*
+
+Mozilla Science Lab's guide to Open Data has a bit of a research/science data focus, but much of the guidance here is applicable to all sorts of open data. If you're new to best practices around finding, sharing, formatting, and using open data you'll find a lot of solid basics in these primers.
 
 ### **Ecosystem Mapping and Health**
 
