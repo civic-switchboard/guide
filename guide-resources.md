@@ -1,5 +1,7 @@
 # Guide Resources
 
+Bertot, J. C., Butler, B. S., & Travis, D. M. \(2014\). Local big data: the role of libraries in building community data infrastructures \(pp. 17–23\). Presented at the Proceedings of the 15th Annual International Conference on Digital Government Research, ACM. [https://doi.org/10.1145/2612733.2612762](https://doi.org/10.1145/2612733.2612762)
+
 Cassano, Jay. "5 Steps to Cultivating a Civic Startup Ecosystem, According to Civic Entrepreneurs." _Fast Company_. June 6, 2015. [https://www.fastcompany.com/3047313/5-steps-to-cultivating-a-civic-startup-ecosystem-according-to-civic-entrepreneurs](https://www.fastcompany.com/3047313/5-steps-to-cultivating-a-civic-startup-ecosystem-according-to-civic-entrepreneurs)
 
 Center for Community Health and Development at the University of Kansas. "Creating and Maintaining Partnerships." part of Community Tool Box. [https://ctb.ku.edu/en/creating-and-maintaining-partnerships](https://ctb.ku.edu/en/creating-and-maintaining-partnerships)
@@ -26,7 +28,11 @@ Pew Research Center. “Americans’ Views on Open Government Data.” April 201
 
 Reynoso, Elizabeth, Kathryn L.S. Pettit, and Christopher Whitaker. "Collaborating for 21st Century Solutions." The Urban Institute. June 19, 2018. [https://www.urban.org/research/publication/collaborating-21st-century-solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions)
 
+Robinson, P., & Mather, L. W. \(2017\). Open Data Community Maturity: Libraries as Civic Infomediaries. Journal of the Urban and Regional Information Systems Association, 28. [http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28\_final.pdf](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf)
+
 Sunlight Foundation. "A Guide to Tactical Data Engagement." September 2017. [https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/](https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/)
 
 Taylor, Madeleine, Peter Plastrik, Julia Coffman and Anne Whatley. "Evaluating Networks for Social Change: A Casebook."  Network Impact and Center for Evaluation Innovation. July 2014. [http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2\_Casebook\_Rev.pdf](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf)
+
+Temple University Libraries. \(2017\). Future Proofing Civic Data: Exploring the Challenges of Preserving Open Civic Data for the Long Term T. [https://docs.google.com/document/d/1vymMtPf0PP17qehPeKXSCu-37mJOlvnEf9IKypXWWRA](https://docs.google.com/document/d/1vymMtPf0PP17qehPeKXSCu-37mJOlvnEf9IKypXWWRA)
 
