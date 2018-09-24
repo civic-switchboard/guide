@@ -10,6 +10,10 @@ Cassano, Jay. "5 Steps to Cultivating a Civic Startup Ecosystem, According to Ci
 
 Center for Community Health and Development at the University of Kansas. "Creating and Maintaining Partnerships." part of Community Tool Box. [https://ctb.ku.edu/en/creating-and-maintaining-partnerships](https://ctb.ku.edu/en/creating-and-maintaining-partnerships)
 
+DataSF Resource Library. [https://datasf.org/resources/](https://datasf.org/resources/)​
+
+Detroit Digital Justice Coalition. \(2015\). Opening Data. \(D. J. Nucera, Ed.\). [https://www.alliedmedia.org/files/ddjc\_zine-final-rgb.pdf](https://www.alliedmedia.org/files/ddjc_zine-final-rgb.pdf)​
+
 Donker, Frederika Well and Bastiaan van Loenen. "How to Assess the Success of the Open Data Ecosystem?" _International Journal of Digital Earth_ 10, no. 3 \(2017\): 284-306. [https://doi.org/10.1080/17538947.2016.1224938](https://doi.org/10.1080/17538947.2016.1224938)
 
 Headd, Mark. \(n.d.\). How to Talk to Civic Hackers. [https://www.civichacking.guide/](https://www.civichacking.guide/)
@@ -28,6 +32,8 @@ The Open Data Barometer. [https://opendatabarometer.org](https://opendatabaromet
 
 Open Data Institute \(UK\). "Mapping Data Ecosystems." March 23, 2018. [https://theodi.org/article/mapping-data-ecosystems/](https://theodi.org/article/mapping-data-ecosystems/)
 
+Open Knowledge International. The Open Data Handbook. [http://opendatahandbook.org/](http://opendatahandbook.org/)**​**
+
 Pew Research Center. “Americans’ Views on Open Government Data.” April 2015. [http://www.pewinternet.org/2015/04/21/open-government-data/](http://www.pewinternet.org/2015/04/21/open-government-data/)
 
 Reynoso, Elizabeth, Kathryn L.S. Pettit, and Christopher Whitaker. "Collaborating for 21st Century Solutions." The Urban Institute. June 19, 2018. [https://www.urban.org/research/publication/collaborating-21st-century-solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions)
@@ -36,7 +42,13 @@ Robinson, P., & Mather, L. W. \(2017\). Open Data Community Maturity: Libraries 
 
 Sunlight Foundation. "A Guide to Tactical Data Engagement." September 2017. [https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/](https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/)
 
+Sunlight Foundation. Open Data Policy Hub. [https://opendatapolicyhub.sunlightfoundation.com/](https://opendatapolicyhub.sunlightfoundation.com/)**​**
+
 Taylor, Madeleine, Peter Plastrik, Julia Coffman and Anne Whatley. "Evaluating Networks for Social Change: A Casebook."  Network Impact and Center for Evaluation Innovation. July 2014. [http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2\_Casebook\_Rev.pdf](http://www.networkimpact.org/wp-content/uploads/2014/10/NetworkEvalGuidePt2_Casebook_Rev.pdf)
 
 Temple University Libraries. \(2017\). Future Proofing Civic Data: Exploring the Challenges of Preserving Open Civic Data for the Long Term T. [https://docs.google.com/document/d/1vymMtPf0PP17qehPeKXSCu-37mJOlvnEf9IKypXWWRA](https://docs.google.com/document/d/1vymMtPf0PP17qehPeKXSCu-37mJOlvnEf9IKypXWWRA)
+
+W3C. \(2017\). Data on the Web Best Practices. \(B. Farias Lóscio, C. Burle, & N. Calegari, Eds.\). [https://www.w3.org/TR/dwbp/](https://www.w3.org/TR/dwbp/)
+
+Wright, S., Marsh, Z., Bahlai, C., & Robinson, D. \(2017\). Mozilla Science Lab’s Open Data Primers. [https://mozillascience.github.io/open-data-primers/index.html](https://mozillascience.github.io/open-data-primers/index.html)**​​**
 
