@@ -18,12 +18,12 @@
   * [Resources](engaging/resources.md)
 * [Activating](activating/README.md)
   * [Typology of Library Roles](activating/typology-of-library-roles.md)
-  * [Case Studies](activating/case-studies.md)
   * [Connecting User Communities](activating/connecting-user-communities.md)
   * [Resources](activating/resources.md)
 * [Maintaining](maintaining/README.md)
   * [Finding Resources to Support Civic Data Work](maintaining/finding-resources-for-your-engagement.md)
   * [Resources](maintaining/resources.md)
+* [Case Studies](case-studies.md)
 * [Guide Resources](guide-resources.md)
 * [Toolkit](toolkit.md)
 
