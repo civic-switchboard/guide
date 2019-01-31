@@ -4,7 +4,7 @@ On this page, we've selected and described some resources that we think are most
 
 **Center for Community Health and Development at the University of Kansas.  "Creating and Maintaining Partnerships." part of Community Tool Box.** [**https://ctb.ku.edu/en/creating-and-maintaining-partnerships**](https://ctb.ku.edu/en/creating-and-maintaining-partnerships)\*\*\*\*
 
-The skills and techniques of building community partnerships are not unique to libraries and data intermediaries. This toolkit, part of a larger resource supporting community-based work, gives specific, practical guidance on developing and maintaining partnerships.
+The skills and techniques of building community partnerships are not unique to libraries and other data intermediaries. This toolkit, part of a larger resource supporting community-based work, gives specific, practical guidance on developing and maintaining partnerships.
 
 **Headd, Mark. \(n.d.\). How to Talk to Civic Hackers.**[ **https://www.civichacking.guide/**](https://www.civichacking.guide/)\*\*\*\*
 
