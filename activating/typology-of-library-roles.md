@@ -14,7 +14,7 @@ The Civic Switchboard project is premised on the idea that libraries' work and p
   * Technical infrastructure for repositories 
   * Privacy and strategies to protect data agreements for data sharing
 *  **Building capacity to collect and use data**
-  * Delivering data literacy and skills training '
+  * Delivering data literacy and skills training
   * Loaning equipment for citizen science data collection
 * **Creating and distributing data**
   * [Creating and publishing](https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974) machine-readable datasets from library collections, resources, or operational data
