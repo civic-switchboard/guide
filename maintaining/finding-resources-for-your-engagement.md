@@ -6,9 +6,9 @@ Engaging in local civic data initiatives will mean finding new resources, redire
 
 ## Funding Sources
 
-In their June 2018 brief “[Collaborating for 21st Century Solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions),” the Urban Institute provides a useful starting point for identifying philanthropic groups that have supported civic data initiatives and for developing strategies to diversify resources. They remind us that resources can be in a form other than a check and stress that managing “in-kind support for labor, space, data, or technology” will be key to civic data projects. The [CivTech St. Louis](http://www.civtechstl.com/), for example, has found support in the form of time from University of Missouri-St. Louis professors and students and radio air time for promotion.
-
 As a starting point for regionally-focused civic data work, build an understanding of the philanthropic organizations in your area and whether your library has an existing relationship with them. Talk to your internal colleagues who are engaged in development and grant writing to craft this picture. Your local data intermediaries will be able to contribute to your understanding of the lay of the land as well.
+
+In their June 2018 brief “[Collaborating for 21st Century Solutions](https://www.urban.org/research/publication/collaborating-21st-century-solutions),” the Urban Institute provides a useful starting point for identifying philanthropic groups that have supported civic data initiatives and for developing strategies to diversify resources. They remind us that resources can be in a form other than a check and stress that managing “in-kind support for labor, space, data, or technology” will be key to civic data projects. The [CivTech St. Louis](http://www.civtechstl.com/), for example, has found support in the form of time from University of Missouri-St. Louis professors and students and radio air time for promotion.
 
 While not an exhaustive list, the following funders have supported civic data initiatives in communities:
 

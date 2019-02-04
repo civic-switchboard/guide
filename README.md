@@ -16,15 +16,11 @@ This document is modular in nature, with practical guidance and case studies. It
 * promote use of data in alignment with community-based concerns
 * learn from examples of successful civic data partnerships
 
+We organized this guide to reflect broad stages of work for libraries that are developing civic data partnerships and involvement. It begins with strategies for understanding the civic data environment in which you are working and moves through guidance and case studies that reflect deepening engagement with civic data. However, the stages are not intended to be followed in strictly sequential steps. You may that you'd like to begin to engage partners and begin your library's civic data work concurrent to mapping your ecosystem \("Understanding" or seeking out funding resources \("Maintaining"\). Rather than thinking of this guide as a checklist or chronological schedule of activities, use it as a flexible roadmap. 
+
 ## What you won't find in this guide
 
 Our focus is on developing library roles and relationships around data in their communities, so we won't cover very general topics like "what is open data", nor very specific ones like "how to archive local community data sets". The good news is that many other people have created excellent guides and reports on topics like these! We'll point to many of these related resources in this guide.
 
-## About the Civic Switchboard project
-
-The authors of this guide are part of regional partnership in Pittsburgh that brings together a public library system \([Carnegie Library of Pittsburgh](https://www.carnegielibrary.org/)\), an academic library system \([University of Pittsburgh Library System](https://www.library.pitt.edu/)\), and a regional open data portal \([Western Pennsylvania Regional Data Center](http://www.wprdc.org/), hosted by the University of Pittsburgh Center for Social and Urban Research\). We are joined by a national membership organization of non-library civic data intermediaries, [the National Neighborhood Indicators Partnership](https://github.com/civic-switchboard/guide/tree/6d474c8c5966f7d2c5234b10e15626af6f15b288/National%20Neighborhood%20Indicators%20Partnership/README.md), coordinated by [the Urban Institute](https://www.urban.org/). The team members include Aaron Brenner \(PI\), Bob Gradeck, Toby Greenwalt, Eleanor Mattern, Liz Monk \(Project Manager\), Kathy Pettit, and Eleanor Tutt.
-
-In Pittsburgh, our local civic data ecosystem is unique in that both public and academic librarians are actively involved as data intermediaries, and they work in close collaboration with other civic data publishers and users. Our librarians regularly partner with local governments, non-library intermediaries, civic organizations, student organizations, and data users in a variety of ways. They play a number of roles, including helping people discover civic information, building data literacy and technical skills, providing technical assistance in data management and documentation, creating feedback mechanisms to publishers, convening and hosting events, and connecting data users. Our experience shows that libraries and librarians should act as data intermediaries and play key roles in the continuing development of civic open data. Their expertise provides insights on a wide range of issues that affect both data publishers and users.
-
-Many of our colleagues elsewhere, including librarians and other civic data intermediaries, have asked us how they can develop similar relationships and roles for librarians in their home communities. This guide is developed in response to this interest and expression of need.
+## 
 

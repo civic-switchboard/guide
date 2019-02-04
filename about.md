@@ -2,6 +2,14 @@
 
 This guide has been created by the [Civic Switchboard project](https://civic-switchboard.github.io/), with generous support from the Institute for Museum and Library Services \([award \#LG-70-17-0146-17](https://www.imls.gov/grants/awarded/lg-70-17-0146-17)\).
 
+### About the Civic Switchboard project
+
+The authors of this guide are part of regional partnership in Pittsburgh that brings together a public library system \([Carnegie Library of Pittsburgh](https://www.carnegielibrary.org/)\), an academic library system \([University of Pittsburgh Library System](https://www.library.pitt.edu/)\), and a regional open data portal \([Western Pennsylvania Regional Data Center](http://www.wprdc.org/), hosted by the University of Pittsburgh Center for Social and Urban Research\). We are joined by a national membership organization of non-library civic data intermediaries, [the National Neighborhood Indicators Partnership](https://github.com/civic-switchboard/guide/tree/6d474c8c5966f7d2c5234b10e15626af6f15b288/National%20Neighborhood%20Indicators%20Partnership/README.md), coordinated by [the Urban Institute](https://www.urban.org/). The team members include Aaron Brenner \(PI\), Bob Gradeck, Toby Greenwalt, Eleanor Mattern, Liz Monk \(Project Manager\), Kathy Pettit, and Eleanor Tutt.
+
+In Pittsburgh, our local civic data ecosystem is unique in that both public and academic librarians are actively involved as data intermediaries, and they work in close collaboration with other civic data publishers and users. Our librarians regularly partner with local governments, non-library intermediaries, civic organizations, student organizations, and data users in a variety of ways. They play a number of roles, including helping people discover civic information, building data literacy and technical skills, providing technical assistance in data management and documentation, creating feedback mechanisms to publishers, convening and hosting events, and connecting data users. Our experience shows that libraries and librarians should act as data intermediaries and play key roles in the continuing development of civic open data. Their expertise provides insights on a wide range of issues that affect both data publishers and users.
+
+Many of our colleagues elsewhere, including librarians and other civic data intermediaries, have asked us how they can develop similar relationships and roles for librarians in their home communities. This guide is developed in response to this interest and expression of need.
+
 ### Credits
 
 The main text of the guide is authored by the Civic Switchboard project team:
