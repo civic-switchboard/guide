@@ -21,6 +21,7 @@
   * [Resources](activating/resources.md)
 * [Maintaining](maintaining/README.md)
   * [Finding Resources to Support Civic Data Work](maintaining/finding-resources-for-your-engagement.md)
+  * [Support Networks and Communities of Practice](maintaining/support-networks-and-communities-of-practice.md)
   * [Resources](maintaining/resources.md)
 * [Case Studies](case-studies.md)
 * [Guide Resources](guide-resources.md)
