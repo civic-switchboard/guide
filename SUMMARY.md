@@ -7,6 +7,7 @@
   * [Ways of thinking about data: Open Data, Civic Data](context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md)
   * [Where do libraries fit in?](context-and-concepts/where-do-libraries-fit-in.md)
   * [Defining a Data Intermediary](context-and-concepts/defining-a-data-intermediary.md)
+  * [Resources](context-and-concepts/resources.md)
 * [Engaging](engaging/README.md)
   * [Building Libraries into Civic Data Partnerships](engaging/building-libraries-into-civic-data-partnerships.md)
   * [Finding Partners in Your Ecosystem](engaging/finding-a-data-intermediary-partne.md)
@@ -33,7 +34,9 @@
   * [Support Networks and Communities of Practice](maintaining/support-networks-and-communities-of-practice.md)
   * [Resources](maintaining/resources.md)
 * [Case Studies](case-studies.md)
-* [Guide Resources](guide-resources.md)
+* [Guide Resources](guide-resources/README.md)
+  * [Open Data](guide-resources/open-data.md)
+  * [Data Literacies](guide-resources/data-literacies.md)
 * [Toolkit](toolkit/README.md)
   * [Glossary](toolkit/glossary.md)
 
