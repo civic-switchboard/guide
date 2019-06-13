@@ -37,6 +37,9 @@
 * [Guide Resources](guide-resources/README.md)
   * [Open Data](guide-resources/open-data.md)
   * [Data Literacies](guide-resources/data-literacies.md)
+  * [Partnerships and Community-Building](guide-resources/partnerships-and-community-building.md)
+  * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
+  * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
 * [Toolkit](toolkit/README.md)
   * [Glossary](toolkit/glossary.md)
 
