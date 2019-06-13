@@ -1,6 +1,10 @@
-# Typology of Library Roles
+# Library Roles in Civic Data Ecosystems
 
-The Civic Switchboard project is premised on the idea that libraries' work and partnerships should be responsive to the needs and opportunities in their unique civic data ecosystems. Here, we highlight some of the varied roles and activities that the Civic Switchboard project team has observed libraries performing \(click through each topic for more details and examples!\):
+Throughout this guide you've read why we believe libraries should be **key actors in civic open data ecosystems.** 
+
+In practice, that role can take many forms. The specifics will \(and _should_\) be different in different regions. But at the core is the goal of helping people find, use, and apply public information.
+
+In this section, we've gathered some of the main roles we believe libraries and library workers can play. Some might resonate with your local ecosystem, some may not. In any case, we hope you'll find something inspiring within this list. Click through each topic for more details and examples!
 
 \*\*\*\*[**Connecting and building community**](connecting-and-building-community.md)
 
