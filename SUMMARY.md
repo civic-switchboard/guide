@@ -17,7 +17,6 @@
   * [Measuring Health and Capacity](understanding/measuring-health-and-capacity.md)
   * [Resources](understanding/resources.md)
 * [Activating](activating/README.md)
-  * [Connecting User Communities](activating/connecting-user-communities.md)
   * [Library Roles in Civic Data Ecosystems](activating/typology-of-library-roles/README.md)
     * [Connecting and building community](activating/typology-of-library-roles/connecting-and-building-community.md)
     * [Showing the importance of civic data](activating/typology-of-library-roles/showing-the-importance-of-civic-data.md)
