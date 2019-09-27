@@ -9,22 +9,28 @@ These roles are meant as a list of possibilities -- we understand that it is unl
 As you consider potential roles for your library, remember the larger civic data ecosystem. Think about what is already taking place, who is already active, and where you might work in [partnership with other organizations](https://civic-switchboard.gitbook.io/guide/engaging/finding-a-data-intermediary-partne)**.** Remember, other libraries can be partners, too! We have found many cases where different libraries \(such as a public and an academic\) have capacity and expertise that complements each other around these roles.   ****  
 
 
-\*\*\*\*[**Connecting and building community**](connecting-and-building-community.md)
+\*\*\*\*[**Connecting data users**](https://app.gitbook.com/@civic-switchboard/s/guide/~/edit/drafts/-LpnqWTzY23dgqSdH0fx/activating/typology-of-library-roles/connecting-and-building-community)\*\*\*\*
 
-\*\*\*\*[**Showing the importance of civic data**](showing-the-importance-of-civic-data.md)
+**Connecting data producers** 
 
-\*\*\*\*[**Developing civic data literacy**](developing-civic-data-literacy.md)
+**Showing the importance of civic data** 
 
-\*\*\*\*[**Making civic data more usable**](making-civic-data-more-usable.md)
+**Developing civic data literacy** 
 
-\*\*\*\*[**Providing expertise on data management**](providing-expertise-on-data-management.md)
+**Advocating for ethical, responsible, and accessible civic data** 
 
-\*\*\*\*[**Creating Civic Data**](creating-civic-data.md)
+**Making civic data more usable** 
 
-\*\*\*\*[**Publishing Civic Data**](publishing-civic-data.md)
+**Providing expertise on data management** 
 
-\*\*\*\*[**Archiving Civic Data**](archiving-civic-data.md)
+**Creating civic data** 
 
-\*\*\*\*[**Increasing the library's capacity to do all of the above**  
-](increasing-the-librarys-capacity-to-do-all-of-the-above.md)\*\*\*\*
+**Using civic data** 
+
+**Publishing civic data**
+
+[**Archiving Civic Data 11**](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.jlq3zecbvhj)
+
+[**Increasing  the library's capacity to do all of the above**](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.eekjnbx0tlcx)  
+
 
