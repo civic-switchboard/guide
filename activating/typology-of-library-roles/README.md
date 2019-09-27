@@ -17,9 +17,9 @@ As you consider potential roles for your library, remember the larger civic data
 
 \*\*\*\*[**Developing civic data literacy**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/making-civic-data-more-usable)\*\*\*\*
 
-[**Advocating for ethical, responsible, and accessible civic data** ](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.uoz5hq1bi9o5)
+\*\*\*\*[**Advocating for ethical, responsible, and accessible civic data**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/providing-expertise-on-data-management) ****
 
-**Making civic data more usable** 
+\*\*\*\*[**Making civic data more usable** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/creating-civic-data)\*\*\*\*
 
 **Providing expertise on data management** 
 
