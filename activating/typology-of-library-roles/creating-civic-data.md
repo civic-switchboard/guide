@@ -1,4 +1,4 @@
-# Making civic data usable
+# Making civic data more usable
 
 **What's the need?**
 
