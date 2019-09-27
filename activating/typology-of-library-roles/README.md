@@ -15,20 +15,23 @@ As you consider potential roles for your library, remember the larger civic data
 
 \*\*\*\*[**Showing the importance of civic data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/developing-civic-data-literacy)\*\*\*\*
 
-**Developing civic data literacy**
+\*\*\*\*[**Developing civic data literacy**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/making-civic-data-more-usable)\*\*\*\*
+
+[**Advocating for ethical, responsible, and accessible civic data** ](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.uoz5hq1bi9o5)
 
 **Making civic data more usable** 
 
 **Providing expertise on data management** 
 
-**Creating civic data** 
+**Creating Civic Data** 
 
-**Using civic data** 
+**Using Civic Data** 
 
-**Publishing civic data**
+**Publishing Civic Data** 
 
-**Archiving civic data**
+**Archiving Civic Data** 
 
 **Increasing  the library's capacity to do all of the above**  
+  
 
 
