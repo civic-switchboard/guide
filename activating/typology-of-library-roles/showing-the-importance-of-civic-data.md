@@ -23,6 +23,6 @@
 
 **Resources you can use:**
 
-* Civic Switchboard Guide, ****[**Ecosystem Mapping**](https://civic-switchboard.gitbook.io/guide/understanding/mapping-your-ecosystem)\*\*\*\*
-* Arena, Olivia and Li, Crystal. **“**[**Guide to Civic Tech and Data Ecosystem Mapping.**](https://drive.google.com/drive/u/0/folders/1ASo7txzEKKnQeSUBwP3-RlwUtJ-HCV0U)**”**
+* Civic Switchboard Guide, ****[Ecosystem Mapping](https://civic-switchboard.gitbook.io/guide/understanding/mapping-your-ecosystem)
+* Arena, Olivia and Li, Crystal. **“**[Guide to Civic Tech and Data Ecosystem Mapping.](https://drive.google.com/drive/u/0/folders/1ASo7txzEKKnQeSUBwP3-RlwUtJ-HCV0U)**”**
 

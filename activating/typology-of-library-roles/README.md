@@ -11,7 +11,7 @@ As you consider potential roles for your library, remember the larger civic data
 
 \*\*\*\*[**Connecting data users**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/connecting-and-building-community)\*\*\*\*
 
-**Connecting data producers** 
+\*\*\*\*[**Connecting data producers** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/showing-the-importance-of-civic-data)\*\*\*\*
 
 **Showing the importance of civic data** 
 
