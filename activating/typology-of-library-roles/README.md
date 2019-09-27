@@ -1,10 +1,13 @@
 # Library Roles in Civic Data Ecosystems
 
-Throughout this guide you've read why we believe libraries should be **key actors in civic open data ecosystems.** 
+Throughout this guide you've read why we believe libraries should be **key actors in civic open data ecosystems**.
 
-In practice, that role can take many forms. The specifics will \(and _should_\) be different in different regions. But at the core is the goal of helping people find, use, and apply public information.
+This section of the guide offers roles that your library might play in your local civic data ecosystem.  The specifics will \(and should\) be different in different regions.
 
-In this section, we've gathered some of the main roles we believe libraries and library workers can play. Some might resonate with your local ecosystem, some may not. In any case, we hope you'll find something inspiring within this list. Click through each topic for more details and examples!
+These roles are meant as a list of possibilities -- we understand that it is unlikely your library will have the capacity to perform all of them.  Libraries are different and at different stages of work with civic data. If you’re at the very beginning of your civic data journey, we hope these descriptions can help you clarify why the library should/could be involved. If your organization has been engaging with civic and open data, these roles may provide you with new ideas and directions for your work.
+
+As you consider potential roles for your library, remember the larger civic data ecosystem. Think about what is already taking place, who is already active, and where you might work in [partnership with other organizations](https://civic-switchboard.gitbook.io/guide/engaging/finding-a-data-intermediary-partne)**.** Remember, other libraries can be partners, too! We have found many cases where different libraries \(such as a public and an academic\) have capacity and expertise that complements each other around these roles.   ****  
+
 
 \*\*\*\*[**Connecting and building community**](connecting-and-building-community.md)
 
