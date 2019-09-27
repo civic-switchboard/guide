@@ -19,7 +19,7 @@
 * [Activating](activating/README.md)
   * [Library Roles in Civic Data Ecosystems](activating/typology-of-library-roles/README.md)
     * [Connecting data users](activating/typology-of-library-roles/connecting-and-building-community.md)
-    * [Showing the importance of civic data](activating/typology-of-library-roles/showing-the-importance-of-civic-data.md)
+    * [Connecting data producers](activating/typology-of-library-roles/showing-the-importance-of-civic-data.md)
     * [Developing civic data literacy](activating/typology-of-library-roles/developing-civic-data-literacy.md)
     * [Making civic data more usable](activating/typology-of-library-roles/making-civic-data-more-usable.md)
     * [Providing expertise on data management](activating/typology-of-library-roles/providing-expertise-on-data-management.md)

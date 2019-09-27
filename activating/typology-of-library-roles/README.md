@@ -9,7 +9,7 @@ These roles are meant as a list of possibilities -- we understand that it is unl
 As you consider potential roles for your library, remember the larger civic data ecosystem. Think about what is already taking place, who is already active, and where you might work in [partnership with other organizations](https://civic-switchboard.gitbook.io/guide/engaging/finding-a-data-intermediary-partne)**.** Remember, other libraries can be partners, too! We have found many cases where different libraries \(such as a public and an academic\) have capacity and expertise that complements each other around these roles.   ****  
 
 
-\*\*\*\*[**Connecting data users**](https://app.gitbook.com/@civic-switchboard/s/guide/~/edit/drafts/-LpnqWTzY23dgqSdH0fx/activating/typology-of-library-roles/connecting-and-building-community)\*\*\*\*
+\*\*\*\*[**Connecting data users**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/connecting-and-building-community)\*\*\*\*
 
 **Connecting data producers** 
 
@@ -29,8 +29,8 @@ As you consider potential roles for your library, remember the larger civic data
 
 **Publishing civic data**
 
-[**Archiving Civic Data 11**](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.jlq3zecbvhj)
+**Archiving civic data**
 
-[**Increasing  the library's capacity to do all of the above**](https://docs.google.com/document/d/1rfZKSglFkY70T544xLgePsV388Un3slRYQYgO044xaU/edit#heading=h.eekjnbx0tlcx)  
+**Increasing  the library's capacity to do all of the above**  
 
 
