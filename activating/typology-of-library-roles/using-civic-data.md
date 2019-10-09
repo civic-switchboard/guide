@@ -1,34 +1,27 @@
-# Providing expertise on data management
+# Using Civic Data
 
-**What's the need?** 
+**What's the need?**
 
-* Many civic organizations produce data and need support with managing and versioning files, standardizing data-related practices, data privacy, retention, appropriate sharing, software selection, and more.
-* Many data publishers \(such as open data portals\) need support with metadata and vocabularies, format standards, technical infrastructure strategies, and more. 
-* Many data users need strategies for personal data practices, including naming, labeling, storage, backups, deleting, and more. 
+* Civic data can help libraries to better understand the communities they serve in order to make more informed decisions about collections, staff, and programming
 
 **Why the library?**  
 
-* Library workers have the skills to provide data management and data hosting services to organizations that may not otherwise have internal capacity to treat their data as an asset. 
+* Libraries are already data-driven organizations and collect internal data on how collections and spaces are used. 
+* If the library is advocating for the importance of civic data it is vital to demonstrate its importance at home.  Be the change...
 
 **What you can do:**
 
-* Consult with data producers, publishers, and users on: 
-  * Metadata used for datasets and data portals
-  * Technical infrastructure for repositories
-  * Data management planning
-  * Protecting privacy when data sharing
+* Public Libraries: Use Census data to create demographic profiles of the communities you serve; consider languages spoken, education levels, income, and employment
+* Incorporating civic data into reporting can model great open data practices for patrons and the broader community. 
+* Consult state or municipal open data for data sources that can help you make your case for an upcoming grant or new library initiative. 
 
 **Inspiration:**
 
-* _Coming soon_
+* Topeka, KS: Mirza Sharma, D. \(2016\). [Using GIS to Assess Public Libraries ](http://publiclibrariesonline.org/2016/01/using-gis-to-assess-public-libraries/). _Public Libraries Online_.   
 
 **Resources you can use:**
 
-* Project Open Data. [Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/) 
-* World Wide Web Consortium. [Data Catalog Vocabulary \(DCAT\)](https://www.w3.org/TR/vocab-dcat/) 
-* World-Wide Web Consortium.  [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/).
-* Force11: [The FAIR Data Principles ](https://www.force11.org/group/fairgroup/fairprinciples)
-* Green, B., Cunningham, G., Ekblaw, A., & Kominers, P. \(2017\). [Open Data Privacy](https://doi.org/10.2139/ssrn.2924751). SSRN Electronic Journal. 
-* Data SF [4 Steps to Manage Privacy and De-Identification for your Open Data Program](https://datasf.org/blog/4-steps-to-manage-privacy-and-de-identification-for-your-open-data-program/)
-* [Open Data, Grey Data, and Stewardship: Universities at the Privacy Frontier](https://arxiv.org/abs/1802.02953)
+* The Research Institute for Public Libraries \(RIPL\) offers trainings and conferences for public libraries who want to use civic data: [https://ripl.lrs.org/](https://ripl.lrs.org/)
+* Hertel, K., & Sprague, N. \(2007\). [GIS and census data: Tools for library planning](https://doi.org/10.1108/07378830710755009l). _Library Hi Tech_. 
+* Adkins, D., & Sturges, D. \(2004\). [Library service planning using GIS and census data](https://mospace.umsystem.edu/xmlui/handle/10355/46219).  
 

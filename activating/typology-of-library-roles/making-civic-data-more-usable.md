@@ -1,34 +1,30 @@
-# Developing civic data literacy
+# Making civic data more usable
 
 **What's the need?**
 
-* There is an increasing need for people to strengthen data literacy skills within their job and career
-* Many people would like to know how to better find and use civic data, and at the same time understand its context and limitations.
+* Data is often available but with barriers to use.  Barriers include \(but are not limited to\) finding, obtaining, understanding, aggregating, applying, and contextualizing data.
+* Data providers and intermediaries need insight from users to help prioritize open datasets and tool development.  
 
 **Why the library?**  
 
-* Your library likely has lots of experience teaching information literacy.  
-* Your library is in the position to adapt existing services or information literacy curriculum to continue to help people access and make use of civic data.  
+* Your library has always helped to make existing information more usable and useful to its communities. 
+* Library workers are uniquely positioned to know, communicate, and advocate for the information needs of their communities. 
+* Library workers have expertise around the user experience of digital information. How do users prefer to search? To browse? To evaluate results for relevance? To download and use digital content? 
 
-**What you can do:**
+**What your library can do:**
 
-* Work with local community organizations to develop data literacy and skills training
-* Tailor an existing data literacy training toolkit to local needs
-* Fold data literacy into workforce development training workshops and programs
-* Expand the roles and skill sets of library staff
+* Author[ data user guides](http://www.wprdc.org/data-user-guides/) for specific datasets or on broader topics
+* Create views of data that meet specific needs, for user groups, social justice organizations. One example might be creating analog presentations of data for communities that are non-digital. 
+* Partner with civic data initiatives to gather user feedback for improved services
 
-**Inspiration:**  
+**Inspiration:**
 
-
-* Houston, TX _coming soon_
-* Queens, NY _coming soon_
-* Providence, RI _coming soon_
+* Pittsburgh, PA: Western Pennsylvania Regional Data Center's [Data User Guides](http://www.wprdc.org/data-user-guides/)
+* Somerville, MA: Tufts’s Hirsch Health Science Library guide, [Health Data and Statistics](https://researchguides.library.tufts.edu/c.php?g=249144&p=1658857)
+* Durham, NC: Duke University Library's guide,  [US Economic Data,](https://guides.library.duke.edu/c.php?g=289989&p=1932033) see "Local areas" for treatment of regional civic data
+* Boston, MA: Cataloguing Open Data: [Open Data to Open Knowledge](https://knightfoundation.org/grants/201550349/)
 
 **Resources you can use:**
 
-* Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center: [Data 101 Toolkit ](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit?usp=sharing)
-* MIT Center for Civic Media: [Data Therapy](https://datatherapy.org/)
-* Data Pop Alliance: [Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data ](http://datapopalliance.org/wp-content/uploads/2015/11/Beyond-Data-Literacy-2015.pdf)
-* Community Information Now: [What’s Needed for a Community to be Good at Using Data?](http://cinow.info/wp-content/uploads/2016/09/Whats-Needed-for-a-Community-to-be-Good-at-Using-Data-20160810.pdf)
-* Allied Media: [Opening Data Zine ](https://www.alliedmedia.org/news/2015/09/17/opening-data-zine-here)
+* Robinson, P., & Mather, L. W. \(2017\). [Open Data Community Maturity: Libraries as Civic Infomediaries](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf). Journal of the Urban and Regional Information Systems Association, 28. 
 

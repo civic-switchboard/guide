@@ -1,33 +1,29 @@
-# Creating civic data
+# Publishing civic data
 
 **What's the need?**
 
-* As you advocate for sharing data, you should set an example by sharing it yourself  
-* Data about your library can help better inform community context
-* Historic information that could be used as data is often held in library collections, but not in machine-readable form
-* People want to collect and create data themselves but often need support. Not everyone has specialized tools \(such as air quality monitors\) to aid in data collection. ****
+* Many municipalities and regions have open data to share but need an institution to manage or coordinate a centralized collection
 
 **Why the library?**  
 
-* Your library likely collects data for annual reporting that could also be of interest for public use. 
-* Libraries have a long tradition of reformatting materials to support different forms of use, including microfilming and digitizing collections. Creating datasets from collections is a continuation of this work.
-* Libraries have the infrastructure for loaning equipment \(like air quality monitors\) and can reach a broad and diverse audience.
+* Libraries are trusted stewards of information and library workers have considerable expertise in managing data and protecting privacy.
+* Libraries are leading many digital inclusion and data literacy efforts in their communities. 
+* As the priorities of elected officials change, having a third-party entity like a library host data from government organizations and other partners can also help to sustain community data initiatives. 
 
 **What you can do:**
 
-* [Create and publish](https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974) machine-readable datasets from library collections, resources, or operational data
-* Loan equipment for citizen science data collection 
+* Publish available non-sensitive public information \(ex. Census data\) about your community 
+* Build a prototype program using cloud-based data storage services like Dropbox, Box, or Google Drive to host data
+* Manage a civic data portal
 
 **Inspiration:**
 
-* New York, NY: [Brooklyn Public Library Open Data](https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Brooklyn+Public+Library+%28BPL%29) 
-* Pittsburgh, PA: [Carnegie Library of Pittsburgh Open Data](https://data.wprdc.org/dataset/clp-public-wifi)  
-* Chattanooga, TN: [Chattanooga Public Library Open Data](https://internal.chattadata.org/Education/Library-Circulation/t6h3-v5ms) 
-* Phoenix, AZ: “[Arizona State to Partner with Public Libraries on Citizen Science](http://lj.libraryjournal.com/2017/10/academic-libraries/arizona-state-partner-public-libraries-citizen-science/#_).” by Lisa Peet, _Library Journal_, October 26, 2017.
-* San Diego, CA: “[San Diego PL Enlists Citizen Scientists as Bug Collectors](https://www.libraryjournal.com?detailStory=san-diego-pl-enlists-citizen-scientists-bug-collectors).”  by Lisa Peet, _Library Journal_, April 8, 2018. 
+* Chattanooga, TN: Open Data portal hosted by the public library: [https://data.chattlibrary.org/](https://data.chattlibrary.org/)
+* Albuquerque, NM: Open Data infrastructure using existing server infrastructure and simple protocols like FTP [https://www.cabq.gov/abq-data](https://www.cabq.gov/abq-data)
 
 **Resources you can use:**
 
-* Always Already Computational - Collections as Data**:** This project has many resources and examples to inspire considering library collections as/containing data. A good starting place is their ["50 Things" you can do list](https://collectionsasdata.github.io/fiftythings/). 
-* SciStarter: "[Calling all Librarians: Citizen Science Day 2019 Invitation](https://blog.scistarter.com/2019/01/citizen-science-day-2019-invitation/)" 
+* Civic Switchboard Project: [8 Considerations for Libraries That Want to Host Open Data](https://civic-switchboard.github.io/post_14/%20) 
+* Linda Poon. \(2019\) “[Should Libraries Be the Keepers of Their Cities’ Public Data?](https://www.citylab.com/life/2019/02/libraries-public-information-city-data-digital-archive/581905/)” CityLab
+* Sullivan, K. \(2018\). [Can Libraries Accelerate Local Open Data Publishing?](https://medium.com/open-data-literacy/can-libraries-accelerate-local-open-data-publishing-34caaf6a767f) 
 

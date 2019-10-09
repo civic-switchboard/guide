@@ -21,7 +21,7 @@ As you consider potential roles for your library, remember the larger civic data
 
 \*\*\*\*[**Making civic data more usable** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/creating-civic-data)\*\*\*\*
 
-**Providing expertise on data management** 
+\*\*\*\*[**Providing expertise on data management** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/providing-expertise-on-data-management)
 
 **Creating Civic Data** 
 

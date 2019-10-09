@@ -1,30 +1,33 @@
-# Making civic data more usable
+# Creating civic data
 
 **What's the need?**
 
-* Data is often available but with barriers to use.  Barriers include \(but are not limited to\) finding, obtaining, understanding, aggregating, applying, and contextualizing data.
-* Data providers and intermediaries need insight from users to help prioritize open datasets and tool development.  
+* As you advocate for sharing data, you should set an example by sharing it yourself  
+* Data about your library can help better inform community context
+* Historic information that could be used as data is often held in library collections, but not in machine-readable form
+* People want to collect and create data themselves but often need support. Not everyone has specialized tools \(such as air quality monitors\) to aid in data collection. ****
 
 **Why the library?**  
 
-* Your library has always helped to make existing information more usable and useful to its communities. 
-* Library workers are uniquely positioned to know, communicate, and advocate for the information needs of their communities. 
-* Library workers have expertise around the user experience of digital information. How do users prefer to search? To browse? To evaluate results for relevance? To download and use digital content? 
+* Your library likely collects data for annual reporting that could also be of interest for public use. 
+* Libraries have a long tradition of reformatting materials to support different forms of use, including microfilming and digitizing collections. Creating datasets from collections is a continuation of this work.
+* Libraries have the infrastructure for loaning equipment \(like air quality monitors\) and can reach a broad and diverse audience.
 
-**What your library can do:**
+**What you can do:**
 
-* Author[ data user guides](http://www.wprdc.org/data-user-guides/) for specific datasets or on broader topics
-* Create views of data that meet specific needs, for user groups, social justice organizations. One example might be creating analog presentations of data for communities that are non-digital. 
-* Partner with civic data initiatives to gather user feedback for improved services
+* [Create and publish](https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974) machine-readable datasets from library collections, resources, or operational data
+* Loan equipment for citizen science data collection 
 
 **Inspiration:**
 
-* Pittsburgh, PA: Western Pennsylvania Regional Data Center's [Data User Guides](http://www.wprdc.org/data-user-guides/)
-* Somerville, MA: Tufts’s Hirsch Health Science Library guide, [Health Data and Statistics](https://researchguides.library.tufts.edu/c.php?g=249144&p=1658857)
-* Durham, NC: Duke University Library's guide,  [US Economic Data,](https://guides.library.duke.edu/c.php?g=289989&p=1932033) see "Local areas" for treatment of regional civic data
-* Boston, MA: Cataloguing Open Data: [Open Data to Open Knowledge](https://knightfoundation.org/grants/201550349/)
+* New York, NY: [Brooklyn Public Library Open Data](https://data.cityofnewyork.us/browse?Dataset-Information_Agency=Brooklyn+Public+Library+%28BPL%29) 
+* Pittsburgh, PA: [Carnegie Library of Pittsburgh Open Data](https://data.wprdc.org/dataset/clp-public-wifi)  
+* Chattanooga, TN: [Chattanooga Public Library Open Data](https://internal.chattadata.org/Education/Library-Circulation/t6h3-v5ms) 
+* Phoenix, AZ: “[Arizona State to Partner with Public Libraries on Citizen Science](http://lj.libraryjournal.com/2017/10/academic-libraries/arizona-state-partner-public-libraries-citizen-science/#_).” by Lisa Peet, _Library Journal_, October 26, 2017.
+* San Diego, CA: “[San Diego PL Enlists Citizen Scientists as Bug Collectors](https://www.libraryjournal.com?detailStory=san-diego-pl-enlists-citizen-scientists-bug-collectors).”  by Lisa Peet, _Library Journal_, April 8, 2018. 
 
 **Resources you can use:**
 
-* Robinson, P., & Mather, L. W. \(2017\). [Open Data Community Maturity: Libraries as Civic Infomediaries](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf). Journal of the Urban and Regional Information Systems Association, 28. 
+* Always Already Computational - Collections as Data**:** This project has many resources and examples to inspire considering library collections as/containing data. A good starting place is their ["50 Things" you can do list](https://collectionsasdata.github.io/fiftythings/). 
+* SciStarter: "[Calling all Librarians: Citizen Science Day 2019 Invitation](https://blog.scistarter.com/2019/01/citizen-science-day-2019-invitation/)" 
 
