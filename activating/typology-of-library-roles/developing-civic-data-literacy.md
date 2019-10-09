@@ -18,7 +18,7 @@
 
 * Pittsburgh, PA: Carnegie Library of Pittsburgh - [Civic Data Zine Camp](http://yalsa.ala.org/blog/2017/09/28/civic-data-zine-camp/)
 * St. Paul, MN: [Data Party](https://sppl.org/data-party/)
-* Ottowa, ON: [Open Data Ottawa Book Club](https://opendataottawa.tumblr.com/post/97848763391/open-data-book-club)
+* Ottawa, ON: [Open Data Ottawa Book Club](https://opendataottawa.tumblr.com/post/97848763391/open-data-book-club)
 * Charlotte, SC: [Charlotte Mecklenburg Public Library Book Club](https://plancharlotte.org/story/matthew-desmond-evicted-charlotte-nc-book-club)
 
 **Resources you can use:**
