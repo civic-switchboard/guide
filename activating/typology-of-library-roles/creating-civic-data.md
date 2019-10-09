@@ -26,5 +26,5 @@
 
 **Resources you can use:**
 
-* _Coming soon_
+* Robinson, P., & Mather, L. W. \(2017\). [Open Data Community Maturity: Libraries as Civic Infomediaries](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf). Journal of the Urban and Regional Information Systems Association, 28. 
 
