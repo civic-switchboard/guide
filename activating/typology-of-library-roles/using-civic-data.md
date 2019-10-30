@@ -21,7 +21,7 @@
 
 **Resources you can use:**
 
-* The Research Institute for Public Libraries \(RIPL\) offers trainings and conferences for public libraries who want to use civic data: [https://ripl.lrs.org/](https://ripl.lrs.org/)
+* [The Research Institute for Public Libraries \(RIPL\)](https://ripl.lrs.org/) offers trainings and conferences for public libraries who want to use civic data
 * Hertel, K., & Sprague, N. \(2007\). [GIS and census data: Tools for library planning](https://doi.org/10.1108/07378830710755009l). _Library Hi Tech_. 
 * Adkins, D., & Sturges, D. \(2004\). [Library service planning using GIS and census data](https://mospace.umsystem.edu/xmlui/handle/10355/46219).  
 

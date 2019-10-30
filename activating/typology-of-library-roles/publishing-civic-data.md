@@ -18,8 +18,8 @@
 
 **Inspiration:**
 
-* Chattanooga, TN: Open Data portal hosted by the public library: [https://data.chattlibrary.org/](https://data.chattlibrary.org/)
-* Albuquerque, NM: Open Data infrastructure using existing server infrastructure and simple protocols like FTP [https://www.cabq.gov/abq-data](https://www.cabq.gov/abq-data)
+* Chattanooga, TN: [Open Data portal](https://data.chattlibrary.org/) hosted by the public library
+* Albuquerque, NM: [Open Data infrastructure](https://www.cabq.gov/abq-data) using existing server infrastructure and simple protocols like FTP 
 
 **Resources you can use:**
 
