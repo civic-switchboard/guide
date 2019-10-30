@@ -1,4 +1,4 @@
-# Resources
+# Selected Resources
 
 On this page, we've selected and described some resources that we think are most relevant to the "Understanding" section. You can also find a comprehensive list of the references cited throughout the entire guide on the [Guide Resources](https://civic-switchboard.gitbook.io/guide/guide-resources) page.
 
