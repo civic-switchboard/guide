@@ -6,7 +6,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### **Charlotte Mecklenburg Public Library, Charlotte, NC**
 
-### [Fondren Library, Rice University, Houston, TX](https://civic-switchboard.gitbook.io/guide/case-studies/fondren-library-rice-university-houston-tx)
+### [Fondren Library, Rice University, Houston, TX](fondren-library-rice-university-houston-tx.md)
 
 ### Pioneer Library System, Ontario County, NY
 

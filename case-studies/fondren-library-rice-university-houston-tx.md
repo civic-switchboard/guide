@@ -6,7 +6,7 @@ description: Enriching workforce development training with data literacy
 
 **Partner organization:** Kinder Institute for Urban Research, Rice University
 
-**Library roles played:** [Developing Civic Data Literacy](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/developing-civic-data-literacy), [Showing the Importance of Civic Data](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/showing-importance-civic-data), [Connecting Data Users](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/connecting-data-users)
+**Library roles played:** [Developing Civic Data Literacy](../activating/typology-of-library-roles/developing-civic-data-literacy.md), [Showing the Importance of Civic Data](../activating/typology-of-library-roles/showing-importance-civic-data.md), [Connecting Data Users](../activating/typology-of-library-roles/connecting-data-users.md)
 
 {% hint style="info" %}
 The Fondren and Kinder team piloted data literacy workshops with community members and then incorporated what they learned into a 'train the trainers' workshop for the United Way of Greater Houston. Rather than designing the workshops around a particular technical skill or tool, their workshop design deliberately emphasized general principles of data, and ways data might support participants' decision-making.
