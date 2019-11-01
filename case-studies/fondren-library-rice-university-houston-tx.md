@@ -23,7 +23,7 @@ Throughout the creation and facilitation of our trainings, we were careful not t
 One of our challenges was understanding how to target our training efforts, since it wasn’t clear what prior knowledge or learning goals participants would bring to the workshops. With our first workshop, we were able to conduct a pre-assessment, which helped us to understand how much our group of high school students already knew about data literacy. We also consulted with our workshop hosts to learn more about our participants and their interests and needs. We learned about the value of connecting our training with programs that have set clear expectations for participants
 
 {% hint style="info" %}
-In this section, Fondren and Kinder team members reflect on how their civic data work ties into their institutional missions and how each benefitted from the partnership. In this case the partnership also helped the project reach new audiences for the library and deepen existing relationships through the project activities.
+In the next section, Fondren and Kinder team members reflect on how their civic data work ties into their institutional missions and how each benefitted from the partnership. In this case the partnership also helped the project reach new audiences for the library and deepen existing relationships through the project activities.
 {% endhint %}
 
 The Kinder Institute for Urban Research seeks to facilitate the practical use of data by city and community leaders for decision-making and capacity building in Houston’s disadvantaged communities. The Kinder Institute team members on this project were able to leverage their community connections and training-related learnings during the planning and execution of this project.
