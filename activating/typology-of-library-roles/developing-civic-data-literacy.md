@@ -27,6 +27,7 @@
 **Resources you can use:**
 
 * Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center: [Data 101 Toolkit ](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit?usp=sharing)
+* Data Equity for Main Street: [Open Data Curriculum](https://data-equity.org) 
 * MIT Center for Civic Media: [Data Therapy](https://datatherapy.org/)
 * Data Pop Alliance: [Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data ](http://datapopalliance.org/wp-content/uploads/2015/11/Beyond-Data-Literacy-2015.pdf)
 * Community Information Now: [What’s Needed for a Community to be Good at Using Data?](http://cinow.info/wp-content/uploads/2016/09/Whats-Needed-for-a-Community-to-be-Good-at-Using-Data-20160810.pdf)
