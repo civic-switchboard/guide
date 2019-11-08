@@ -2,7 +2,7 @@
 description: Increasing awareness of open data through community conversations
 ---
 
-# St Paul Public Library, St Paul, MN
+# St. Paul Public Library, St. Paul, MN
 
 **Partner organization:** St. Paul’s Office of Technology and Communications 
 

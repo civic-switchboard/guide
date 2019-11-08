@@ -37,7 +37,7 @@
   * [Selected Resources](maintaining/resources.md)
 * [Case Studies](case-studies/README.md)
   * [Fondren Library,  Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
-  * [St Paul Public Library, St Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
+  * [St. Paul Public Library, St. Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
 * [Guide Resources](guide-resources/README.md)
   * [Open Data](guide-resources/open-data.md)
   * [Data Literacies](guide-resources/data-literacies.md)
