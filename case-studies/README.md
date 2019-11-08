@@ -16,7 +16,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### Robert L. Bogomolny Library at the University of Baltimore, MD
 
-### [St. Paul Public Library, St. Paul, MN](st-paul-public-library-st-paul-mn.md)
+### [St. Paul Public Library, St. Paul, MN](st-paul-public-library-st-paul-mn.md) - _**Increasing awareness of open data through community conversations**_
 
 ### Western New York Library Resources Council, Western NY
 
