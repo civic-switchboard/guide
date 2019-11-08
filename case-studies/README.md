@@ -2,11 +2,11 @@
 
 The following libraries led projects in 2019 with support from the Civic Switchboard Project. Each project worked with one or more local community data partner organizations to increase the library's capacity in their local civic data ecosystem. The resulting case studies, drawn mostly from each project team's own writing, give insight into the variety that can be found across local data ecosystems and provide real-world examples of roles that libraries can play within them.
 
-### **Alaska State Library, Juneau, AK**
+### **Alaska State Library, Juneau, AK** 
 
 ### **Charlotte Mecklenburg Public Library, Charlotte, NC**
 
-### [Fondren Library, Rice University, Houston, TX](fondren-library-rice-university-houston-tx.md)
+### [Fondren Library, Rice University, Houston, TX](fondren-library-rice-university-houston-tx.md) - _**Enriching workforce development training with data literacy**_
 
 ### Pioneer Library System, Ontario County, NY
 
