@@ -12,7 +12,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### Providence Public Library, Providence, RI
 
-### Queens Borough Public Library, Queens, NY
+### Queens Borough Public Library, Queens, NY - _Partnering to provide data literacy trainings to improve census outcomes_
 
 ### Robert L. Bogomolny Library at the University of Baltimore, MD
 
