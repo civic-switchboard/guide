@@ -24,5 +24,5 @@
 **Resources you can use:**
 
 * Civic Switchboard Guide, ****[Ecosystem Mapping](https://civic-switchboard.gitbook.io/guide/understanding/mapping-your-ecosystem)
-* Arena, Olivia and Li, Crystal. **“**[Guide to Civic Tech and Data Ecosystem Mapping.](https://drive.google.com/drive/u/0/folders/1ASo7txzEKKnQeSUBwP3-RlwUtJ-HCV0U)**”**
+* Arena, Olivia and Li, Crystal. **“**[Guide to Civic Tech and Data Ecosystem Mapping](https://medium.com/civic-tech-data-collaborative/the-civic-tech-and-data-collaborative-guide-to-civic-tech-data-ecosystem-mapping-f94bc1665548).**”**
 
