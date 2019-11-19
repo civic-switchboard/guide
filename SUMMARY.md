@@ -11,6 +11,7 @@
 * [Engaging](engaging/README.md)
   * [Building Libraries into Civic Data Partnerships](engaging/building-libraries-into-civic-data-partnerships.md)
   * [Finding Partners in Your Ecosystem](engaging/finding-a-data-intermediary-partne.md)
+  * [Common Barriers](engaging/common-barriers.md)
   * [Selected Resources](engaging/resources.md)
 * [Understanding](understanding/README.md)
   * [Mapping your Ecosystem](understanding/mapping-your-ecosystem.md)
@@ -47,5 +48,6 @@
   * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
   * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
 * [Toolkit](toolkit/README.md)
+  * [Untitled](toolkit/untitled.md)
   * [Glossary](toolkit/glossary.md)
 
