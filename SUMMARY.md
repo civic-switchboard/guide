@@ -37,6 +37,7 @@
   * [Selected Resources](maintaining/resources.md)
 * [Case Studies](case-studies/README.md)
   * [Fondren Library,  Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
+  * [Providence Public Library, Providence, RI](case-studies/providence-public-library-providence-ri.md)
   * [Queens Borough Public Library, Queens, NY](case-studies/queens-borough-public-library-queens-ny.md)
   * [St. Paul Public Library, St. Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
 * [Guide Resources](guide-resources/README.md)
