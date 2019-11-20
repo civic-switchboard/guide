@@ -30,3 +30,27 @@ There is also the chance that even though your initial scan did not turn up an a
 
 If you have explored your civic data ecosystem and found that there is ****indeed not a lot happening in your area, that's OK. You have the opportunity to start something extraordinary. You can start to bring people together to talk about data with an eye toward developing shared best practices. One way to bring people together involves inviting a speaker from a nearby community knee-deep in data intermediaries. Or, hold an open data conversation to connect with potential allies. You might even consider holding a training session on federal data tools, or an informal hack night using whatever community data is available to you. These types of actions and activities will help you see who else is interested in using civic data in your community, and \(importantly\) give you a chance to grab their contact information. They may also reveal some players/things going on that you missed in your original scan. We provide a typology of roles and activities in the[ Activating section](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles) of this guide.
 
+### **Finding Partners in Your Library**
+
+You may be interested in increasing your library's engagement with community data but want to involve others in your organization rather than going it alone. There are a number of departments, units, and position types where you may find colleagues who are similarly interested in designing long-term strategic initiatives or programming around civic data. 
+
+If you're in a public library setting, talk to your colleagues in these departments or with these areas of focus:
+
+* Digital Strategy / Digital Initiatives 
+* Technology Services / Emerging Technology 
+* Adult Programming 
+* Information Services / Reference Services
+* Nonprofit Resource Centers / Foundation Centers
+* Workplace Development
+* Outreach / Community Engagement
+
+If you're in an academic library setting, being with colleagues engaged in these areas:
+
+* Data Services 
+* Digital Scholarship Services
+* Government Documents 
+* Liaison librarian / Subject Specialists for urban studies, public health, public policy, or social work
+* Administration, including the Assistant or Associate University Librarian for Research
+
+
+
