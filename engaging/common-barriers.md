@@ -1,8 +1,7 @@
 ---
 description: >-
-  We have heard many barriers related to library work in civic data.  In the
-  section below we identify common barriers and provide links to sections of the
-  guide that we believe will help work through t
+  In the section below we identify common barriers and provide links to sections
+  of the guide that we believe will help work through them.
 ---
 
 # Common Barriers

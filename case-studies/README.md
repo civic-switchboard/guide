@@ -10,7 +10,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### Pioneer Library System, Ontario County, NY
 
-### Providence Public Library, Providence, RI
+### [Providence Public Library, Providence, RI](providence-public-library-providence-ri.md) - _Engaging teens to tell local data stories with paper and electronics_
 
 ### [Queens Borough Public Library, Queens, NY](queens-borough-public-library-queens-ny.md) - _Partnering to provide data literacy trainings to improve census outcomes_
 
