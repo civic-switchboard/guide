@@ -4,7 +4,10 @@ With this section of the guide, we share tools you can take, adapt, and implemen
 
 Here are the tools you'll find:
 
-## **Engaging**
+## **Engaging Partners**
+
+* Talking Points: Why Libraries Should be Key Participants in their Civic Data Ecosystems \[[PDF](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf), [PNG](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.png)\]
+  * This one-sheet provides a set of talking points you can use to advocate to yourself, your colleagues, your administrators, community groups, potential partners, and funders. Are we missing something? Let us know.
 
 **Ecosystem Mapping**
 
@@ -13,7 +16,7 @@ Here are the tools you'll find:
 * [Exploring Other Ecosystem Maps](https://github.com/civic-switchboard/guide/raw/master/toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
   * A series of prompts to use when looking at an ecosystem map created by someone else
 
-## Activating
+## Library Roles
 
 **Identifying Library Roles**
 
