@@ -6,7 +6,7 @@ description: Engaging teens to tell local data stories with paper and electronic
 
 **Partner organizations:** NEXMAP, Chibitronics \(non-profit civic tech organization\)
 
-**Library roles played:** [Developing civic data literacy](../activating/typology-of-library-roles/developing-civic-data-literacy.md), [Showing the importance of Civic Data](../activating/typology-of-library-roles/showing-importance-civic-data.md)
+**Library roles played:** [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md), [Showing the importance of Civic Data](../library-roles/showing-importance-civic-data.md)
 
 {% hint style="info" %}
 **The Providence team worked with consultants to develop teen-focused paper circuit data visualization workshops to complement a larger data literacy initiative. The workshops took a unique approach to data literacy to promote hands on learning for a hard to reach audience. The library hopes to apply this workshop model to other opportunities with community partners.**

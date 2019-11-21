@@ -1,6 +1,6 @@
 # Ways of thinking about data: Open Data, Civic Data
 
-We said in our introduction that our guide is not a primer on Open Data. That's true, and we recommend a number of [other resources](../understanding/resources.md) that do a good job covering the nitty-gritty of Open Data. Here we offer just a little information about some terms that we that they represent slightly different concepts.
+We said in our introduction that our guide is not a primer on Open Data. That's true, and we recommend a number of [other resources](../understanding-your-ecosystem/resources.md) that do a good job covering the nitty-gritty of Open Data. Here we offer just a little information about some terms that we that they represent slightly different concepts.
 
 **Open Data** generally describes data that are free to access, use, and reuse by anybody for any purpose; are available in a usable, often machine-readable formats; and which can be modified and shared by others. The great accessibility and permissive use of open data make it very appealing. Substantial investments are often needed to prepare, describe, and reliably publish such data. Openness can conflict with privacy and ethical issues related to certain types of data.  
 

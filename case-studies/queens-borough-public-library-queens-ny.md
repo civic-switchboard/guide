@@ -6,7 +6,7 @@ description: Partnering to provide data literacy trainings to improve census out
 
 **Partner organizations:** Mayor’s Office of Data Analytics
 
-**Library roles played:** [Developing civic data literacy](../activating/typology-of-library-roles/developing-civic-data-literacy.md); [Making civic data more usable](../activating/typology-of-library-roles/making-civic-data-more-usable.md); [Showing the importance of civic data](../activating/typology-of-library-roles/showing-importance-civic-data.md)
+**Library roles played:** [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md); [Making civic data more usable](../library-roles/making-civic-data-more-usable.md); [Showing the importance of civic data](../library-roles/showing-importance-civic-data.md)
 
 {% hint style="info" %}
 The Queens Borough Public Library project \(Data Counts\)  trained library staff to provide open data workshops in hard to count census tracts; provided training and resources to partner organizations, and developed a community trainer program in collaboration with the NYC Mayor’s office to increase public engagement with the city's open data portal.  The Queens library was able to maximize their reach through targeting multiple audiences with trainings, making the training curriculum public and implementing community trainers to promote open data. The library continues to expand the community trainer program and Census outreach with multiple NYC public library partners.

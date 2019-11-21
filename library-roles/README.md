@@ -1,4 +1,4 @@
-# Library Roles in Civic Data Ecosystems
+# Library Roles
 
 Throughout this guide you've read why we believe libraries should be **key actors in civic open data ecosystems**.
 

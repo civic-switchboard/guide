@@ -6,7 +6,7 @@ description: Increasing awareness of open data through community conversations
 
 **Partner organization:** St. Paul’s Office of Technology and Communications 
 
-**Library roles played:** [Connecting data users](../activating/typology-of-library-roles/connecting-data-users.md), [Showing the importance of civic data](../activating/typology-of-library-roles/showing-importance-civic-data.md), [Developing civic data literacy](../activating/typology-of-library-roles/developing-civic-data-literacy.md), [Increasing the library’s capacity](../activating/typology-of-library-roles/increasing-the-librarys-capacity.md)
+**Library roles played:** [Connecting data users](../library-roles/connecting-data-users.md), [Showing the importance of civic data](../library-roles/showing-importance-civic-data.md), [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md), [Increasing the library’s capacity](../library-roles/increasing-the-librarys-capacity.md)
 
 {% hint style="info" %}
 St. Paul Public Library worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, and so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.
