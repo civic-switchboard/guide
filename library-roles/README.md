@@ -8,27 +8,27 @@ These roles are meant as a list of possibilities and opportunities. We understan
 
 As you consider potential roles for your library, remember the larger civic data ecosystem. Think about what is already taking place, who is already active, and where you might work in [partnership with other organizations](https://civic-switchboard.gitbook.io/guide/engaging/finding-a-data-intermediary-partne)**.** Remember, other libraries can be partners, too! We have found many cases where different libraries \(such as a public and an academic\) have capacity and expertise that complements each other around these roles.   ****
 
-### \*\*\*\*[**Connecting data users**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/connecting-data-users)
+### \*\*\*\*[**Connecting**](connecting-data-users.md)[ **data users**](connecting-data-users.md)
 
-### \*\*\*\*[**Connecting data producers** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/connecting-data-producers)
+### \*\*\*\*[**Connecting data producers** ](connecting-data-producers.md)
 
-### \*\*\*\*[**Showing the importance of civic data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/showing-importance-civic-data)
+### \*\*\*\*[**Showing the importance of civic data** ](showing-importance-civic-data.md)
 
-### \*\*\*\*[**Developing civic data literacy**](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/developing-civic-data-literacy)
+### \*\*\*\*[**Developing civic data literacy**](developing-civic-data-literacy.md)
 
-### \*\*\*\*[**Advocating for ethical, responsible, and accessible civic data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/advocating)
+### \*\*\*\*[**Advocating for ethical, responsible, and accessible civic data** ](advocating.md)
 
-### \*\*\*\*[**Making civic data more usable** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/making-civic-data-more-usable)
+### \*\*\*\*[**Making civic data more usable** ](making-civic-data-more-usable.md)
 
-### \*\*\*\*[**Providing expertise on data management** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/providing-expertise-on-civic-data)
+### \*\*\*\*[**Providing expertise on data management** ](providing-expertise-on-civic-data.md)
 
-### \*\*\*\*[**Creating Civic Data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/creating-civic-data)
+### \*\*\*\*[**Creating Civic Data** ](creating-civic-data.md)
 
-### \*\*\*\*[**Using Civic Data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/using-civic-data)
+### \*\*\*\*[**Using Civic Data** ](using-civic-data.md)
 
-### \*\*\*\*[**Publishing Civic Data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/publishing-civic-data)
+### \*\*\*\*[**Publishing Civic Data** ](publishing-civic-data.md)
 
-### \*\*\*\*[**Archiving Civic Data** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/archiving-civic-data)
+### \*\*\*\*[**Archiving Civic Data** ](archiving-civic-data.md)
 
-### \*\*\*\*[**Increasing the library's capacity to do all of the above** ](https://civic-switchboard.gitbook.io/guide/activating/typology-of-library-roles/increasing-the-librarys-capacity) 
+### \*\*\*\*[**Increasing the library's capacity to do all of the above** ](increasing-the-librarys-capacity.md) 
 

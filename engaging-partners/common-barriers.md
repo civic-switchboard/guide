@@ -12,7 +12,7 @@ When there are multiple players in the field \(or in your own library\) it is im
 
 **Lack of urgency**
 
-With constraints on time and  resources, you might find that some in your organization view building the library’s civic data capacity as a low priority.  There are ways to advocate for action and make a case for engagement: [Finding resources to support civic data work](../maintaining/finding-resources-for-your-engagement.md).
+With constraints on time and  resources, you might find that some in your organization view building the library’s civic data capacity as a low priority.  There are ways to advocate for action and make a case for engagement: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md).
 
 **Building trust and credibility for the library in the civic data space** 
 
@@ -24,11 +24,11 @@ Open and civic data can be confusing - both in how it is defined and how it may 
 
 **Maintaining momentum** 
 
-It can a real challenge to continuously energize, build, and fund libraries in civic data work.  Building partnerships, joint projects and institutionalizing the roles are strategies to share the challenge  and maintain momentum. You might find resources in: [Finding resources to support civic data work](../maintaining/finding-resources-for-your-engagement.md); [Library roles](); and [Building libraries into civic data partnerships](building-libraries-into-civic-data-partnerships.md).
+It can a real challenge to continuously energize, build, and fund libraries in civic data work.  Building partnerships, joint projects and institutionalizing the roles are strategies to share the challenge  and maintain momentum. You might find resources in: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md); [Library roles](); and [Building libraries into civic data partnerships](building-libraries-into-civic-data-partnerships.md).
 
 **Finding capacity** 
 
-Related to lack of urgency, civic data work isn’t always top priority as a place to expend capacity.  Starting small, proof of concept can help build the momentum and prove that putting time and capacity into the work is worthwhile. Check out: [Building partnerships into civic data partnerships](building-libraries-into-civic-data-partnerships.md); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Finding resources to support civic data work](../maintaining/finding-resources-for-your-engagement.md)
+Related to lack of urgency, civic data work isn’t always top priority as a place to expend capacity.  Starting small, proof of concept can help build the momentum and prove that putting time and capacity into the work is worthwhile. Check out: [Building partnerships into civic data partnerships](building-libraries-into-civic-data-partnerships.md); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md)
 
 **Lacking authority to create or encourage to create a single network.**  
 
