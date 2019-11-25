@@ -7,13 +7,13 @@ description: >-
 
 # Common Barriers to Getting Started
 
- **Negotiating boundaries**
-
-When there are multiple players in the field \(or in your own library\) it is important to understand the roles of other organizations.  Some resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/raw/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
-
 **Lack of urgency**
 
-With constraints on time and  resources, you might find that some in your organization view building the library’s civic data capacity as a low priority.  There are ways to advocate for action and make a case for engagement: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md).
+With constraints on library workers' ****time and library resources, you might find that some in your organization view building civic data capacity as a low priority.  There are ways to advocate for action and make a case for engagement: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md).
+
+**Negotiating boundaries**
+
+You may be surprised by how robust of a data ecosystem When there are multiple players in the field \(or in your own library\) it is important to understand the roles of other organizations.  Some resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/raw/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
 
 **Building trust and credibility for the library in the civic data space** 
 
