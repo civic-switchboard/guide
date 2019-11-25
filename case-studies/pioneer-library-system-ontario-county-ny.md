@@ -6,9 +6,9 @@ description: >-
 
 # Pioneer Library System, Ontario County, NY
 
-**Partner organizations:** Substance Abuse Prevention Coalition of Ontario County
+**Partner organizations:** [Substance Abuse Prevention Coalition of Ontario County](https://partnershipforontariocounty.org/community-programs/prevention-coalition/)
 
-**Library roles played:**  Connecting data providers, Connecting data users, Showing the importance of Civic Data
+**Library roles played:**  [Connecting data producers](../library-roles/connecting-data-producers.md), [Connecting data users](../library-roles/connecting-data-users.md), [Showing the importance of Civic Data](../library-roles/showing-importance-civic-data.md)
 
 {% hint style="info" %}
 **Substance abuse prevention is an issue of concern for Ontario County; the county already had a cross-sector group, the Substance Abuse Prevention Coalition \(SAPC\) of Ontario County, with an interest in the availability and sharing of data. The Pioneer Library System, a multi-county cooperative system serving 42 public libraries, collaborated with SAPC to hold an ecosystem mapping event to better understand how local organizations obtain, use, and share data.  Going forward, SAPC is working to find a permanent home for the ecosystem map while the library considers if it has the capacity to prioritize civic data work.**
