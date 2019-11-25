@@ -6,7 +6,8 @@ The Civic Switchboard project was designed, in part, to help facilitate a commun
 
 There are a number of groups that bring together data intermediaries. 
 
-* **NNIP \[describe NNIP; link to resources, public google group\]**
+* \*\*\*\*[**NNIP**](https://www.neighborhoodindicators.org/) ****
+  * NNIP partner organizations are well-established data intermediaries that have positive and collaborative working relationships with a wide range of local institutions. The NNIP has made a rich set of resources available in the form of webinars and guides \(check out, for example, "[NNIP Lessons on Local Data Sharing](https://www.neighborhoodindicators.org/library/guides/nnip-lessons-local-data-sharing)" and "[Guide for Community Training on Data and Technology](https://www.neighborhoodindicators.org/library/catalog/guide-community-training-data-and-technology)"\).
 * \*\*\*\*[**Community Indicators Consortium** ](https://communityindicators.net/)\*\*\*\*
   * Community indicators "are measures that refer to population groups rather than individuals. \(They indicate what’s happening at the community level, rather than the individual level.\)" \([University of Kansas, Community Tool Box](https://ctb.ku.edu/en/table-of-contents/evaluate/evaluate-community-initiatives/examples-of-community-level-indicators/main)\)
 * **Code for America Brigade Network** [**https://brigade.codeforamerica.org/**](https://brigade.codeforamerica.org/)
