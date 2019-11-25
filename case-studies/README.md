@@ -14,7 +14,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### [Queens Borough Public Library, Queens, NY](queens-borough-public-library-queens-ny.md) - _Partnering to provide data literacy trainings to improve census outcomes_
 
-### Robert L. Bogomolny Library at the University of Baltimore, MD - _**Joining open data and archival collections for neighborhood stories**_
+### [Robert L. Bogomolny Library at the University of Baltimore, MD](robert-l.-bogomolny-library-at-the-university-of-baltimore-md.md) - _**Joining open data and archival collections for neighborhood stories**_
 
 ### [St. Paul Public Library, St. Paul, MN](st-paul-public-library-st-paul-mn.md) - _**Increasing awareness of open data through community conversations**_
 
