@@ -1,14 +1,15 @@
 ---
 description: >-
-  In the section below we identify common barriers and provide links to sections
-  of the guide that we believe will help work through them.
+  Through this project, we’ve learned about common barriers to entry that
+  libraries are navigating. This section overviews some of these challenges and
+  points to places in guide that may provide help.
 ---
 
-# Common Barriers
+# Common Barriers to Getting Started
 
  **Negotiating boundaries**
 
-When there are multiple players in the field \(or in your own library\) it is important to understand the roles of other organizations.  Some resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/raw/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
+When there are multiple players in the field \(or in your own library\) it is important to understand the roles of other organizations.  Some resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/raw/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
 
 **Lack of urgency**
 
@@ -16,7 +17,7 @@ With constraints on time and  resources, you might find that some in your organi
 
 **Building trust and credibility for the library in the civic data space** 
 
-Libraries may be new to the civic data space and other entities may not  know what new role the library intends. Some ways for the library to become a trusted participant in the field might be: [Library roles](); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); Community user needs.
+Libraries may be new to the civic data space and other entities may not  know what new role the library intends. Some ways for the library to become a trusted participant in the field might be: Library[ ](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles)roles; [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); Community user needs.
 
 **Potential negative consequences from publicly available data**
 
@@ -24,7 +25,7 @@ Open and civic data can be confusing - both in how it is defined and how it may 
 
 **Maintaining momentum** 
 
-It can a real challenge to continuously energize, build, and fund libraries in civic data work.  Building partnerships, joint projects and institutionalizing the roles are strategies to share the challenge  and maintain momentum. You might find resources in: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md); [Library roles](); and [Building libraries into civic data partnerships](building-libraries-into-civic-data-partnerships.md).
+It can a real challenge to continuously energize, build, and fund libraries in civic data work.  Building partnerships, joint projects and institutionalizing the roles are strategies to share the challenge  and maintain momentum. You might find resources in: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md); [Library roles;](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) and [Building libraries into civic data partnerships](building-libraries-into-civic-data-partnerships.md).
 
 **Finding capacity** 
 
@@ -36,6 +37,6 @@ Take your time, build trust.  Remember that you don’t have to be the authority
 
 **Feeling unqualified**
 
-You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library Roles]() where we outline why libraries fit right in to civic data ecosystems.  
+You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library Roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) where we outline why libraries fit right in to civic data ecosystems.  
 
 

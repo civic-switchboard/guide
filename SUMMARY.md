@@ -11,7 +11,7 @@
 * [Engaging Partners](engaging-partners/README.md)
   * [Building Libraries into Civic Data Partnerships](engaging-partners/building-libraries-into-civic-data-partnerships.md)
   * [Finding Partners in Your Ecosystem](engaging-partners/finding-a-data-intermediary-partne.md)
-  * [Common Barriers](engaging-partners/common-barriers.md)
+  * [Common Barriers to Getting Started](engaging-partners/common-barriers.md)
   * [Selected Resources](engaging-partners/resources.md)
 * [Understanding Your Ecosystem](understanding-your-ecosystem/README.md)
   * [Mapping your Ecosystem](understanding-your-ecosystem/mapping-your-ecosystem.md)
