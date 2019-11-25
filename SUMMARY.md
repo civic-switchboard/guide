@@ -36,6 +36,7 @@
   * [Support Networks and Communities of Practice](maintaining-momentum/support-networks-and-communities-of-practice.md)
   * [Selected Resources](maintaining-momentum/resources.md)
 * [Case Studies](case-studies/README.md)
+  * [Charlotte Mecklenburg Public Library, Charlotte, NC](case-studies/charlotte-mecklenburg-public-library-charlotte-nc.md)
   * [Fondren Library,  Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
   * [Pioneer Library System, Ontario County, NY](case-studies/pioneer-library-system-ontario-county-ny.md)
   * [Providence Public Library, Providence, RI](case-studies/providence-public-library-providence-ri.md)
