@@ -13,9 +13,11 @@ There are a number of groups that bring together data intermediaries. These orga
 * \*\*\*\*[**Code for America Brigade Network** ](https://brigade.codeforamerica.org/)\*\*\*\*
   * Code for America is a "national alliance of community organizers, developers, and designers that are putting technology to work in service of our local communities." There are currently 85 official brigades around the country that are hosting hackathons, community events, and programming Data Day and the National Day of Civic Hacking**.** Join the conversation on the [Code for America Slack channel](https://docs.google.com/forms/d/e/1FAIpQLSfRqy9L8Z5bS8cPHmHrY6BPT5g6K45uo0Z3KicYLB4bsFp2wA/viewform) or check out your [local brigade](https://brigade.codeforamerica.org/brigades). In Pittsburgh, our brigade, Code for Pittsburgh, uses [Meetup](https://www.meetup.com/codeforpgh/) to publicize events -- you might find yours does the same!
 * \*\*\*\*[**DLF Interest Group on Government Records Transparency and Accountability** ](https://www.diglib.org/groups/transparency-accountability/)\*\*\*\*
-  * **The Digital Library Federation** 
-* **csv,conf** [**https://csvconf.com/**](https://csvconf.com/)
-* **EDGI - Environmental Data & Governance Initiative** [**https://envirodatagov.org/**](https://envirodatagov.org/)
+  * The Interest Group on Government Records Transparency and Accountability “seeks to support a broader culture of records transparency in the digital age.” One of the group’s signature efforts is the [Endangered Data Week](https://endangereddataweek.org/), a series of events that “shed light on public datasets that are in danger of being deleted, repressed, mishandled, or lost.” There’s a monthly call and Google Group, and you can begin to get involved by visiting the Group’s [Wiki](https://wiki.diglib.org/Transparency-Accountability).
+* [**csv,conf** ](https://csvconf.com/)
+  * This annual conference brings together “data makers” “to discuss data topics, and features stories about data sharing and data analysis from science, journalism, government, and open source.” You can find information about submitting and attend the next csv,conf [here](https://csvconf.com/) and watch talks from previous year’s meetings.
+* [**Environmental Data & Governance Initiative \(EDGI\)**](https://envirodatagov.org/)\*\*\*\*
+  * The Environmental Data & Governance Initiative \(EDGI\) analyzes federal environmental data, websites, institutions, and policy. Among the group’s efforts is the archiving of environmental datasets to ensure continued access. You can sign up for the EDGI newspaper and check out the group’s publications [here](https://envirodatagov.org/publications/).
 * **Collections as Data** 
 * **Civic Analytics Network**
   * [**https://datasmart.ash.harvard.edu/civic-analytics-network**](https://datasmart.ash.harvard.edu/civic-analytics-network) ****
