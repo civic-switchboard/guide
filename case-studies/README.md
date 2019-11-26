@@ -2,7 +2,7 @@
 
 The following libraries led projects in 2019 with support from the Civic Switchboard Project. Each project worked with one or more local community data partner organizations to increase the library's capacity in their local civic data ecosystem. The resulting case studies, drawn mostly from each project team's own writing, give insight into the variety that can be found across local data ecosystems and provide real-world examples of roles that libraries can play within them.
 
-### **Alaska State Library, Juneau, AK** 
+### \*\*\*\*[**Alaska State Library, Juneau, AK**](alaska-state-library-juneau-ak.md) **-** _Coordinating statewide data players through ecosystem mapping_
 
 ### \*\*\*\*[**Charlotte Mecklenburg Public Library, Charlotte, NC**](charlotte-mecklenburg-public-library-charlotte-nc.md) **-** _Organizing a local civic data council as groundwork for an open data portal_
 

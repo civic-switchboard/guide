@@ -44,6 +44,7 @@
   * [Queens Borough Public Library, Queens, NY](case-studies/queens-borough-public-library-queens-ny.md)
   * [Robert L. Bogomolny Library at the University of Baltimore, MD](case-studies/robert-l.-bogomolny-library-at-the-university-of-baltimore-md.md)
   * [St. Paul Public Library, St. Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
+  * [Western New York Library Resources Council, Western NY](case-studies/western-new-york-library-resources-council-western-ny.md)
 * [Guide Resources](guide-resources/README.md)
   * [Open Data](guide-resources/open-data.md)
   * [Data Literacies](guide-resources/data-literacies.md)
