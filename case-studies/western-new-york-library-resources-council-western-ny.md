@@ -32,8 +32,10 @@ That said, we’ve made some really useful connections with other stakeholders i
 
 As a regional organization, we have the communication network to be able to learn what the types of libraries in the region may be doing in relation to open civic data. We can also help disseminate information about ongoing activities. If we can successfully organize the librarians in the region – despite differences in systems or types – to come together on the topic of open civic data, we might be able to serve as a model for the region’s municipal and private entities that are stakeholders in open civic data.
 
-**Learn More:**
+### **Learn More:**
 
-[Municipal Website Analysis report](https://drive.google.com/file/d/1pqzRY--A3D69nM8CvqNj3mjhqoydFZBQ/view)  
+* [Municipal Website Analysis report](https://drive.google.com/file/d/1pqzRY--A3D69nM8CvqNj3mjhqoydFZBQ/view)
+
+  
 
 

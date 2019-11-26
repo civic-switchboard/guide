@@ -34,7 +34,7 @@ Many of our workshop participants attended a training we hosted with the [New Sc
 One major learning for us at QPL has been that open data literacy is civic literacy. The curriculum designed by our colleagues at BetaNYC grounds open data in this place, asking participants to think about all the layers of city government representing them. From State Senator all the way down to Community Board, resources shared on open data platforms are tools to hold elected officials accountable and to provide recourse for community members by identifying inequities or inconsistencies in services. So many people are intimidated by the word ‘data,’ or by the technology we are teaching to understand and analyze that data, that they miss this key point. For libraries who feel like they do not have the technical capacity on staff, or that the interest is not there in their patrons, I would share this framing.  
 
 
-**Learn More:**
+### **Learn More:**
 
-* **Microsoft Excel Basics with Open Data :** [**Introduction**](http://bit.ly/pdexcel1)**,** [**Formulas and Functions**](http://bit.ly/pdexcel2)**,** [**Pivot Tables and Charts**](http://bit.ly/pdexcel2) ****
+* Microsoft Excel Basics with Open Data : [Introduction](http://bit.ly/pdexcel1), [Formulas and Functions](http://bit.ly/pdexcel2), [Pivot Tables and Charts](http://bit.ly/pdexcel2) 
 

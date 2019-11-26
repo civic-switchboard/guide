@@ -26,7 +26,7 @@ Throughout the program, we were really pleased to see how quickly and competentl
 
 In the future, we would be interested in exploring different local data sources, and spending more time with the adult Data Pathway learners. We would like to see civic data and paper circuitry used with middle school-aged youth as an onboarding tool to our teen coding and data analytics classes. We are in conversation with the National Writing Project regarding their out-of-school literacy work on argumentation and libraries. This kind of co-creation work with community partners, which combines domain expertise on a dataviz platform and a literacy/information design and communications experience, holds potential for a sustainable open data teaching and learning initiative for libraries as an outreach and civic engagement project.
 
-**Learn More:** 
+### **Learn More:** 
 
 * [Getting Lost and Unlearning Certainty: Material Encounters in an Electronic Craft Practice ](https://www.plusea.at/?page_id=5688)by David Cole and Hannah Perner-Wilson
 * \*\*\*\*[Data Navigators 2.0 Resources](https://www.provlib.org/teen-squad/data-navigators-2-0/)

@@ -27,7 +27,9 @@ While the funding for this project was significant, it was not enough to alter t
 This project allowed us to demonstrate the role the collaboration could play in publicizing our collective resources to Baltimore communities, UB faculty, and UB students. We learned how our resources can provide complementary content for community initiatives, and BNIA hopes one day to integrate a librarian or student of library science with their team to support data management activities.  Other academic libraries and community civic data initiatives should consider partnerships to promote the availability of archival and civic data on campus and in communities surrounding the institution.  
 
 
-#### Learn More
+### Learn More:
 
-[Learning Modules and Lesson Plans](https://bniajfi.org/resources/learning-community/for-instructors/faculty-resources/archives-and-indicators/)
+* [Learning Modules and Lesson Plans](https://bniajfi.org/resources/learning-community/for-instructors/faculty-resources/archives-and-indicators/)
+
+
 
