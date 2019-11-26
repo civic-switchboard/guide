@@ -24,4 +24,6 @@ There are a number of groups that bring together data intermediaries. These orga
   * **chief data officer network**
 * **what works cities**
 * **DASH all in for health \(medical libraries\)**
+* \*\*\*\*[**Civic Data Operators**](https://civic-switchboard.github.io/group/)\*\*\*\*
+  *  The Civic Data Operators group allows those working to connect libraries with civic data in their local communities to exchange information, ideas, and resources. While the Civic Switchboard project has been a promoter of this community, the group is intended to have its own identity and sense of ownership beyond any particular project. Visit the Google group to join the list [here](https://groups.google.com/forum/#!forum/civic-data-operators/join).
 
