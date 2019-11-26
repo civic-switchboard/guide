@@ -26,6 +26,8 @@ Based on these observations, we  convened a small of group of librarians as a ne
 
 Through this project, we’ve really come to terms with the scope of building an open civic data ecosystem. This is such a “new” concept for so many in the region.  Neither municipal nor private entities have taken the lead in forming a coalition of interests and resources to address the issues shared by all. We are reluctant to have libraries “take the lead” at this point since we do not have the knowledge base to do so.
 
+> ## ...we will have a core group of librarians who will be able to reach out to stakeholders in an informed way to start building networks.
+
 That said, we’ve made some really useful connections with other stakeholders in the state. We were able to connect with fellow Civic Switchboard field project team members from Queens Public Library. Their training tools will likely prove useful for future training in Spring 2020. Our hope is that once the training takes place, we will have a core group of librarians who will be able to reach out to stakeholders in an informed way to start building networks. 
 
 As a regional organization, we have the communication network to be able to learn what the types of libraries in the region may be doing in relation to open civic data. We can also help disseminate information about ongoing activities. If we can successfully organize the librarians in the region – despite differences in systems or types – to come together on the topic of open civic data, we might be able to serve as a model for the region’s municipal and private entities that are stakeholders in open civic data.
