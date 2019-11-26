@@ -20,9 +20,3 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### [Western New York Library Resources Council, Western NY](western-new-york-library-resources-council-western-ny.md)  _****Clarifying library roles in an expansive regional civic data ecosystem_
 
-### 
-
-
-
-
-
