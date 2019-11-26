@@ -25,7 +25,7 @@ Libraries may be new to the civic data space and other entities may not  know wh
 
 **Potential negative consequences from publicly available data**
 
-Open and civic data can be confusing - both in how it is defined and how it may be used. Transparency and clarity about your library’s goals, processes, partnerships can help quell fears in your organization and among your users about what might be done with open civic data.  Here are some resources to take a look at: [Ways of thinking about data](../context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md); [8 considerations for Libraries that want to host open data](https://civic-switchboard.github.io/post_14/).
+Open and civic data can be confusing - both in how it is defined and how it may be used. Transparency and clarity about your library’s goals, processes, partnerships can help quell fears in your organization and among your users about what might be done with open civic data.  Here are some resources to take a look at: [Ways of thinking about data](../context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md); [8 considerations for libraries that want to host open data](https://civic-switchboard.github.io/post_14/).
 
 **Maintaining momentum** 
 
@@ -37,6 +37,6 @@ Take your time, build trust.  Remember that you don’t have to be the authority
 
 **Feeling unqualified**
 
-You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library Roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) where we outline why libraries fit right in to civic data ecosystems. And draw inspiration from the varied work that libraries are doing by reading the [Case Studies](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies) in this guide.  
+You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) where we outline why libraries fit right in to civic data ecosystems. And draw inspiration from the varied work that libraries are doing by reading the [Case Studies](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies) in this guide.  
 
 
