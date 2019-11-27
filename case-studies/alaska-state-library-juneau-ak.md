@@ -9,7 +9,7 @@ description: Coordinating statewide data players through ecosystem mapping
 **Library roles played:** [Connecting data producers](../library-roles/connecting-data-producers.md), [Connecting data users](../library-roles/connecting-data-users.md)
 
 {% hint style="info" %}
-**This project shows the important role that state libraries can take in coordinating civic data at the state level. State libraries, as with Alaska, often have mandates to collect and provide access to state information; these mandates can provide stimulus for initiatives that specifically address open data.** 
+**This project shows the important role that state libraries can take in coordinating civic data at the state level. State libraries, as with Alaska, often have mandates to collect and provide access to state information. These mandates can provide stimulus for initiatives that specifically address open data.** 
 
 **While the Alaska team's project has a large scale goal in mind** — **the eventual creation of a statewide data hub** — **a lot of groundwork was necessary to begin the process. The Alaska State Library played the role of convener by hosting a two-day Alaska Community Innovation Summit that included an ecosystem mapping exercise. As they observe in their case study, building and strengthening relationships was a significant outcome of the Summit, and put the state in a better position towards its goal of a statewide data hub.**
 {% endhint %}
