@@ -9,7 +9,7 @@ description: Enriching workforce development training with data literacy
 **Library roles played:** [Developing Civic Data Literacy](../library-roles/developing-civic-data-literacy.md), [Showing the Importance of Civic Data](../library-roles/showing-importance-civic-data.md), [Connecting Data Users](../library-roles/connecting-data-users.md)
 
 {% hint style="info" %}
-**The Fondren and Kinder team piloted data literacy workshops with community members and then incorporated what they learned into a 'train the trainers' workshop for the United Way of Greater Houston. Rather than designing the workshops around a particular technical skill or tool, their workshop design deliberately emphasized general principles of data, and ways data might support participants' decision-making.**
+**The Fondren and Kinder team piloted data literacy workshops with community members and then incorporated what they learned into a 'train the trainers' workshop for the United Way of Greater Houston. Rather than designing the workshops around a particular technical skill or tool, the Houston team's workshop design deliberately emphasized general principles of data, and ways data might support participants' decision-making.**
 {% endhint %}
 
 Through our project, we attempted to break down barriers to data access and engagement by introducing young community members in two under-resourced and underserved communities to the fundamentals of data and its applications.  
