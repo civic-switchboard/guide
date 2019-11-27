@@ -9,7 +9,7 @@ description: Increasing awareness of open data through community conversations
 **Library roles played:** [Connecting data users](../library-roles/connecting-data-users.md), [Showing the importance of civic data](../library-roles/showing-importance-civic-data.md), [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md), [Increasing the library’s capacity](../library-roles/increasing-the-librarys-capacity.md)
 
 {% hint style="info" %}
-**St. Paul Public Library worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, and so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
+**St. Paul Public Library worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
 {% endhint %}
 
 For our project, we identified an opportunity to create a more data literate community and a more responsive, inclusive city government by: \(1\) increasing awareness of the civic data available in general and in particular the City of Saint Paul’s Open Information portal, \(2\) creating opportunities for both connected and disconnected residents to engage more deeply with data that is relevant to their community, and \(3\) developing a framework for gathering and responding to feedback and common questions.
@@ -25,14 +25,14 @@ We also provided training for library staff, which included an introduction to t
 Reaching disconnected residents at the scale we intended proved to be challenging. The formality of a panel structure may have caused some apprehension, but our promotion of the events was not as dispersed in the community as we initially intended. We promoted the events through the brochure, flyers and a social media campaign that were well received and piqued the interests of individuals and organizations seeking to share their projects or work with the City. However, we did not see as much in-person interest and perhaps more print or earned media was needed. Where we saw the most interest from people without a data background was at the events themselves. During our second event, we were in a busy combined Library and Parks & Recreation space where after 15 minutes of zero attendees, an announcement was made over the loudspeaker. Soon we had an all-ages crowd that had questions for almost every panelist and were excited to jump into activities. This led us to think that less emphasis on splashy marketing and more informal pop-up or tabling events would be better received.
 
 {% hint style="info" %}
-In the next section, the St. Paul project team reflects on aspects that helped their library grow in supporting civic data. Specifically, they highlight the importance of taking a project management approach, creating multiple versions of events at different scales, and getting buy-in and support from library leadership to spread the work across the organization.
+**In the next section, the St. Paul project team reflects on aspects that helped their library grow in supporting civic data. Specifically, they highlight the importance of taking a project management approach, creating multiple versions of events at different scales, and getting buy-in and support from library leadership to spread the work across the organization.**
 {% endhint %}
 
 \*\*\*\*
 
-> ## **As team roles changed throughout the project, we decided to write a project charter about halfway through to outline the opportunity, scope, roles and expectations. We recommend doing this from the start to keep momentum and communication going through the sometimes inevitable staff and organizational changes of public service.**
-
 As team roles changed throughout the project, we decided to write a project charter about halfway through to outline the opportunity, scope, roles and expectations. We recommend doing this from the start to keep momentum and communication going through the sometimes inevitable staff and organizational changes of public service.
+
+> ## **As team roles changed throughout the project, we decided to write a project charter about halfway through to outline the opportunity, scope, roles and expectations. We recommend doing this from the start to keep momentum and communication going through the sometimes inevitable staff and organizational changes of public service.**
 
 This project helped to elevate the importance of the work and has allowed us to develop our project with an eye towards sustaining it into the future. We have been able to not only create events to meet our current objective but have taken the time to develop smaller versions of our events.
 
