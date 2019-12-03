@@ -6,7 +6,7 @@ description: Clarifying library roles in an expansive regional civic data ecosys
 
 **Partner organizations:** rprt, LLC, Butler Library at SUNY Buffalo State
 
-**Library roles played:** Increasing library capacity
+**Library roles played:** [Increasing library capacity](../library-roles/increasing-the-librarys-capacity.md)
 
 {% hint style="info" %}
 **The Western New York Library Resources Council \(WNYLRC\)** — **a not-for-profit consortium of libraries and library systems serving six counties** — **saw a need to examine and assess the open civic data environment in the region. They worked with a consultant to analyze how local municipal websites were making data public and found civic data in the region to be disparate and in clear need of organization.** 
