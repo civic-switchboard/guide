@@ -4,14 +4,14 @@ description: Coordinating statewide data players through ecosystem mapping
 
 # Alaska State Library, Juneau, AK
 
-**Partner organizations:** Alaska Office of Management and Budget \(OMB\) and Office of Information Technology \(OIT\)
+**Partner organizations:** [Alaska Office of Management and Budget](https://omb.alaska.gov/) \(OMB\) and [Office of Information Technology](https://doa.alaska.gov/oit/) \(OIT\)
 
 **Library roles played:** [Connecting data producers](../library-roles/connecting-data-producers.md), [Connecting data users](../library-roles/connecting-data-users.md)
 
 {% hint style="info" %}
 **This project shows the important role that state libraries can take in coordinating civic data at the state level. State libraries, as with Alaska, often have mandates to collect and provide access to state information. These mandates can provide stimulus for initiatives that specifically address open data.** 
 
-**While the Alaska team's project has a large scale goal in mind** — **the eventual creation of a statewide data hub** — **a lot of groundwork was necessary to begin the process. The Alaska State Library played the role of convener by hosting a two-day Alaska Community Innovation Summit that included an ecosystem mapping exercise. As they observe in their case study, building and strengthening relationships was a significant outcome of the Summit, and put the state in a better position towards its goal of a statewide data hub.**
+**While the Alaska team's project has a large scale goal in mind** — **the eventual creation of a statewide data hub** — **a lot of groundwork was necessary to begin the process.** [**The Alaska State Library**](https://library.alaska.gov/) **played the role of convener by hosting a two-day Alaska Community Innovation Summit that included an ecosystem mapping exercise. As they observe in their case study, building and strengthening relationships was a significant outcome of the Summit, and put the state in a better position towards its goal of a statewide data hub.**
 {% endhint %}
 
 Alaska is geographically large, but fewer than 800,000 people live here. There is little capacity within many of our communities for robust data collection, dissemination and transformation.  Much of this work is carried out in silos at the state level by Alaska state agencies and the University of Alaska system, rather than at the local government level. At the same time, [The Alaska State Library](https://library.alaska.gov/) has a statutory mandate to promote a system for centralized access to data produced at both the state and local government levels, and the State of Alaska is engaged in an effort to build a robust data and digital asset management program.
