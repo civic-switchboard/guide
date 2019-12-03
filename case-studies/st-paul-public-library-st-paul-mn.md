@@ -4,12 +4,12 @@ description: Increasing awareness of open data through community conversations
 
 # St. Paul Public Library, St. Paul, MN
 
-**Partner organization:** St. Paul’s Office of Technology and Communications 
+**Partner organization:** [St. Paul’s Office of Technology and Communications ](https://www.stpaul.gov/departments/technology-communications)
 
 **Library roles played:** [Connecting data users](../library-roles/connecting-data-users.md), [Showing the importance of civic data](../library-roles/showing-importance-civic-data.md), [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md), [Increasing the library’s capacity](../library-roles/increasing-the-librarys-capacity.md)
 
 {% hint style="info" %}
-**St. Paul Public Library worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
+\*\*\*\*[**St. Paul Public Library**](https://sppl.org/) **worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
 {% endhint %}
 
 For our project, we identified an opportunity to create a more data literate community and a more responsive, inclusive city government by: \(1\) increasing awareness of the civic data available in general and in particular the City of Saint Paul’s Open Information portal, \(2\) creating opportunities for both connected and disconnected residents to engage more deeply with data that is relevant to their community, and \(3\) developing a framework for gathering and responding to feedback and common questions.
