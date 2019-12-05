@@ -22,13 +22,13 @@ As you consider potential roles for your library, remember the larger civic data
 
 ### \*\*\*\*[**Providing expertise on data management** ](providing-expertise-on-civic-data.md)
 
-### \*\*\*\*[**Creating Civic Data** ](creating-civic-data.md)
+### \*\*\*\*[**Creating civic data** ](creating-civic-data.md)
 
-### \*\*\*\*[**Using Civic Data** ](using-civic-data.md)
+### \*\*\*\*[**Using civic data** ](using-civic-data.md)
 
-### \*\*\*\*[**Publishing Civic Data** ](publishing-civic-data.md)
+### \*\*\*\*[**Publishing civic data** ](publishing-civic-data.md)
 
-### \*\*\*\*[**Archiving Civic Data** ](archiving-civic-data.md)
+### \*\*\*\*[**Archiving civic cata** ](archiving-civic-data.md)
 
 ### \*\*\*\*[**Increasing the library's capacity to do all of the above** ](increasing-the-librarys-capacity.md) 
 
