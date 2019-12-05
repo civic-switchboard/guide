@@ -20,8 +20,8 @@
 **Inspiration:**
 
 * Houston, TX 
-* Queens, NY 
-* Providence, RI 
+* [Queens Borough Public Library's Data Counts](https://civic-switchboard.gitbook.io/guide/case-studies/queens-borough-public-library-queens-ny) program
+* [Providence Public Library's Data Navigators](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies/providence-public-library-providence-ri) program for teens
 
 **Resources you can use:**
 
