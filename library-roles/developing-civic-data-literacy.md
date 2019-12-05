@@ -17,12 +17,11 @@
 * Fold data literacy into workforce development training workshops and programs
 * Expand the roles and skill sets of library staff
 
-**Inspiration:**  
+**Inspiration:**
 
-
-* Houston, TX _coming soon_
-* Queens, NY _coming soon_
-* Providence, RI _coming soon_
+* Houston, TX 
+* Queens, NY 
+* Providence, RI 
 
 **Resources you can use:**
 
@@ -32,4 +31,5 @@
 * Data Pop Alliance: [Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data ](http://datapopalliance.org/wp-content/uploads/2015/11/Beyond-Data-Literacy-2015.pdf)
 * Community Information Now: [What’s Needed for a Community to be Good at Using Data?](http://cinow.info/wp-content/uploads/2016/09/Whats-Needed-for-a-Community-to-be-Good-at-Using-Data-20160810.pdf)
 * Allied Media: [Opening Data Zine ](https://www.alliedmedia.org/news/2015/09/17/opening-data-zine-here)
+* University of Washington [Open Data Literacy Project](http://odl.ischool.uw.edu/)
 
