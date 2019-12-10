@@ -26,14 +26,23 @@ Since this project was the first official collaboration between the Library and 
 
 While the funding for this project was significant, it was not enough to alter the course of existing work loads for staff either at the Library or at BNIA, nor should it have been. To become a truly sustainable resource, we had to create linkages that enhance ongoing activities and events. These included classroom instruction and links to student learning outcomes \(Library\), community engagement \(BNIA\), online resources \(Library and BNIA\) and our annual workshop Baltimore Data Day \(UB\). 
 
-![Baltimore Data Day](../.gitbook/assets/baltimore-data-day.JPG)
+![Presentation by Fatemeh Rezaei at Baltimore Data Day in Baltimore. Photo By Seema Iyer, CC.](../.gitbook/assets/baltimore-data-day.JPG)
 
 This project allowed us to demonstrate the role the collaboration could play in publicizing our collective resources to Baltimore communities, UB faculty, and UB students. We learned how our resources can provide complementary content for community initiatives, and BNIA hopes one day to integrate a librarian or student of library science with their team to support data management activities.  Other academic libraries and community civic data initiatives should consider partnerships to promote the availability of archival and civic data on campus and in communities surrounding the institution.  
 
 
 ### Learn More:
 
-* [Learning Modules and Lesson Plans](https://bniajfi.org/resources/learning-community/for-instructors/faculty-resources/archives-and-indicators/)
+* [Project Website](https://bniajfi.org/resources/learning-community/for-instructors/faculty-resources/archives-and-indicators/)
+* [Learning module to link archives and open data \(with assignments\) ](https://bniajfi.org/wp-content/uploads/2019/02/Learning-Module_HowTo_MUND_CSAs.pdf%20)
+
+### Project Team
+
+*  **Seema D. Iyer, PhD**, Baltimore Neighborhood Indicators Alliance—Jacob France Institute
+*  **Kristin Conlin**, Robert L. Bogomolny Library
+* **Fatemeh Rezaei**, Robert L. Bogmolny Library
+
+
 
 
 
