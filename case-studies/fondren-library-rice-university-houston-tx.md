@@ -9,7 +9,7 @@ description: Enriching workforce development training with data literacy
 **Library roles played:** [Developing Civic Data Literacy](../library-roles/developing-civic-data-literacy.md), [Showing the Importance of Civic Data](../library-roles/showing-importance-civic-data.md), [Connecting Data Users](../library-roles/connecting-data-users.md)
 
 {% hint style="info" %}
-**The Fondren and Kinder team piloted data literacy workshops with community members and then incorporated what they learned into a 'train the trainers' workshop for the United Way of Greater Houston. Rather than designing the workshops around a particular technical skill or tool, the Houston team's workshop design deliberately emphasized general principles of data, and ways data might support participants' decision-making.**
+**The Fondren and Kinder Institute team piloted data literacy workshops with community members and then incorporated what they learned into a 'train the trainers' workshop for the United Way of Greater Houston. Rather than designing the workshops around a particular technical skill or tool, the Houston team's workshop design deliberately emphasized general principles of data, and ways data might support participants' decision-making.**
 {% endhint %}
 
 Through our project, we attempted to break down barriers to data access and engagement by introducing young community members in two under-resourced and underserved communities to the fundamentals of data and its applications.  
@@ -20,7 +20,7 @@ After our pilot data literacy trainings, we reflected on and organized our learn
 
 Throughout the creation and facilitation of our trainings, we were careful not to conceptualize data literacy as the mastery of a particular skill or proficiency in certain technologies, etc. Rather, we strived to create curricula that enhance participants’ understanding of the underlying principles of data and facilitate the use of data in a way that supports participants’ arguments or decision-making processes. We wanted to empower participants to comprehend, interpret and use the data they encounter—and even to produce and analyze their own data.
 
-![Image provided Rice University&#x2019;s Kinder Institute for Urban Research and Fondren Library](../.gitbook/assets/houston-image.jpg)
+![Photo by Rice University&#x2019;s Kinder Institute for Urban Research and Fondren Library](../.gitbook/assets/houston-image.jpg)
 
 One of our challenges was understanding how to target our training efforts, since it wasn’t clear what prior knowledge or learning goals participants would bring to the workshops. With our first workshop, we were able to conduct a pre-assessment, which helped us to understand how much our group of high school students already knew about data literacy. We also consulted with our workshop hosts to learn more about our participants and their interests and needs. We learned about the value of connecting our training with programs that have set clear expectations for participants
 
@@ -44,5 +44,10 @@ This project demonstrated the value of partnering with a leading civic research 
 * Daniel Koh and Katie Wang, “[Rice collaboration uses data to engage and empower local communities,](https://kinder.rice.edu/urbanedge/2019/09/04/rice-collaboration-uses-data-engage-and-empOwer-local-communities)” Urban Edge blog, Sep 4, 2019, 
 * Julia Kress, “[Grant-Funded Data Literacy Workshops Pair Fondren and Kinder Institute](https://scholarship.rice.edu/handle/1911/106116),” News from Fondren, Spring 2019, 
 
-\_\_
+### **Project Team**
+
+* **Katie Floyd Wang,** Kinder Institute for Urban Research, Rice University ****
+* **Lisa Spiro,** Fondren Library, Rice University
+
+\*\*\*\*
 
