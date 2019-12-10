@@ -19,9 +19,9 @@
 
 **Inspiration:**
 
-* Houston, TX 
-* [Queens Borough Public Library's Data Counts](https://civic-switchboard.gitbook.io/guide/case-studies/queens-borough-public-library-queens-ny) program
-* [Providence Public Library's Data Navigators](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies/providence-public-library-providence-ri) program for teens
+* Houston, TX: Fondren Library, Rice University [Data Literacy Workshops](../case-studies/fondren-library-rice-university-houston-tx.md)
+* Queens, NY: [Queens Public Library's Data Counts](https://civic-switchboard.gitbook.io/guide/case-studies/queens-borough-public-library-queens-ny) program
+* Providence, RI: [Providence Public Library's Data Navigators](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies/providence-public-library-providence-ri) program for teens
 
 **Resources you can use:**
 

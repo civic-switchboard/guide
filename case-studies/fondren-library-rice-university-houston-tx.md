@@ -2,7 +2,7 @@
 description: Enriching workforce development training with data literacy
 ---
 
-# Fondren Library,  Rice University, Houston, TX
+# Fondren Library, Rice University, Houston, TX
 
 **Partner organization:** [Kinder Institute for Urban Research, Rice University](https://kinder.rice.edu/)
 

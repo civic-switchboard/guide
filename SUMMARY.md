@@ -38,7 +38,7 @@
 * [Case Studies](case-studies/README.md)
   * [Alaska State Library, Juneau, AK](case-studies/alaska-state-library-juneau-ak.md)
   * [Charlotte Mecklenburg Public Library, Charlotte, NC](case-studies/charlotte-mecklenburg-public-library-charlotte-nc.md)
-  * [Fondren Library,  Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
+  * [Fondren Library, Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
   * [Pioneer Library System, Ontario County, NY](case-studies/pioneer-library-system-ontario-county-ny.md)
   * [Providence Public Library, Providence, RI](case-studies/providence-public-library-providence-ri.md)
   * [Queens Public Library, Queens, NY](case-studies/queens-borough-public-library-queens-ny.md)
