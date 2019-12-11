@@ -16,7 +16,7 @@ description: >-
 
 Having a data conversation for the Substance Abuse Prevention Coalition \(SAPC\) has been a long time coming. Everyone there collects data to some degree but don't think of themselves with that hat \[i.e, coordinating data sharing\].
 
-![Ecosystem Mapping Event Flier](../.gitbook/assets/ecosystem_flier_-pioneer.png)
+![Ecosystem Mapping Event Flier. Flier created by Marcella Maier Lambrecht](../.gitbook/assets/ecosystem_flier_-pioneer.png)
 
 The project kicked off with a half-day session hosted by the Pioneer Library System. The event was open to all community members and included a presentation, time for relationship building, ecosystem mapping activity and lunch. Attendees included people affiliated with the Substance Abuse Prevention Coalition, mental health, education, and other players in the prevention or harm reduction arena. The conversation was scaffolded, beginning by unpacking "what is data?, continued through the SAPC data collection/sharing journey, description of data roles, then moved through an introduction to ecosystem mapping, leading to the development of the map. 
 
