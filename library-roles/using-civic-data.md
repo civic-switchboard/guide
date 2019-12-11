@@ -1,4 +1,4 @@
-# Using Civic Data
+# Using civic data
 
 **What's the need?**
 

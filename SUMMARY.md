@@ -26,7 +26,7 @@
   * [Making civic data more usable](library-roles/making-civic-data-more-usable.md)
   * [Providing expertise on data management](library-roles/providing-expertise-on-civic-data.md)
   * [Creating civic data](library-roles/creating-civic-data.md)
-  * [Using Civic Data](library-roles/using-civic-data.md)
+  * [Using civic data](library-roles/using-civic-data.md)
   * [Publishing civic data](library-roles/publishing-civic-data.md)
   * [Archiving civic data](library-roles/archiving-civic-data.md)
   * [Increasing  the library's capacity to do all of the above](library-roles/increasing-the-librarys-capacity.md)
