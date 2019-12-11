@@ -24,7 +24,7 @@
 
 **Resources you can use:**  
 
-* Toolkit one-sheet - _coming soon_
+* Civic Switchboard [one-sheet talking points](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf)
 * Toolkit Job descriptions - _coming soon_
 
 
