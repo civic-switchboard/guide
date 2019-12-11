@@ -29,7 +29,7 @@ Deeper partnerships with our project collaborators has been the most exciting su
 
 Many of our workshop participants attended a training we hosted with the [New School’s Digital Equity Lab](https://www.newschool.edu/digital-equity-lab/) on preparing community based organizations to conduct census outreach and engagement. Similarly, our partnership with MODA has been a major success. We had worked with MODA for the past two years to host library events during NYC Open Data Week, but this is our first time collaborating on an extended project. We are thrilled to be piloting an Open Data Ambassadors program that we hope can expand to our sister systems at Brooklyn Public Library and New York Public Library to make open data accessible to all New York City residents.
 
-![](../.gitbook/assets/data-flyer-nyc.png)
+![NYC Open Data Flier](../.gitbook/assets/queens-open-data-flier.JPG)
 
 One major learning for us at QPL has been that open data literacy is civic literacy. The curriculum designed by our colleagues at BetaNYC grounds open data in place, asking participants to think about all the layers of city government representing them. From State Senator all the way down to Community Board, resources shared on open data platforms are tools to hold elected officials accountable and to provide recourse for community members by identifying inequities or inconsistencies in services. So many people are intimidated by the word ‘data,’ or by the technology we are teaching to understand and analyze that data, that they miss this key point. For libraries who feel like they do not have the technical capacity on staff, or that the interest is not there in their patrons, I would share this framing.  
 
