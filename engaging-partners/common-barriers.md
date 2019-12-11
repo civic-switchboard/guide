@@ -31,10 +31,6 @@ Libraries may be new to the civic data space and other entities may not  know wh
 
 Open and civic data can be confusing - both in how it is defined and how it may be used. Transparency and clarity about your library’s goals, processes, partnerships can help quell fears in your organization and among your users about what might be done with open civic data.  Here are some resources to take a look at: [Ways of thinking about data](../context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md); [8 considerations for libraries that want to host open data](https://civic-switchboard.github.io/post_14/).
 
-**Maintaining momentum** 
-
-It can be a real challenge to continuously energize, build, and fund libraries in civic data work.  Building partnerships, joint projects and institutionalizing the roles are strategies to share the challenge  and maintain momentum. You might find help in: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md); [Library roles;](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles)  [Building libraries into civic data partnerships](building-libraries-into-civic-data-partnerships.md).
-
 **Lacking authority to create or encourage to create a single network.**  
 
 Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [mapping your ecosystem ](../understanding-your-ecosystem/mapping-your-ecosystem.md)to see how players are \(and aren’t\) working together and this [one sheeter](../toolkit/) to remind you why the library has a real role to play in this work. 
