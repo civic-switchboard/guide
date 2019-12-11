@@ -7,6 +7,10 @@ description: >-
 
 # Common Barriers to Getting Started
 
+**Feeling unqualified**
+
+You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) where we outline why libraries fit right in to civic data ecosystems. And draw inspiration from the varied work that libraries are doing by reading the [Case Studies](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies) in this guide.
+
 **Lack of urgency**
 
 With constraints on library workers' ****time and library resources, you might find that some in your organization view building civic data capacity as a low priority. We offer some recommendations about connecting the work to your mission and finding resource support that may help prioritize this work in your organization: [Finding resources to support civic data work](../maintaining-momentum/finding-resources-for-your-engagement.md); [Connecting to your library mission.](https://app.gitbook.com/@civic-switchboard/s/guide/engaging-partners/building-libraries-into-civic-data-partnerships#connecting-to-your-librarys-mission)
@@ -35,8 +39,6 @@ It can be a real challenge to continuously energize, build, and fund libraries i
 
 Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [mapping your ecosystem ](../understanding-your-ecosystem/mapping-your-ecosystem.md)to see how players are \(and aren’t\) working together and this [one sheeter](../toolkit/) to remind you why the library has a real role to play in this work. 
 
-**Feeling unqualified**
-
-You aren’t! There are many  roles the library can play when  stepping into in this space. Check out [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles) where we outline why libraries fit right in to civic data ecosystems. And draw inspiration from the varied work that libraries are doing by reading the [Case Studies](https://app.gitbook.com/@civic-switchboard/s/guide/case-studies) in this guide.  
+  
 
 
