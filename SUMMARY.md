@@ -16,6 +16,7 @@
 * [Understanding Your Ecosystem](understanding-your-ecosystem/README.md)
   * [Mapping your Ecosystem](understanding-your-ecosystem/mapping-your-ecosystem.md)
   * [Measuring Health and Capacity](understanding-your-ecosystem/measuring-health-and-capacity.md)
+  * [Understanding Community Data Needs](understanding-your-ecosystem/understanding-community-data-needs.md)
   * [Selected Resources](understanding-your-ecosystem/resources.md)
 * [Library Roles](library-roles/README.md)
   * [Connecting data users](library-roles/connecting-data-users.md)
