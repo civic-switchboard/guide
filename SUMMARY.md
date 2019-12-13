@@ -34,6 +34,7 @@
 * [Maintaining Momentum](maintaining-momentum/README.md)
   * [Finding Resources to Support Civic Data Work](maintaining-momentum/finding-resources-for-your-engagement.md)
   * [Support Networks and Communities of Practice](maintaining-momentum/support-networks-and-communities-of-practice.md)
+  * [Institutionalizing](maintaining-momentum/institutionalizing.md)
   * [Selected Resources](maintaining-momentum/resources.md)
 * [Case Studies](case-studies/README.md)
   * [Alaska State Library, Juneau, AK](case-studies/alaska-state-library-juneau-ak.md)
