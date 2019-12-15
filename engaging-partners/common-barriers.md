@@ -5,7 +5,7 @@ description: >-
   points to places in guide that may provide help.
 ---
 
-# Common Barriers to Getting Started
+# Common barriers to getting started
 
 **Feeling unqualified**
 

@@ -1,4 +1,4 @@
-# Defining a Data Intermediary
+# Defining a data intermediary
 
 If you work in a library, much of what civic data intermediaries do will feel incredibly familiar to you! At their root, these are organizations or individuals who help people find, use, and apply public information. More specifically, [The National Neighborhood Neighborhood Indicators Partnership](https://www.neighborhoodindicators.org/) has identified three main types of intermediary activities in a 2016 report by [Hendley, Cowan, Kingsley, and Pettit](https://www.urban.org/sites/default/files/publication/80901/2000798-NNIP's-Guide-to-Starting-a-Local-Data-Intermediary.pdf).
 

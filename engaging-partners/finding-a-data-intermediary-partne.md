@@ -4,7 +4,7 @@ description: >-
   civic data ecosystem who could be potential partners to you and your library.
 ---
 
-# Finding Partners in Your Ecosystem
+# Finding partners in your ecosystem
 
 ### First, look for data intermediaries 
 

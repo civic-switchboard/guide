@@ -1,4 +1,4 @@
-# Building Libraries into Civic Data Partnerships
+# Building libraries into civic data partnerships
 
 Libraries and other civic data intermediaries are united in the type of work that they do: they help people find, use, and apply information. Similar values, goals, and missions create fertile ground for collaboration around civic data and an obvious opportunity to work together.
 

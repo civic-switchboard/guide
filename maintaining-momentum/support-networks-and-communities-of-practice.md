@@ -1,4 +1,4 @@
-# Support Networks and Communities of Practice
+# Support networks and communities of practice
 
 In this guide, we've talked a lot about the community you work with locally: the people in your town, city, or region. But through your work, you are also part of other communities, distributed around the country and the world. These are groups of people -- whether library workers, data intermediaries, or others interested in aspects of civic data -- who form support networks and communities of practice. Library roles around local civic data are still emerging and evolving. Leaning on support networks for advice, examples, and inspiration can help you to maintain your work.
 
