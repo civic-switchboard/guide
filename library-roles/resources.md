@@ -1,6 +1,6 @@
 # Selected Resources
 
-On this page, we've selected and described some resources that we think are most relevant to the "Activating" section. You can also find a comprehensive list of the references cited throughout the entire guide on the [Guide Resources](https://civic-switchboard.gitbook.io/guide/guide-resources) page.
+On this page, we've selected and described some resources that we think are most relevant to the "Library Roles" section. 
 
 **Bertot, J. C., Butler, B. S., & Travis, D. M. \(2014\). Local Big Data: The Role of Libraries in Building Community Data Infrastructures. Proceedings of the 15th Annual International Conference on Digital Government Research, ACM.  pp. 17–23.** [**https://doi.org/10.1145/2612733.2612762**](https://doi.org/10.1145/2612733.2612762)
 
