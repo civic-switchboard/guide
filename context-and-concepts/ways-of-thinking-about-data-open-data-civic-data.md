@@ -1,4 +1,4 @@
-# Ways of thinking about data: Open Data, Civic Data
+# Ways of thinking about data: Open data, civic data
 
 We said in our introduction that our guide is not a primer on Open Data. That's true, and we recommend a number of [other resources](../understanding-your-ecosystem/resources.md) that do a good job covering the nitty-gritty of Open Data. Here we offer just a little information about some terms that we that they represent slightly different concepts.
 

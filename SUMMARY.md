@@ -4,7 +4,7 @@
 * [About](about.md)
 * [Context and Concepts](context-and-concepts/README.md)
   * [An incredibly condensed look at the development of open civic data in the United States](context-and-concepts/an-incredibly-condensed-look-at-the-development-of-open-civic-data-in-the-united-states.md)
-  * [Ways of thinking about data: Open Data, Civic Data](context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md)
+  * [Ways of thinking about data: Open data, civic data](context-and-concepts/ways-of-thinking-about-data-open-data-civic-data.md)
   * [Defining a data intermediary](context-and-concepts/defining-a-data-intermediary.md)
   * [Where do libraries fit in?](context-and-concepts/where-do-libraries-fit-in.md)
   * [Selected Resources](context-and-concepts/resources.md)
