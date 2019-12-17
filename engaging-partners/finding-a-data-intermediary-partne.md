@@ -8,7 +8,7 @@ description: >-
 
 ### First, look for data intermediaries 
 
-Our first recommendation is that you look for partners among other **data intermediaries** in your ecosystem \[_see guide section_ [_Defining a Data Intermediary_](../context-and-concepts/defining-a-data-intermediary.md)\]. Why? Because data intermediaries are natural allies to libraries, perform similar and complementary roles, and usually have a broad understanding of your local community data and user needs.
+Our first recommendation is that you look for partners among other **data intermediaries** in your ecosystem \[see guide section [Defining a Data Intermediary](../context-and-concepts/defining-a-data-intermediary.md)\]. Why? Because data intermediaries are natural allies to libraries, perform similar and complementary roles, and usually have a broad understanding of your local community data and user needs.
 
 Here are a set of recommendations for identifying a data intermediary in your city or region: 
 
