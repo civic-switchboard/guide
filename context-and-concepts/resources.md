@@ -1,8 +1,6 @@
 # Selected Resources
 
-On this page, we've selected and described some resources that we think are most relevant to the "Context and Concepts" section. You can also find a comprehensive list of the references cited throughout the entire guide on the [Guide Resources](https://civic-switchboard.gitbook.io/guide/guide-resources) page.
-
-### **Understanding \(Civic\) Open Data**
+On this page, we've selected and described some resources that we think are relevant to the "Context and Concepts" section. 
 
 **DataSF Resource Library.** [**https://datasf.org/resources/**](https://datasf.org/resources/)\*\*\*\*
 

@@ -1,6 +1,6 @@
 # Selected Resources
 
-On this page, we've selected and described some resources that we think are most relevant to the "Engaging" section. You can also find a comprehensive list of the references cited throughout the entire guide on the [Guide Resources](https://civic-switchboard.gitbook.io/guide/guide-resources) page.
+On this page, we've selected and described some resources that we think are relevant to the "Engaging" section. 
 
 **Center for Community Health and Development at the University of Kansas.  "Creating and Maintaining Partnerships." part of Community Tool Box.** [**https://ctb.ku.edu/en/creating-and-maintaining-partnerships**](https://ctb.ku.edu/en/creating-and-maintaining-partnerships)\*\*\*\*
 
