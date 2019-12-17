@@ -12,11 +12,5 @@ Robinson and Mather describe an alignment between the mission of a public librar
 
 **NNIP and** [**Microsoft’s Civic Technology Engagement Group**](http://sumo.ly/yH4Q) **\(2016\). Data and Tech Training Catalog.** [**https://www.neighborhoodindicators.org/data-tech/training**](https://www.neighborhoodindicators.org/data-tech/training)\*\*\*\*
 
-**Pettit, Kathryn L.S. and Woluchem, M. \(2017\). Guide for Community Training on Data and Technology. Urban Institute.** [**https://www.neighborhoodindicators.org/library/catalog/guide-community-training-data-and-technology**](https://www.neighborhoodindicators.org/library/catalog/guide-community-training-data-and-technology)\*\*\*\*
-
-**Robinson, P., & Mather, L. W. \(2017\). Open Data Community Maturity: Libraries as Civic Infomediaries.** _**Journal of the Urban and Regional Information Systems Association**_**, volume 28, pp. 31-38.** [**http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28\_final.pdf**](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf)\*\*\*\*
-
-**Sunlight Foundation. "A Guide to Tactical Data Engagement." September 2017.** [**https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/**](https://sunlight-foundation.gitbooks.io/tactical-data-engagement/content/)\*\*\*\*
-
-This guide introduces the Tactical Data Engagement \(TDE\) method that intermediaries and civic data producers may adopt "to actively help residents use open data to better their communities." TDE is conceptualized as a four-step design-oriented process for 1.\) _finding_ a focus area for community use of open data; 2.\) _refining_ the use case; 3.\) _designing_ a plan for an intervention to support the use case; and 4.\) _implementing_ the plan.
+For libraries interested in offering data training, the NNIP and Microsoft's Civic Technology Engagement Group launched a catalog of existing training materials that organizations have developed. You'll find a range of training resources here, including introductions to data, data visualization, data analysis using Excel and R, and GIS and mapping materials.
 
