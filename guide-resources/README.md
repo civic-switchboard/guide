@@ -1,10 +1,10 @@
 ---
-description: A comprehensive list of the references cited throughout the entire guide
+description: A list of the references cited throughout the entire guide
 ---
 
-# Guide Resources
+# Additional Resources
 
-In the following sections we have gathered a comprehensive list of references to tools, reports, articles, websites, and other resources that are relevant to various parts of the Civic Switchboard project.
+In the following sections we have gathered a list of references to tools, reports, articles, websites, and other resources that are relevant to various parts of the Civic Switchboard project.
 
 \*\*\*\*
 
