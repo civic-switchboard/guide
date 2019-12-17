@@ -20,6 +20,10 @@ Mark Headd developed this guide during his tenure as the first Chief Data Office
 
 This document reports on a series of interviews with data intermediaries exploring the current state of the civic tech field and its potential to prompt change for the lives of low-income people. The report defines civic tech as "the use of technology by cities for service provision, civic engagement, and data analysis to inform decision making." Living Cities found that interview participants saw both promise and limitations in civic tech; limitations include resource constraints that affect local governments' experimentation with civic tech and the frequent poor reach of civic tech tools.
 
+**Mattern, Shannon. "Public In/Formation."** _**Places**_ **\(November 2016\).** [**https://placesjournal.org/article/public-information/**](https://placesjournal.org/article/public-information/)\*\*\*\*
+
+Shannon Mattern, Associate Professor in the School of Media Studies at The New School, makes a very compelling case for both the value and necessity of librarians and archivists in the civic information sphere. The writing here was a big influence on the Civic Switchboard team as we conceived our project.
+
 **Open Knowledge International. The Open Data Handbook.** [**http://opendatahandbook.org/**](http://opendatahandbook.org/)\*\*\*\*
 
 Open Knowledge's handbook focuses on open data in government and civil society contexts. It includes a guide focused on processes for opening data; "value stories" of specific impacts made by open data; and a resource library of other related material.
@@ -30,6 +34,8 @@ This report presents findings from a 2014 survey investigating public awareness 
 
 **Sunlight Foundation. Open Data Policy Hub.**  [**https://opendatapolicyhub.sunlightfoundation.com/**](https://opendatapolicyhub.sunlightfoundation.com/)\*\*\*\*
 
+This online resource provides guidance for communities drafting and implementing an open data policy. They offer a set of 31 best practices for strong policies, offering guidelines on how policy should address data publication priorities, oversight and review of policy and implementation, and the importance of protecting sensitive information.
+
 **W3C. \(2017\). Data on the Web Best Practices. \(B. Farias Lóscio, C. Burle, & N. Calegari, Eds.\).**  [**https://www.w3.org/TR/dwbp/**](https://www.w3.org/TR/dwbp/)\*\*\*\*
 
 The World Wide Web Consortium's \(W3C\) recommendation document is a response to the fact that while availability of data on the web is rapidly increasing, data publication "is not consistent in style and in many cases does not make use of the full potential of the Open Web Platform". Here you'll find best practices for many aspects of managing and sharing data, including metadata, licenses, provenance, versioning, indentifiers, formats, vocabularies, access, and preservation.
@@ -37,10 +43,4 @@ The World Wide Web Consortium's \(W3C\) recommendation document is a response to
 **Wright, S., Marsh, Z., Bahlai, C., & Robinson, D. \(2017\). Mozilla Science Lab’s Open Data Primers.** [**https://mozillascience.github.io/open-data-primers/index.html**](https://mozillascience.github.io/open-data-primers/index.html)\*\*\*\*
 
 Mozilla Science Lab's guide to Open Data has a bit of a research/science data focus, but much of the guidance here is applicable to all sorts of open data. If you're new to best practices around finding, sharing, formatting, and using open data you'll find a lot of solid basics in these primers.
-
-### Where do libraries fit in?
-
-**Mattern, Shannon. "Public In/Formation."** _**Places**_ **\(November 2016\).** [**https://placesjournal.org/article/public-information/**](https://placesjournal.org/article/public-information/)\*\*\*\*
-
-Shannon Mattern, Associate Professor in the School of Media Studies at The New School, makes a very compelling case for both the value and necessity of librarians and archivists in the civic information sphere. The writing here was a big influence on the Civic Switchboard team as we conceived our project.
 
