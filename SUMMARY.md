@@ -54,6 +54,5 @@
   * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
   * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
 * [Toolkit](toolkit/README.md)
-  * [Untitled](toolkit/untitled.md)
   * [Glossary](toolkit/glossary.md)
 
