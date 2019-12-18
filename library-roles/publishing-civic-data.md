@@ -2,7 +2,7 @@
 
 **What's the need?**
 
-* Many municipalities and regions have open data to share but need an institution to manage or coordinate a centralized collection
+* Many municipalities and regions have open data to share but need an institution to manage or coordinate a centralized data collection.
 
 **Why the library?**  
 
@@ -23,7 +23,7 @@
 
 **Resources you can use:**
 
-* Civic Switchboard Project: [8 Considerations for Libraries That Want to Host Open Data](https://civic-switchboard.github.io/post_14/%20) 
-* Linda Poon. \(2019\) “[Should Libraries Be the Keepers of Their Cities’ Public Data?](https://www.citylab.com/life/2019/02/libraries-public-information-city-data-digital-archive/581905/)” CityLab
-* Sullivan, K. \(2018\). [Can Libraries Accelerate Local Open Data Publishing?](https://medium.com/open-data-literacy/can-libraries-accelerate-local-open-data-publishing-34caaf6a767f) 
+* Civic Switchboard Project. \(2019\). [8 Considerations for Libraries That Want to Host Open Data](https://civic-switchboard.github.io/post_14/%20) .
+* Linda Poon. \(2019\) “[Should Libraries Be the Keepers of Their Cities’ Public Data?](https://www.citylab.com/life/2019/02/libraries-public-information-city-data-digital-archive/581905/)” CityLab.
+* Sullivan, K. \(2018\). [Can Libraries Accelerate Local Open Data Publishing?](https://medium.com/open-data-literacy/can-libraries-accelerate-local-open-data-publishing-34caaf6a767f) Medium post.
 

@@ -6,11 +6,11 @@
 
 **Why the library?**  
 
-* Libraries have experience in preserving resources for future use, particularly items authored by governments or other public entities. 
+* Libraries have experience in preserving resources for future use, particularly items created by governments or other public entities. 
 
 **What you can do:**
 
-* Archiving and preserving civic data in a library-managed repository or in partnership with an external repository.
+* Archive and preserve civic data in a library-managed repository or in partnership with an external repository.
 
 **Inspiration:**
 
