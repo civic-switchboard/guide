@@ -2,8 +2,6 @@
 
 With this section of the guide, we share tools you can take, adapt, and implement as you understand your civic data landscape, build new partnerships, and activate existing ones. All of the material is licensed under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) unless otherwise described \(license statements are also included directly on the documents\).
 
-Here are the tools you'll find:
-
 ## **Engaging Partners**
 
 * Talking Points: Why Libraries Should be Key Participants in their Civic Data Ecosystems \[[PDF](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf), [PNG](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.png)\]
