@@ -1,5 +1,5 @@
 ---
-description: Enriching workforce development training with data literacy
+description: Democratizing Data Through Data Literacy Training
 ---
 
 # Fondren Library, Rice University, Houston, TX
@@ -48,6 +48,9 @@ This project demonstrated the value of partnering with a leading civic research 
 
 * **Katie Floyd Wang,** Kinder Institute for Urban Research, Rice University ****
 * **Lisa Spiro,** Fondren Library, Rice University
+* **Jie Wu**, Kinder Institute for Urban Research, Rice University
+* **Miaomiao Rimmer**, Fondren Library, Rice University
+* **Daniel Koh**, Rice University
 
 \*\*\*\*
 

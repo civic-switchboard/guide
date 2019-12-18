@@ -6,7 +6,7 @@ The following libraries led projects in 2019 with support from the Civic Switchb
 
 ### \*\*\*\*[**Charlotte Mecklenburg Public Library, Charlotte, NC**](charlotte-mecklenburg-public-library-charlotte-nc.md) **-** _Organizing a local civic data council as groundwork for an open data portal_
 
-### [Fondren Library, Rice University, Houston, TX](fondren-library-rice-university-houston-tx.md) - _**Enriching workforce development training with data literacy**_
+### [Fondren Library, Rice University, Houston, TX](fondren-library-rice-university-houston-tx.md) - _Democratizing Data Through Data Literacy Training_
 
 ### [Pioneer Library System, Ontario County, NY](pioneer-library-system-ontario-county-ny.md) - _**Expanding regional data sharing practices to support substance abuse prevention**_
 
