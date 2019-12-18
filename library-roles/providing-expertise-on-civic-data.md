@@ -20,7 +20,7 @@
 
 **Inspiration:**
 
-* Pittsburgh, PA: [University of Pittsburgh Library System and Western PA Regional Data Center](https://docs.google.com/presentation/d/1VO6GGw7e7gN4lXHFeNnZcfVQsal-SZPS_0DbBCxgZAk/edit#slide=id.p)
+* Pittsburgh, PA: [University of Pittsburgh Library System and Western PA Regional Data Center](https://docs.google.com/presentation/d/1VO6GGw7e7gN4lXHFeNnZcfVQsal-SZPS_0DbBCxgZAk/edit#slide=id.p) metadata collaboration
 
 **Resources you can use:**
 
