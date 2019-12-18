@@ -30,5 +30,7 @@
 * Force11: [The FAIR Data Principles ](https://www.force11.org/group/fairgroup/fairprinciples)
 * Green, B., Cunningham, G., Ekblaw, A., & Kominers, P. \(2017\). [Open Data Privacy](https://doi.org/10.2139/ssrn.2924751). _SSRN Electronic Journal_
 * Data SF [4 Steps to Manage Privacy and De-Identification for your Open Data Program](https://datasf.org/blog/4-steps-to-manage-privacy-and-de-identification-for-your-open-data-program/)
-* [Open Data, Grey Data, and Stewardship: Universities at the Privacy Frontier](https://arxiv.org/abs/1802.02953)
+* Borgman, Christine \(2018\). [Open Data, Grey Data, and Stewardship: Universities at the Privacy Frontier](https://arxiv.org/abs/1802.02953). _Berkeley Technology Law Journal_, 33:2, 365-412
+
+
 
