@@ -4,7 +4,7 @@ description: Clarifying library roles in an expansive regional civic data ecosys
 
 # Western New York Library Resources Council, Western NY
 
-**Partner organizations:** rprt, LLC, Butler Library at SUNY Buffalo State
+**Partner organizations:** [rprt, LLC](https://www.rprt.dev/), [Butler Library at SUNY Buffalo State](https://library.buffalostate.edu/home)
 
 **Library roles played:** [Increasing library capacity](../library-roles/increasing-the-librarys-capacity.md)
 
@@ -37,6 +37,11 @@ As a regional organization, we have the communication network to be able to lear
 ### **Learn More:**
 
 * [Municipal Website Analysis report](https://drive.google.com/file/d/1pqzRY--A3D69nM8CvqNj3mjhqoydFZBQ/view)
+
+### Project Team
+
+* **Heidi Ziemer**, Western New York Library Resources Council
+* **Jamie Bono**, rprt, LLC
 
   
 
