@@ -2,8 +2,8 @@
 
 **What's the need?**
 
-* There is an increasing need for people to strengthen data literacy skills within their job and career
-* Many people would like to know how to better find and use civic data, and at the same time understand its context and limitations.
+* There is an increasing need for people to have data literacy skills for their careers.
+* Many people would like to know how to better find and use civic data and, at the same time, understand its context and limitations.
 
 **Why the library?**  
 
@@ -32,4 +32,5 @@
 * Community Information Now: [What’s Needed for a Community to be Good at Using Data?](http://cinow.info/wp-content/uploads/2016/09/Whats-Needed-for-a-Community-to-be-Good-at-Using-Data-20160810.pdf)
 * Allied Media: [Opening Data Zine ](https://www.alliedmedia.org/news/2015/09/17/opening-data-zine-here)
 * University of Washington [Open Data Literacy Project](http://odl.ischool.uw.edu/)
+* NNIP and Microsoft’s Civic Technology Engagement Group: [Data and Tech Training Catalog](%20https://www.neighborhoodindicators.org/data-tech/training)
 
