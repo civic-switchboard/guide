@@ -17,7 +17,6 @@ The main text of the guide is authored by the Civic Switchboard project team:
 * **Aaron Brenner**, The University Library System at the University of Pittsburgh
 * **Bob Gradeck**, Western Pennsylvania Regional Data Center
 * **Toby Greenwalt**, Carnegie Library of Pittsburgh 
-* **Julia Marden** \(from July 2019\), Carnegie Library of Pittsburgh 
 * **Eleanor "Nora" Mattern**, School of Computing and Information at the University of Pittsburgh
 * **Liz Monk**, Western Pennsylvania Regional Data Center
 * **Kathy Pettit**, National Neighborhood Indicators Partnership
@@ -29,5 +28,5 @@ Case studies include material authored by the featured parties; specific attribu
 
 The Civic Switchboard Guide is licensed under is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-Citation: Civic Switchboard Project Team \(2019\). Civic Switchboard Guide. [https://civic-switchboard.gitbook.io/guide](https://civic-switchboard.gitbook.io/guide).
+**Citation**: Civic Switchboard Project Team \(2019\). Civic Switchboard Guide. [https://civic-switchboard.gitbook.io/guide](https://civic-switchboard.gitbook.io/guide).
 
