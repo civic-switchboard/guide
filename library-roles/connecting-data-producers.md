@@ -2,8 +2,9 @@
 
 **What's the need?**
 
-* Data producers, even when working in the same region, are often separated. Data producers may be facing similar problems, and may have solutions or complementary expertise to share.
-* Together, data producers can develop solutions for challenges around data governance, data publishing and sharing; they can advocate for infrastructure; and they can standardize the descriptions and availability of their data.
+* Data producers, even when working in the same region, are often separated.
+* Data producers may be facing similar problems, and may have solutions or complementary expertise to share.
+* Together, data producers can develop solutions for challenges around data governance, data publishing and sharing. They can advocate for infrastructure. And they can standardize the descriptions and availability of their data.
 
 **Why the library?**  
 
@@ -18,8 +19,9 @@
 
 **Inspiration:**
 
-* Charlotte Case Study \(coming soon\)
-* Pioneer Case Study \(coming soon\)
+* [Charlotte Mecklenburg Public Library Case Study ](https://civic-switchboard.gitbook.io/guide/case-studies/charlotte-mecklenburg-public-library-charlotte-nc)
+* [Pioneer Library System \(Ontario County, NY\) Case Study ](https://civic-switchboard.gitbook.io/guide/case-studies/pioneer-library-system-ontario-county-ny)
+* [Alaska State Library Case Study](https://civic-switchboard.gitbook.io/guide/case-studies/alaska-state-library-juneau-ak)
 
 **Resources you can use:**
 
