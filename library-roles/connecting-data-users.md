@@ -3,7 +3,7 @@
 **What's the need?**
 
 * Data users, even when living in the same region, are often separated. Users may be facing similar problems and may have solutions or complementary expertise to share.
-* Together, users can be stronger advocates for social change, for improving data , for making additional data available, for tools to make data more useful.
+* Together, data users can be stronger advocates for social change, for improving civic data, for making additional data available, and for the creation of tools to make data more useful.
 * In-person connections can be fun and help strengthen local networks.
 
 **Why the library?**  
@@ -32,5 +32,5 @@
 * Detroit Digital Justice Coalition: [Discovering Technology](https://alliedmedia.org/ddjc/discotech) \("DiscoTech"\): From that page, see the "How to DiscoTech" zine for detailed principles and specific guidance!
 * Roadmap to Informed Communities / Sunlight Foundation. “[Community Data Dialogues: Learn how to host events to engage non-technical audiences on open data](https://communities.sunlightfoundation.com/action/data-dialogues/)” 
 * Murray, Brittany, Elsa Falkenburger, and Priya Saxena. “[Data Walks: An Innovative Way to Share Data with Communities.](https://www.urban.org/research/publication/data-walks-innovative-way-share-data-communities)” Urban Institute, June 4, 2016. 
-* Schlosser, Dan. “[When ‘Awesome’ Is Isolating: Making Hackathons Accessible.](http://static.schlosser.io/hackcon.pdf)”.
+* Schlosser, Dan. “[When ‘Awesome’ Is Isolating: Making Hackathons Accessible.](http://static.schlosser.io/hackcon.pdf)”
 
