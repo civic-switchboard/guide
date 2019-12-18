@@ -2,7 +2,7 @@
 
 **What's the need?**
 
-* Data is often available but with barriers to use.  Barriers include \(but are not limited to\) finding, obtaining, understanding, aggregating, applying, and contextualizing data.
+* Data is often available but with barriers to use. Barriers include \(but are not limited to\) finding, obtaining, understanding, aggregating, applying, and contextualizing data.
 * Data providers and intermediaries need insight from users to help prioritize open datasets and tool development.  
 
 **Why the library?**  
@@ -13,7 +13,7 @@
 
 **What your library can do:**
 
-* Author[ data user guides](http://www.wprdc.org/data-user-guides/) for specific datasets or on broader topics
+* Author[ data user guides](http://www.wprdc.org/data-user-guides/) for specific datasets or on broader topics.
 * Create views of data that meet specific needs, for user groups, social justice organizations. One example might be creating analog presentations of data for communities that are non-digital. 
 * Partner with civic data initiatives to gather user feedback for improved services
 
@@ -26,5 +26,5 @@
 
 **Resources you can use:**
 
-* Robinson, P., & Mather, L. W. \(2017\). [Open Data Community Maturity: Libraries as Civic Infomediaries](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf). Journal of the Urban and Regional Information Systems Association, 28. 
+* Robinson, P., & Mather, L. W. \(2017\). [Open Data Community Maturity: Libraries as Civic Infomediaries](http://www.urisa.org/clientuploads/directory/Documents/Journal/Vol28_final.pdf). _Journal of the Urban and Regional Information Systems Association_, volume 28. 
 
