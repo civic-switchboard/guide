@@ -2,14 +2,14 @@
 
 **What's the need?**
 
-* As you advocate for sharing data, you should set an example by sharing it yourself  
-* Data about your library can help better inform community context
-* Historic information that could be used as data is often held in library collections, but not in machine-readable form
+* As you advocate for sharing data, your library could set an example by sharing it yourself.
+* Data about your library can help provide insight into your community.
+* Historic information that could be used as data is often held in library collections, but not in machine-readable form.
 * People want to collect and create data themselves but often need support. Not everyone has specialized tools \(such as air quality monitors\) to aid in data collection. ****
 
 **Why the library?**  
 
-* Your library likely collects data for annual reporting that could also be of interest for public use. 
+* Your library likely collects data for annual reporting that could also be of interest to the public. 
 * Libraries have a long tradition of reformatting materials to support different forms of use, including microfilming and digitizing collections. Creating datasets from collections is a continuation of this work.
 * Libraries have the infrastructure for loaning equipment \(like air quality monitors\) and can reach a broad and diverse audience.
 
@@ -29,5 +29,5 @@
 **Resources you can use:**
 
 * Always Already Computational - Collections as Data**:** This project has many resources and examples to inspire considering library collections as/containing data. A good starting place is their ["50 Things" you can do list](https://collectionsasdata.github.io/fiftythings/). 
-* SciStarter: "[Calling all Librarians: Citizen Science Day 2019 Invitation](https://blog.scistarter.com/2019/01/citizen-science-day-2019-invitation/)" 
+* SciStarter. "[Calling all Librarians: Citizen Science Day 2019 Invitation](https://blog.scistarter.com/2019/01/citizen-science-day-2019-invitation/)" 
 
