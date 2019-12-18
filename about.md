@@ -28,5 +28,5 @@ Case studies include material authored by the featured parties; specific attribu
 
 The Civic Switchboard Guide is licensed under is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-**Citation**: Civic Switchboard Project Team \(2019\). Civic Switchboard Guide. [https://civic-switchboard.gitbook.io/guide](https://civic-switchboard.gitbook.io/guide).
+Citation: Civic Switchboard Project Team \(2019\). Civic Switchboard Guide. [https://civic-switchboard.gitbook.io/guide](https://civic-switchboard.gitbook.io/guide).
 
