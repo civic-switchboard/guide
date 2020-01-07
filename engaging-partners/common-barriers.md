@@ -1,6 +1,11 @@
-# Common barriers to getting started
+---
+description: >-
+  Through this project, we’ve learned about common barriers to entry that
+  libraries are navigating. This section overviews some of these challenges and
+  points to places in guide that may provide help.
+---
 
-Through this project, we’ve learned about common barriers to entry that libraries are navigating. This section overviews some of these challenges and points to places in guide that may provide help.
+# Common barriers to getting started
 
 **Feeling unqualified**
 

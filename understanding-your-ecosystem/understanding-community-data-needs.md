@@ -1,9 +1,3 @@
----
-description: >-
-  In this section of the guide, we present some ways that your library can learn
-  more about community data needs.
----
-
 # Understanding Community Data Needs
 
 Libraries interested in getting involved in their local civic data ecosystem should consider tailoring their role and their actions to local conditions. Some of the local circumstances libraries may want to account for in structuring their role include community interests, civic priorities, resident aspirations, data and technology infrastructures, and the capacity of data and service providers. Adopting a demand-based focus for their civic data work will help libraries structure their role and their work to be relevant for people in the community, and align and coordinate efforts with other members of local civic data ecosystems.
