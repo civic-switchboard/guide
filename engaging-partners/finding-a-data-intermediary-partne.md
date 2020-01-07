@@ -1,6 +1,10 @@
-# Finding partners in your ecosystem
+---
+description: >-
+  In this page, we'll describe strategies for finding people and groups in your
+  civic data ecosystem who could be potential partners to you and your library.
+---
 
-In this page, we'll describe strategies for finding people and groups in your civic data ecosystem who could be potential partners to you and your library.
+# Finding partners in your ecosystem
 
 ### First, look for data intermediaries 
 
