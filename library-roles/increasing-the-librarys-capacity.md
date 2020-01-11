@@ -24,7 +24,7 @@
 
 **Resources you can use:**  
 
-* Civic Switchboard [one-sheet talking points](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf)
+* Talking Points: Why Libraries Should be Key Participants in their Civic Data Ecosystems \[[PDF](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf), [PNG](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.png)\]
 * Toolkit Job descriptions - _coming soon_
 
 

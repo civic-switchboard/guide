@@ -2,19 +2,7 @@
 
 With this section of the guide, we share tools you can take, adapt, and implement as you understand your civic data landscape, build new partnerships, and activate existing ones. All of the material is licensed under [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/) unless otherwise described \(license statements are also included directly on the documents\).
 
-## **Engaging Partners**
-
-* Talking Points: Why Libraries Should be Key Participants in their Civic Data Ecosystems \[[PDF](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf), [PNG](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.png)\]
-  * This one-sheet provides a set of talking points you can use to advocate to yourself, your colleagues, your administrators, community groups, potential partners, and funders. Are we missing something? Let us know.
-
-**Ecosystem Mapping**
-
-* [Identifying Ecosystem Players](https://github.com/civic-switchboard/guide/raw/master/toolkit/Identifying%20Ecosytem%20Players.pdf)
-  * A series of prompts to consider when identifying the players in your civic data ecosystem. 
-* [Exploring Other Ecosystem Maps](https://github.com/civic-switchboard/guide/raw/master/toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
-  * A series of prompts to use when looking at an ecosystem map created by someone else
-
-## Library Roles
+\*\*\*\*
 
 **Identifying Library Roles**
 

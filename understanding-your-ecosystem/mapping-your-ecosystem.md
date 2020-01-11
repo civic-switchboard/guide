@@ -24,6 +24,12 @@ As you think about who is in your ecosystem, these are the types of people and o
 
 The connections that exist among these players will take different forms depending on the community. They may include working together on projects and programming, providing funding and resources, and sharing missions and goals.
 
+{% hint style="info" %}
+A series of prompts \(developed for the  the Civic Switchboard workshop\) to consider when identifying the players in your civic data ecosystem. 
+
+[Identifying Ecosystem Players](https://github.com/civic-switchboard/guide/blob/master/toolkit/Identifying%20Ecosytem%20Players.pdf)
+{% endhint %}
+
 ## Mapping your Ecosystem
 
 Due to the people, organizations, and relationships involved, ecosystems are complex! Inventorying or “mapping” your ecosystem can help you and your collaborators get a high level view of what is happening locally. An ecosystem mapping process can uncover players or relationships that aren’t documented, and start ecosystem discussions from a shared place of understanding.
@@ -65,4 +71,12 @@ If you color code your visualization, it might also reveal gaps in certain secto
 An interpretation of an ecosystem map should involve a thoughtful, collaborative review of gaps and opportunities. Although it may not be easily apparent from network diagram, you should also consider whether your ecosystem seems to be serving a specific subset of your community: are diverse perspectives represented? If not, this should be addressed. Perhaps your civic data community is less inclusive than it could be, perhaps the definition of a “data organization” needs to be broadened to recognize the types of data work that matter to different communities. Or perhaps your ecosystem mapping team simply isn’t aware of the totality of the ecosystem and the map itself \(not the ecosystem\) is what needs to be improved.
 
 Feel free to also apply other organizational tools to your ecosystem map and see how it goes. For example, many organizations use the SWOT \(Strengths, Opportunities, Weaknesses, Threats\) model to evaluate current conditions.
+
+{% hint style="info" %}
+A series of prompts \(developed for the  the Civic Switchboard workshop\) to use when looking at an ecosystem map created by someone else 
+
+[Exploring Other Ecosystem Maps](https://github.com/civic-switchboard/guide/blob/master/toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
+{% endhint %}
+
+
 

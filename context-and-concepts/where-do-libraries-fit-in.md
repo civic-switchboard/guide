@@ -10,3 +10,11 @@ But a key point for libraries is that this work is not conducted alone. Cultivat
 
 Getting involved with civic data probably already aligns with your library mission. Your library probably already considers data literacy as increasingly important for its staff and community to cultivate. It is also likely to consider community engagement, specifically working to strengthen its communities, equally important. Because it's a good strategy for addressing tough problems \(and because funding is often tight\), collaborating with strategic partners may be a point of emphasis. Developing your library's role in its civic data ecosystem can address all these goals.
 
+{% hint style="info" %}
+Talking Points: Why Libraries Should be Key Participants in their Civic Data Ecosystems \[[PDF](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf), [PNG](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.png)\]
+
+This one-sheet provides a set of talking points developed by Civic Switchboard that you can use to advocate to yourself, your colleagues, your administrators, community groups, potential partners, and funders. 
+{% endhint %}
+
+
+
