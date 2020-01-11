@@ -28,7 +28,7 @@ Open and civic data can be confusing - both in how it is defined and how it may 
 
 **Lacking authority to create or encourage to create a single network.**  
 
-Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [Mapping your ](../understanding-your-ecosystem/mapping-your-ecosystem.md)e[cosystem ](../understanding-your-ecosystem/mapping-your-ecosystem.md)to see how players are \(and aren’t\) working together and this [one sheeter](../toolkit/) to remind you why the library has a real role to play in this work. 
+Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [Mapping your ](../understanding-your-ecosystem/mapping-your-ecosystem.md)e[cosystem ](../understanding-your-ecosystem/mapping-your-ecosystem.md)to see how players are \(and aren’t\) working together and this [one sheeter]() to remind you why the library has a real role to play in this work. 
 
   
 

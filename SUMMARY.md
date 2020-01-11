@@ -54,6 +54,5 @@
   * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
   * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
   * [Civic Switchboard Workshop Materials](guide-resources/civic-switchboard-workshop-materials.md)
-* [Toolkit](toolkit/README.md)
-  * [Glossary](toolkit/glossary.md)
+  * [Glossary](guide-resources/glossary.md)
 
