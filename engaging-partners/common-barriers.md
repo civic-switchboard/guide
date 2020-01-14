@@ -16,7 +16,7 @@ Related to lack of urgency, civic data work isn’t always top priority as a pla
 
 **Negotiating boundaries**
 
-You may be surprised by how robust of a data ecosystem already exists in your area. It may be unclear where your organization can -- and should -- contribute and how to avoid stepping on toes. You'll what to understand what other players in your ecosystem \(and in your organization\) are doing with civic data.  Check out these resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/raw/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
+You may be surprised by how robust of a data ecosystem already exists in your area. It may be unclear where your organization can -- and should -- contribute and how to avoid stepping on toes. You'll what to understand what other players in your ecosystem \(and in your organization\) are doing with civic data.  Check out these resources to better understand and/or plan to work with other local organizations include: [Finding partners in your ecosystem](finding-a-data-intermediary-partne.md); [Library roles](https://app.gitbook.com/@civic-switchboard/s/guide/library-roles); [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md); [Developing project plan for work](https://github.com/civic-switchboard/guide/blob/master/toolkit/Civic%20Switchboard%20Activity%20Canvas%20Updated%20May%202%202018.pdf).
 
 **Building trust and credibility for the library in the civic data space** 
 
@@ -28,7 +28,7 @@ Open and civic data can be confusing - both in how it is defined and how it may 
 
 **Lacking authority to create or encourage to create a single network.**  
 
-Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [Mapping your ](../understanding-your-ecosystem/mapping-your-ecosystem.md)e[cosystem ](../understanding-your-ecosystem/mapping-your-ecosystem.md)to see how players are \(and aren’t\) working together and this [one sheeter]() to remind you why the library has a real role to play in this work. 
+Take your time, build trust.  Remember that you don’t have to be the authority.  Check out [Mapping your ecosystem](../understanding-your-ecosystem/mapping-your-ecosystem.md) to see how players are \(and aren’t\) working together and this [one sheeter](https://github.com/civic-switchboard/guide/blob/master/toolkit/CSTalkingPoints.pdf) to remind you why the library has a real role to play in this work. 
 
   
 

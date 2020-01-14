@@ -48,11 +48,11 @@
   * [Saint Paul Public Library, St. Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
   * [Western New York Library Resources Council, Western NY](case-studies/western-new-york-library-resources-council-western-ny.md)
 * [Additional Resources](guide-resources/README.md)
+  * [Civic Switchboard Workshop Materials](guide-resources/civic-switchboard-workshop-materials.md)
   * [Open Data](guide-resources/open-data.md)
   * [Data Literacies](guide-resources/data-literacies.md)
   * [Partnerships and Community-Building](guide-resources/partnerships-and-community-building.md)
   * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
   * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
-  * [Civic Switchboard Workshop Materials](guide-resources/civic-switchboard-workshop-materials.md)
   * [Glossary](guide-resources/glossary.md)
 
