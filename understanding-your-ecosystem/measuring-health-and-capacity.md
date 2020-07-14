@@ -38,7 +38,7 @@ Measuring the health and capacity of your ecosystem can begin with the process o
 
 You might decide to create a custom survey to assess a specific quality of your ecosystem. You might decide to conduct interviews or focus groups with ecosystem members to collect qualitative data. You might research your community to identify trends and external strengths, weaknesses, opportunities and threats that may influence how your ecosystem functions.
 
-Several organizations have created network capacity tools you can use as a starting point, such as the [Evaluation Framework \(beginning on page 47\)](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf) from the Centre for Social Innovation pocket guide's _Network Evaluation Cultivating Healthy Networks for Social Change_ or the [Network Health Scorecard](http://networkimpact.org/downloads/NH_Scorecard.pdf) from Network Impact.
+Several organizations have created network capacity tools you can use as a starting point, such as the [Evaluation Framework \(beginning on page 47\)](https://socialinnovation.org/wp-content/uploads/2016/08/NetworkEvaluation_Pocket_english.pdf) from the Centre for Social Innovation pocket guide's _Network Evaluation Cultivating Healthy Networks for Social Change_ or the [Network Health Scorecard](http://networkimpact.org/downloads/NH_Scorecard.pdf) from Network Impact.
 
 ## Who to Work With
 
