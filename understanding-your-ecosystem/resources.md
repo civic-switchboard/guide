@@ -16,7 +16,11 @@ A project of the World Wide Web Foundation, the Open Data Barometer assesses the
 
 **Open Data Institute \(UK\). "Mapping Data Ecosystems." March 23, 2018.** [**https://theodi.org/article/mapping-data-ecosystems/**](https://theodi.org/article/mapping-data-ecosystems/)\*\*\*\*
 
-This resource offers guidance on mapping an ecosystem in a workshop setting or by oneself or with a small number of colleagues. It identifies common players in an data ecosystems, provides prompts for creating a map, and highlights examples of data ecosystem maps.
+This resource offers guidance on mapping an ecosystem in a workshop setting or by oneself or with a small number of colleagues. It identifies common players in a data ecosystems, provides prompts for creating a map, and highlights examples of data ecosystem maps.
+
+Arena, Olivia and Crystal Li. **Guide to Civic Tech & Data Ecosystem Mapping.** June 2018. [https://www.urban.org/sites/default/files/publication/98649/guide\_to\_civic\_tech\_and\_data\_ecosystem\_mapping.pdf](https://www.urban.org/sites/default/files/publication/98649/guide_to_civic_tech_and_data_ecosystem_mapping.pdf)
+
+This guide is the product of an initiative by the Civic Tech and Data Collaborative \(CTDC\) in which seven local communities used ecosystem mapping to identify their local existing data networks and roles. The resource "provides guidance and examples from these cities on the value of mapping, key questions when getting started, different methods to collect the data, and how to use and analyze ecosystem maps to strengthen community relationships."
 
 \*\*\*\*
 

@@ -28,7 +28,7 @@ As you consider potential roles for your library, remember the larger civic data
 
 ### \*\*\*\*[**Publishing civic data** ](publishing-civic-data.md)
 
-### \*\*\*\*[**Archiving civic cata** ](archiving-civic-data.md)
+### \*\*\*\*[**Archiving civic data** ](archiving-civic-data.md)
 
 ### \*\*\*\*[**Increasing the library's capacity to do all of the above** ](increasing-the-librarys-capacity.md) 
 
