@@ -6,7 +6,7 @@ On this page, we've selected and described some resources that we think are rele
 
 DataSF provides detailed guidance on processes and issues around open data, including data quality, metrics, privacy and risk management, metadata, and licensing.
 
-**Detroit Digital Justice Coalition. \(2015\). Opening Data. \(D. J. Nucera, Ed.\).**  [**https://www.alliedmedia.org/files/ddjc\_zine-final-rgb.pdf**](https://www.alliedmedia.org/files/ddjc_zine-final-rgb.pdf)\*\*\*\*
+**Detroit Digital Justice Coalition. \(2015\). Opening Data. \(D. J. Nucera, Ed.\).**  [**http://detroitdjc.org/zines/**](http://detroitdjc.org/zines/)\*\*\*\*
 
 DDJC's Opening Data zine is a crucial look at open data from a community-centered, human rights perspective. The zine advocates for the digital justice principles of access, participation, common ownership, and healthy communities. Other sections include an Open Data Primer and FAQ, and case studies about data at human scale.
 
