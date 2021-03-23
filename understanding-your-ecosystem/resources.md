@@ -6,7 +6,7 @@ On this page, we've selected and described some resources that we think are rele
 
 Donker and van Loenen review existing frameworks for assessing the health and efficacy of open data initiatives and identify a need to capture greater data user feedback through assessment. They offer a "holistic open data assessment framework" that examines data supply \("the way in which data are provided as open data"\), data governance \("the way in which government aspects are organised"\) and user characteristics \("the way in which the user characteristics enable the user to innovate with open data"\) \(p. 288\).
 
-**Malinsky, Eli and Chad Lubelsky. "Network Evaluation: Cultivating Healthy Networks for Social Change." Toronto: Centre for Social Innovation.** [**http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf**](http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation_Pocket_english.pdf)\*\*\*\*
+**Malinsky, Eli and Chad Lubelsky. "Network Evaluation: Cultivating Healthy Networks for Social Change." Toronto: Centre for Social Innovation.** [**http://socialinnovation.ca/sites/socialinnovation.ca/files/NetworkEvaluation\_Pocket\_english.pdf**](https://socialinnovation.org/wp-content/uploads/2016/08/NetworkEvaluation_Pocket_english.pdf)\*\*\*\*
 
 Malinsky and Lubelsky define networks as "systems of relatively autonomous actors that are working in concern to achieve shared goals or pursuing individual goals within a shared system" \(p. 8\). Their text offers strategies for evaluating the performance and success of networks.
 
