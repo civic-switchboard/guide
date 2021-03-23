@@ -18,8 +18,8 @@
 
 **Inspiration:**
 
-* Evansville, Indiana Area: [Jerica Copeny \| Movers & Shakers 2018 – Innovators](https://www.libraryjournal.com/?detailStory=jerica-copeny-movers-shakers-2018-innovators) 
-* Pittsburgh, PA: Lyons, Kim. “[3 Women You Should Know in Pittsburgh Civic Tech.](https://technical.ly/pittsburgh/2018/05/09/3-women-you-should-know-pittsburgh-civic-tech-open-data-pgh/)” Technical.ly,  May 9, 2018.
+* Evansville, Indiana Area: [Jerica Copeny \| Movers & Shakers 2018 – Innovators](https://www.libraryjournal.com?detailStory=jerica-copeny-movers-shakers-2018-innovators.) 
+* Pittsburgh, PA: Lyons, Kim. “[3 Women You Should Know in Pittsburgh Civic Tech.](%20https://technical.ly/2018/05/09/3-women-you-should-know-pittsburgh-civic-tech-open-data-pgh/)” Technical.ly,  May 9, 2018.
 * Pittsburgh, PA: Civic Switchboard. “[Library Partners Reflect on NNIP Meeting](https://civic-switchboard.github.io/post_9/),” June 6, 2018. 
 
 **Resources you can use:**  
