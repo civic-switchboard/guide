@@ -37,7 +37,7 @@
   * [Support networks and communities of practice](maintaining-momentum/support-networks-and-communities-of-practice.md)
   * [Institutionalizing](maintaining-momentum/institutionalizing.md)
   * [Selected Resources](maintaining-momentum/resources.md)
-* [Case Studies](case-studies/README.md)
+* [Case Studies 2019](case-studies/README.md)
   * [Alaska State Library, Juneau, AK](case-studies/alaska-state-library-juneau-ak.md)
   * [Charlotte Mecklenburg Public Library, Charlotte, NC](case-studies/charlotte-mecklenburg-public-library-charlotte-nc.md)
   * [Fondren Library, Rice University, Houston, TX](case-studies/fondren-library-rice-university-houston-tx.md)
@@ -47,6 +47,7 @@
   * [Robert L. Bogomolny Library at the University of Baltimore, MD](case-studies/robert-l.-bogomolny-library-at-the-university-of-baltimore-md.md)
   * [Saint Paul Public Library, St. Paul, MN](case-studies/st-paul-public-library-st-paul-mn.md)
   * [Western New York Library Resources Council, Western NY](case-studies/western-new-york-library-resources-council-western-ny.md)
+* [Case Studies 2020](case-studies-2020.md)
 * [Additional Resources](guide-resources/README.md)
   * [Civic Switchboard Workshop Materials](guide-resources/civic-switchboard-workshop-materials.md)
   * [Open Data](guide-resources/open-data.md)
@@ -55,4 +56,3 @@
   * [Library Roles in Civic Data Ecosystems](guide-resources/library-roles-in-civic-data-ecosystems.md)
   * [Archiving and Preservation of Civic and Government Data](guide-resources/archiving-and-preservation-of-civic-and-government-data.md)
   * [Glossary](guide-resources/glossary.md)
-
