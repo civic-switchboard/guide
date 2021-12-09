@@ -9,16 +9,16 @@ description: Increasing awareness of open data through community conversations
 **Library roles played:** [Connecting data users](../library-roles/connecting-data-users.md), [Showing the importance of civic data](../library-roles/showing-importance-civic-data.md), [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md), [Increasing the library’s capacity](../library-roles/increasing-the-librarys-capacity.md)
 
 {% hint style="info" %}
-\*\*\*\*[**Saint Paul Public Library**](https://sppl.org/) **worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
+****[**Saint Paul Public Library**](https://sppl.org) **worked with local government to increase awareness of civic data through multiple strategies: creating informational media describing local open data, presenting public events, and offering trainings for library staff. The work they were doing was emergent, so the team needed to be adaptive to learning about audience needs and changing roles within the team itself. To further the work, the team proactively designed strategies to institutionalize the library’s role in the local civic data ecosystem.**
 {% endhint %}
 
-For our project, we identified an opportunity to create a more data literate community and a more responsive, inclusive city government by: \(1\) increasing awareness of the civic data available in general and in particular the City of Saint Paul’s Open Information portal, \(2\) creating opportunities for both connected and disconnected residents to engage more deeply with data that is relevant to their community, and \(3\) developing a framework for gathering and responding to feedback and common questions.
+For our project, we identified an opportunity to create a more data literate community and a more responsive, inclusive city government by: (1) increasing awareness of the civic data available in general and in particular the City of Saint Paul’s Open Information portal, (2) creating opportunities for both connected and disconnected residents to engage more deeply with data that is relevant to their community, and (3) developing a framework for gathering and responding to feedback and common questions.
 
-To increase awareness of open data, we created an [Open Saint Paul brochure](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/40/2019/07/08111351/open_saint_paul_guide.pdf) to illustrate what open data is, what is collected, how it is shared, and what are the benefits, rights, and responsibilities of both civic data owners and everyday users.
+To increase awareness of open data, we created an [Open Saint Paul brochure](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/40/2019/07/08111351/open\_saint\_paul\_guide.pdf) to illustrate what open data is, what is collected, how it is shared, and what are the benefits, rights, and responsibilities of both civic data owners and everyday users.
 
-![Open Saint Paul Brochure \(front\)](../.gitbook/assets/saint-paul-open-data-front.JPG)
+![Open Saint Paul Brochure (front)](../.gitbook/assets/saint-paul-open-data-front.JPG)
 
-![Open Saint Paul Brochure \(back\)](../.gitbook/assets/saint-paul-open-data-back.JPG)
+![Open Saint Paul Brochure (back)](../.gitbook/assets/saint-paul-open-data-back.JPG)
 
 We also designed and presented a series of events aimed at giving residents the opportunity to understand and discuss civic data opportunities and challenges. We held the events at three of our most visited libraries, all in diverse neighborhoods that have historically experienced an under-investment in technology. The events included panel discussions with local experts and data intermediaries, with questions focused on the use of open and civic data in community settings. To further engage attendees and boost data literacy, we gave an overview of the information portal, replicated hands-on activities from [Detroit Digital Justice Coalition’s DiscoTech model](https://www.alliedmedia.org/ddjc/discotech), and most importantly provided healthy food and drinks at every session.
 
@@ -30,7 +30,7 @@ Reaching disconnected residents at the scale we intended proved to be challengin
 **In the next section, the Saint Paul project team reflects on aspects that helped their library grow in supporting civic data. Specifically, they highlight the importance of taking a project management approach, creating multiple versions of events at different scales, and getting buy-in and support from library leadership to spread the work across the organization.**
 {% endhint %}
 
-\*\*\*\*
+****
 
 As team roles changed throughout the project, we decided to write a project charter about halfway through to outline the opportunity, scope, roles and expectations. We recommend doing this from the start to keep momentum and communication going through the sometimes inevitable staff and organizational changes of public service.
 
@@ -42,15 +42,14 @@ To give us the space to continue the work, we have included leadership in our pl
 
 ### Learn more:
 
-* \*\*\*\*[**Data Party Reading List**](https://sppl.org/data-party/)\*\*\*\*
-* \*\*\*\*[**Open Data Guide**](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/40/2019/07/08111351/open_saint_paul_guide.pdf)\*\*\*\*
+* ****[**Data Party Reading List**](https://sppl.org/data-party/)****
+* ****[**Open Data Guide**](https://d4804za1f1gw.cloudfront.net/wp-content/uploads/sites/40/2019/07/08111351/open\_saint\_paul\_guide.pdf)****
 
-### **Project Team:** 
+### **Project Team:**&#x20;
 
 * **Xenia Hernández**, Saint Paul Public Library
 * **Derek Engelking**, City of Saint Paul
 
 
 
-## 
-
+##

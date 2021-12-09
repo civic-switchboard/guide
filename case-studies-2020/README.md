@@ -8,7 +8,7 @@ The following libraries led projects in 2020 with support from the Civic Switchb
 
 ### &#x20;Indianapolis Public Library, Indianapolis, IN - _Reaching a **New Audience for Civic Data and Community Research**_ <a href="#indianapolis-in---indianapolis-public-library" id="indianapolis-in---indianapolis-public-library"></a>
 
-### St. Joseph County Public Library, South Bend, IN - _Building **Civic Data Community Partnerships**_ <a href="#south-bend-in---st-joseph-county-public-library" id="south-bend-in---st-joseph-county-public-library"></a>
-
 ### Spokane Public Library, Spokane, WA - **Grounding Open Data in a People-Centered Ecosystem** <a href="#spokane-wa---spokane-public-library" id="spokane-wa---spokane-public-library"></a>
+
+### St. Joseph County Public Library, South Bend, IN - _Building **Civic Data Community Partnerships**_ <a href="#south-bend-in---st-joseph-county-public-library" id="south-bend-in---st-joseph-county-public-library"></a>
 

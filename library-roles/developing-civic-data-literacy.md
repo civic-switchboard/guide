@@ -5,10 +5,10 @@
 * There is an increasing need for people to have data literacy skills for their careers.
 * Many people would like to know how to better find and use civic data and, at the same time, understand its context and limitations.
 
-**Why the library?**  
+**Why the library?** &#x20;
 
-* Your library likely has lots of experience teaching information literacy.  
-* Your library is in the position to adapt existing services or information literacy curriculum to continue to help people access and make use of civic data.  
+* Your library likely has lots of experience teaching information literacy. &#x20;
+* Your library is in the position to adapt existing services or information literacy curriculum to continue to help people access and make use of civic data. &#x20;
 
 **What you can do:**
 
@@ -25,12 +25,11 @@
 
 **Resources you can use:**
 
-* Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center: [Data 101 Toolkit ](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu_hoP0/edit?usp=sharing)
-* Data Equity for Main Street: [Open Data Curriculum](https://data-equity.org) 
-* MIT Center for Civic Media: [Data Therapy](https://datatherapy.org/)
+* Carnegie Library of Pittsburgh and the Western Pennsylvania Regional Data Center: [Data 101 Toolkit ](https://docs.google.com/document/d/1VbfIQ80nkaVg87ttPqH4bxsJzBROBSy1VdvOCu\_hoP0/edit?usp=sharing)
+* Data Equity for Main Street: [Open Data Curriculum](https://data-equity.org)&#x20;
+* MIT Center for Civic Media: [Data Therapy](https://datatherapy.org)
 * Data Pop Alliance: [Beyond Data Literacy: Reinventing Community Engagement and Empowerment in the Age of Data ](http://datapopalliance.org/wp-content/uploads/2015/11/Beyond-Data-Literacy-2015.pdf)
 * Community Information Now: [What’s Needed for a Community to be Good at Using Data?](http://cinow.info/wp-content/uploads/2016/09/Whats-Needed-for-a-Community-to-be-Good-at-Using-Data-20160810.pdf)
 * Allied Media: [Opening Data Zine ](https://www.alliedmedia.org/news/2015/09/17/opening-data-zine-here)
-* University of Washington [Open Data Literacy Project](http://odl.ischool.uw.edu/)
-* NNIP and Microsoft’s Civic Technology Engagement Group: [Data and Tech Training Catalog](%20https://www.neighborhoodindicators.org/data-tech/training)
-
+* University of Washington [Open Data Literacy Project](http://odl.ischool.uw.edu)
+* NNIP and Microsoft’s Civic Technology Engagement Group: [Data and Tech Training Catalog](https://www.neighborhoodindicators.org/data-tech/training)

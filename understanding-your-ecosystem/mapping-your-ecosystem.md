@@ -1,6 +1,6 @@
 # Mapping your Ecosystem
 
-The ecosystem analogy appears in a variety of different spaces and disciplines including [business](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner_2006_HBR.pdf), [social science](https://ssir.org/articles/entry/cultivate_your_ecosystem), and [innovation](https://www.researchgate.net/profile/Fred_Phillips/publication/296847757_Innovation_Ecosystems_A_Critical_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf).
+The ecosystem analogy appears in a variety of different spaces and disciplines including [business](http://sjbae.pbworks.com/w/file/fetch/60084211/Adner\_2006\_HBR.pdf), [social science](https://ssir.org/articles/entry/cultivate\_your\_ecosystem), and [innovation](https://www.researchgate.net/profile/Fred\_Phillips/publication/296847757\_Innovation\_Ecosystems\_A\_Critical\_Examination/links/5702aec608aea09bb1a301e8/Innovation-Ecosystems-A-Critical-Examination.pdf).
 
 The idea of interconnectedness of actors, priorities, resources, and policies, as well as the need for sustained collaboration between organizations to create meaningful impact, is widespread even if the term “ecosystem” isn’t used. The important thing to remember is that an ecosystem approach recognizes that there are multiple participants and it is helpful to understand the relationships between those participants and their environments.
 
@@ -25,9 +25,9 @@ As you think about who is in your ecosystem, these are the types of people and o
 The connections that exist among these players will take different forms depending on the community. They may include working together on projects and programming, providing funding and resources, and sharing missions and goals.
 
 {% hint style="info" %}
-A series of prompts \(developed for the  the Civic Switchboard workshop\) to consider when identifying the players in your civic data ecosystem. 
+A series of prompts (developed for the  the Civic Switchboard workshop) to consider when identifying the players in your civic data ecosystem.&#x20;
 
-[Identifying Ecosystem Players](https://github.com/civic-switchboard/guide/blob/master/toolkit/Identifying%20Ecosytem%20Players.pdf)
+[Identifying Ecosystem Players](../toolkit/Identifying%20Ecosytem%20Players.pdf)
 {% endhint %}
 
 ## Mapping your Ecosystem
@@ -38,7 +38,7 @@ In any mapping exercise, you will need to make these basic decisions about your 
 
 **Are we mapping people or organizations or something else?** Relationships are often person to person, and you can map individuals. Alternatively, you may decide to assign these relationships to institutions as you map.
 
-**What counts as a connection?Is it a formal partnership?** Do both sides need to agree the connection is there? Some research methodologies survey a set of organizations about their connections and then specify in the end map whether connections are self-reported as uni- or bi-directional. If strengthening relationships is one of your goals, you may decide that connections should be coded with a numerical value for depth or length of time so that you have a baseline measure for the strength of your ecosystem connections.
+**What counts as a connection? Is it a formal partnership?** Do both sides need to agree the connection is there? Some research methodologies survey a set of organizations about their connections and then specify in the end map whether connections are self-reported as uni- or bi-directional. If strengthening relationships is one of your goals, you may decide that connections should be coded with a numerical value for depth or length of time so that you have a baseline measure for the strength of your ecosystem connections.
 
 ## Mapping Approaches
 
@@ -46,9 +46,9 @@ There are a variety of approaches for mapping your ecosystem:
 
 **Independent**: In this model, you are independently recording what you and your internal colleagues know of the civic data players and the relationships among them. This approach may work well for you if you are deciding whether or not to become involved in community data conversations. You will obtain some understanding about the civic data space and where the library might fit in. Make sure you are prepared to revise your ecosystem map as you learn more!
 
-**Organic/Snowball**: This approach differs from the top-down method in that while you are doing this inventory independently, you are gathering information from other players in the ecosystem. Ask a person or organization:who do you get data from? who gets data from you? what is your relationship with civic data?Find the people or organizations they reference and go along the chain\(s\) asking the same questions. This approach is useful if you don’t yet know the scope of your ecosystem but need an entry point. As an example, the [Alamo Regional Data Alliance](http://cinow.info/data-planning/) decided to crowdsource their ecosystem mapping, drawing from their members and others in the community.
+**Organic/Snowball**: This approach differs from the top-down method in that while you are doing this inventory independently, you are gathering information from other players in the ecosystem. Ask a person or organization: who do you get data from? who gets data from you? what is your relationship with civic data? Find the people or organizations they reference and go along the chain(s) asking the same questions. This approach is useful if you don’t yet know the scope of your ecosystem but need an entry point. As an example, the [Alamo Regional Data Alliance](http://cinow.info/data-planning/) decided to crowdsource their ecosystem mapping, drawing from their members and others in the community.
 
-**Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in [Pittsburgh](https://civic-switchboard.github.io/updates/post_4)!
+**Community Building/Convening**: Bringing together a group of local civic data players to do the environmental scan collaboratively. Here the goal is not only the ecosystem map as an artifact, but the strengthening of the ecosystem relationships in real time through the research and decision making process. This is how we did it in [Pittsburgh](https://civic-switchboard.github.io/updates/post\_4)!
 
 ## Interpreting the Mapping
 
@@ -62,21 +62,19 @@ Network analysis is a science all its own - and perhaps through this work you wi
 
 **Network density**: Density is the measure of how many connections are present in your network divided by the total number of possible connections. In a dense network, ideas or news may spread more quickly than in a less dense one.
 
-**Centrality**: Looking at centrality means identifying people \(or organizations\) within the network that are particularly important to the network. “Importance” can have different meanings in different scenarios, so there are multiple types of centrality measures, but regardless a central person is likely to have a high level of influence.
+**Centrality**: Looking at centrality means identifying people (or organizations) within the network that are particularly important to the network. “Importance” can have different meanings in different scenarios, so there are multiple types of centrality measures, but regardless a central person is likely to have a high level of influence.
 
-**Bridges**: If a single person connects two otherwise separate pieces of your network, they are serving as a bridge in that network and connecting otherwise unconnected sets of people. If that person were to leave your network \(for example, if they moved to another city\) they would leave a hole in the network. Another way to think about bridges would be to look for disconnected pieces of your network and think about whether you or another entity might broker relationships between them.
+**Bridges**: If a single person connects two otherwise separate pieces of your network, they are serving as a bridge in that network and connecting otherwise unconnected sets of people. If that person were to leave your network (for example, if they moved to another city) they would leave a hole in the network. Another way to think about bridges would be to look for disconnected pieces of your network and think about whether you or another entity might broker relationships between them.
 
 If you color code your visualization, it might also reveal gaps in certain sectors - do you have a robust network of partners all relying on a single core funder to support their work? Are there opportunities to diversify funding for civic data using the network diagram as evidence of how many organizations and projects can be impacted?
 
-An interpretation of an ecosystem map should involve a thoughtful, collaborative review of gaps and opportunities. Although it may not be easily apparent from network diagram, you should also consider whether your ecosystem seems to be serving a specific subset of your community: are diverse perspectives represented? If not, this should be addressed. Perhaps your civic data community is less inclusive than it could be, perhaps the definition of a “data organization” needs to be broadened to recognize the types of data work that matter to different communities. Or perhaps your ecosystem mapping team simply isn’t aware of the totality of the ecosystem and the map itself \(not the ecosystem\) is what needs to be improved.
+An interpretation of an ecosystem map should involve a thoughtful, collaborative review of gaps and opportunities. Although it may not be easily apparent from network diagram, you should also consider whether your ecosystem seems to be serving a specific subset of your community: are diverse perspectives represented? If not, this should be addressed. Perhaps your civic data community is less inclusive than it could be, perhaps the definition of a “data organization” needs to be broadened to recognize the types of data work that matter to different communities. Or perhaps your ecosystem mapping team simply isn’t aware of the totality of the ecosystem and the map itself (not the ecosystem) is what needs to be improved.
 
-Feel free to also apply other organizational tools to your ecosystem map and see how it goes. For example, many organizations use the SWOT \(Strengths, Opportunities, Weaknesses, Threats\) model to evaluate current conditions.
+Feel free to also apply other organizational tools to your ecosystem map and see how it goes. For example, many organizations use the SWOT (Strengths, Opportunities, Weaknesses, Threats) model to evaluate current conditions.
 
 {% hint style="info" %}
-A series of prompts \(developed for the  the Civic Switchboard workshop\) to use when looking at an ecosystem map created by someone else 
+A series of prompts (developed for the  the Civic Switchboard workshop) to use when looking at an ecosystem map created by someone else&#x20;
 
-[Exploring Other Ecosystem Maps](https://github.com/civic-switchboard/guide/blob/master/toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
+[Exploring Other Ecosystem Maps](../toolkit/Exploring%20Other%20Ecosystem%20Maps.pdf)
 {% endhint %}
-
-
 
