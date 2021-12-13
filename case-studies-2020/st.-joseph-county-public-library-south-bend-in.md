@@ -4,7 +4,7 @@ description: Building Civic Data Community Partnerships
 
 # St. Joseph County Public Library, South Bend, IN
 
-**Partner organizations:**  City of Spokane, Eastern Washington University
+**Partner organizations:** City of South Bend, University of Notre Dame, Enfocus inc.
 
 **Library roles played:** [Connecting data users](../library-roles/connecting-data-users.md), [Connecting data producers](../library-roles/connecting-data-producers.md), [Developing civic data literacy](../library-roles/developing-civic-data-literacy.md)
 
