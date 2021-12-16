@@ -30,6 +30,8 @@ We invited 41 people total and allowed participants to choose which date they pr
 
 The forum was initially focused on three tracks related to criminal justice data: Research, Outcomes and Dissemination. Once we moved to two forums, our keynote speakers chose a track to highlight and that was the theme of the active learning sessions. Youth organizer Destiny Harris spoke to Research, as her organization #NoCopAcademy conducted its own citizen data collection to find out how much police interaction residents wanted in the neighborhood. Former incarcerated organizer Monica Cosby discussed her lived experience (Outcomes) as a data point in the system, and the abolitionist framework she uses to advocate on behalf of incarcerated mothers as a staff member at the Westside Justice Center.
 
+> ## What’s been collected is incomplete and lacking standardization in terms of how it is collected, from whom, how it is shared, and what the outcomes are of that dissemination.
+
 The biggest outcome of our discussions was the fact that most criminal justice data is also siloed from other data. What’s been collected is incomplete and lacking standardization in terms of how it is collected, from whom, how it is shared, and what the outcomes are of that dissemination.
 
 While we discussed plans for a potential second event, CDS Director Stacie Williams took a new job at the end of 2020--pausing plans to continue the work as it was originally conceptualized at the University of Chicago.

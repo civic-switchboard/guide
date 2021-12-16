@@ -23,6 +23,8 @@ In the initial months, we focused on networking among various groups producing a
 \
 The open data publication part of our project is inextricably linked to the city’s efforts to centralize data collection in a data lake. This master data management project parallels our open data goals somewhat but is also a huge undertaking. Working out some really important things like governance, privacy, and use have been great to be involved with but have slowed down our data publication. We have thought through the implications of data and what we want in our community much more conscientiously than if we could have just raced forward.&#x20;
 
+> ## Being involved with the larger data management plan has helped us work out the Library’s role and has kept us at the table in data discussions
+
 Being involved with the larger data management plan has helped us work out the Library’s role and has kept us at the table in data discussions. Within the city our presence and reminders about data ethics and community care have influenced the overall arc of the MDM in positive ways. We are very optimistic that the activities and partnerships that we have built this year will help sustain the library’s role in open data initiatives in the future. We have ended up pursuing a lot of smaller data projects as needs have arisen due to the pandemic. For example, we worked with the City and Spokane Public Schools to understand and visualize technology inequity and come up with solutions for students in need.&#x20;
 
 These web maps can be found at: https://spokanelibrary.maps.arcgis.com/.&#x20;
