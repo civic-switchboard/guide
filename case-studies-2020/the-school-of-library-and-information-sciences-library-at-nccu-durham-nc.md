@@ -27,6 +27,8 @@ The Library School was active in organizing the events, conducting research, and
 
 It was a challenge to evaluate the experiences of volunteers transcribing and interacting with sensitive data. Our team met to discuss our experience in transcribing racial covenants. Each member expressed emotional effects of reading the restrictive language in property deed that made it forbidden for occupants from selling, giving, or allowing people of African descent from living or working on property. A local community activist, led our group at our Civic Engagement Events through a guided visualization exercise where participants were able to be in a “Safe Space” to examine the emotions that emerged from working with the property deeds.&#x20;
 
+> Feedback from one member after an event: _".... the \[event] held today was so powerful - reading the hateful language embedded into so many documents, talking about them with other community members, thinking & learning together."_&#x20;
+
 Feedback from one member after an event: _".... the \[event] held today was so powerful - reading the hateful language embedded into so many documents, talking about them with other community members, thinking & learning together."_&#x20;
 
 Having a technically and professionally diverse group allowed for a tremendous range of perspectives to be considered in the creation of the public facing elements of the project which only strengthened the product. A number of the organizations represented on the project team already had strong organizing ties within communities in Durham from previous engagement on issues ranging from public health equity to citizen satisfaction. Project partners had worked together previously which helped lay the groundwork for portions of this project.&#x20;
