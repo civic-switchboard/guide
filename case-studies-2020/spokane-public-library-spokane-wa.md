@@ -27,10 +27,14 @@ The open data publication part of our project is inextricably linked to the city
 
 Being involved with the larger data management plan has helped us work out the Library’s role and has kept us at the table in data discussions. Within the city our presence and reminders about data ethics and community care have influenced the overall arc of the MDM in positive ways. We are very optimistic that the activities and partnerships that we have built this year will help sustain the library’s role in open data initiatives in the future. We have ended up pursuing a lot of smaller data projects as needs have arisen due to the pandemic. For example, we worked with the City and Spokane Public Schools to understand and visualize technology inequity and come up with solutions for students in need.&#x20;
 
-These web maps can be found at: https://spokanelibrary.maps.arcgis.com/.&#x20;
+These web maps can be found at: [https://spokanelibrary.maps.arcgis.com/](https://spokanelibrary.maps.arcgis.com).&#x20;
 
 We also revamped our performance measure reporting for the Library.&#x20;
 
-This can be found at: https://storymaps.arcgis.com/stories/80c3ebeb09c24fe5821f67630be20b89&#x20;
+This can be found at: [https://storymaps.arcgis.com/stories/80c3ebeb09c24fe5821f67630be20b89](https://storymaps.arcgis.com/stories/80c3ebeb09c24fe5821f67630be20b89)&#x20;
 
 One surprising thing that this project has shown us is the importance of being able to provide services and skills. The library has a unique culture, knowledge of curation, and capacity for programming that makes it really suited for leadership in open data projects. While it is not always easy to straddle the line between the Library and the City, it also provides some great opportunities for both organizations to do what they do best. Due to the pandemic, we have not really planned or conducted any good community engagement and education programs. We have been able to do a lot behind the scenes instead, which has set us up to hit the ground running on community focused open data projects in the future.
+
+**Project Team**&#x20;
+
+* **Shiloh Deitz**, Community Data Coordinator, The Spokane Public Library
