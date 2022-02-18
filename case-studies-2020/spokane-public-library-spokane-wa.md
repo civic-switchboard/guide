@@ -14,6 +14,8 @@ description: Grounding Open Data in a People-Centered Ecosystem
 
 Our project was a partnership between the Spokane Public Library, Eastern Washington University, and the City of Spokane. The interrelated goals of our project were to understand our local data ecosystem and publish open data. There are various efforts in Spokane surrounding open data and these are largely siloed. We worked to connect these various groups and consider how we could all work collaboratively.&#x20;
 
+![Community Data support page on Spokane Public Library Website](../.gitbook/assets/SPL\_website\_community\_data.jpg)
+
 The Public Library's role in Spokane is unique because the Community Data Coordinator position is shared between the City and Library. Based on our shared interests in Open Data, the position grew out of our hopes to maximize resources and coordinate efforts. Particularly, we both hoped to leverage the Library's role in the community to be a connector between city data and the community consumers. We share the funding of the position, but it is a Library position. We collaborate on goals and objectives. Our project's main activities have been to bring together data producers and users.&#x20;
 
 Currently, these have been mostly larger organizations (e.g., city, schools, health department, university). We have also worked to get a sense of the various roles that are already being filled and where the gaps are (ecosystem mapping). The Library has been tasked with taking the lead on open data publication which has led to larger discussions about ethical and responsible data use.&#x20;
