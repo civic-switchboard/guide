@@ -27,6 +27,8 @@ The Library School organized workshops, conducted research, and created and test
 
 Feedback from one member after an event: _".... the \[event] held today was so powerful - reading the hateful language embedded into so many documents, talking about them with other community members, thinking & learning together."_  Having a technically and professionally diverse group allowed for a tremendous range of perspectives to be considered in the creation of the public facing elements of the project which only strengthened the product. A number of the organizations represented on the project team already had strong organizing ties within communities in Durham from previous engagement on issues ranging from public health equity to citizen satisfaction. Project partners had worked together previously which helped lay the groundwork for portions of this project.
 
+![ Hacking into History Project team, Photo courtesy of https://hackingintohistory.com](<../.gitbook/assets/Screen Shot 2022-02-18 at 11.11.50 AM.png>)
+
 Our project demonstrates that libraries can serve as a central organizational hub for working with different local entities on engagement with public records information that demonstrate histories. It provides an example for other communities and cities that want to support the work of more equitable housing practices and the aims of housing justice overall. Moving forward, we are well-prepared to accomplish the following activities:
 
 * Community outreach to groups interested in housing justice
